@@ -316,7 +316,7 @@ function renderTable(stocks) {
       </div></td>
       <td class="company-name">${s.name}</td>
       <td class="col-num">${fmtPrice(s.price)}</td>
-      <td class="col-num ${ch.cls}">${ch.text}</td>
+      <td class="col-num"><span class="pct-pill ${ch.cls}">${ch.text}</span></td>
       <td class="col-num">${fmtCap(s.market_cap)}</td>
       <td class="col-num">${fmtYield(s.dividend_yield)}</td>
       <td class="col-range">${rangeBar(s)}</td>
