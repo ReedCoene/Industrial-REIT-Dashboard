@@ -96,7 +96,7 @@ def fetch_prices() -> dict:
                 "prev_close":          round(prev, 2),
                 "pct_change":          round(pct, 2),
                 "market_cap":          info.get("marketCap") or 0,
-                "dividend_yield":      round((info.get("dividendYield") or 0) * 100, 2),
+                "dividend_yield":      round(min((lambda y: y if y > 1 else y * 100)((info.get("dividendYield") or 0)), 30), 2),
                 "fifty_two_week_high": info.get("fiftyTwoWeekHigh") or 0,
                 "fifty_two_week_low":  info.get("fiftyTwoWeekLow") or 0,
             }
