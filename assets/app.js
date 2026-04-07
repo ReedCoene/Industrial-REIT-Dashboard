@@ -209,6 +209,7 @@ function renderSectorSummary(data) {
 // ── CTRE Tab ─────────────────────────────────────────────────
 function renderFocus(data) {
   const s  = data.stocks['TRNO'];
+  if (!s) { document.getElementById('focusHero').innerHTML = '<p class="empty-msg">No data yet — workflow hasn\'t run yet.</p>'; return; }
   const cd = data.focus_details || {};
   const { text, cls } = fmtChange(s.pct_change);
 
@@ -601,6 +602,10 @@ async function init() {
         month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'short'
       });
 
+    if (!data.stocks || !Object.keys(data.stocks).length) {
+      document.getElementById('lastUpdated').textContent = 'No data yet — workflow runs at 5:30 PM ET weekdays.';
+      return;
+    }
     renderAlert(data.stocks);
     renderBrief(data);
 
