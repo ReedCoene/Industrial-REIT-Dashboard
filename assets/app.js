@@ -101,7 +101,7 @@ function renderFocusSummary(data) {
   const items = [];
 
   // Price action
-  items.push({ html: `CTRE <span class="${cls}">${text}</span> to ${fmtPrice(s.price)} today` });
+  items.push({ html: `TRNO <span class="${cls}">${text}</span> to ${fmtPrice(s.price)} today` });
 
   // Most recent CTRE signal
   const ctreSignals = (data.news || []).filter(n => n.ticker === 'TRNO' && n.is_signal);
