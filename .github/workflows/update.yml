@@ -2,17 +2,15 @@ name: Update Market Data
 
 on:
   schedule:
-    # 9:30 PM UTC = ~4:30 PM EST / 5:30 PM EDT  (Mon–Fri after market close)
     - cron: '30 21 * * 1-5'
-  workflow_dispatch:  # allows manual "Run workflow" button in GitHub UI
+  workflow_dispatch:
 
 permissions:
-  contents: write  # needed to commit data/market_data.json back to repo
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4

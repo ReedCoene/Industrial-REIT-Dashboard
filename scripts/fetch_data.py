@@ -1,5 +1,5 @@
 """
-Healthcare REIT Dashboard — Daily Data Fetcher
+Industrial REIT Dashboard — Daily Data Fetcher
 Runs via GitHub Actions after market close Mon–Fri.
 Writes data/market_data.json for the static site to consume.
 """
@@ -13,57 +13,51 @@ import feedparser
 import requests
 import yfinance as yf
 
-NEWS_API_KEY = os.environ.get("NEWS_API_KEY")  # set as GitHub Actions secret
+NEWS_API_KEY = os.environ.get("NEWS_API_KEY")
 
 # ── Coverage universe ─────────────────────────────────────────
 REITS = {
-    # Large-cap
-    "WELL":  "Welltower",
-    "VTR":   "Ventas",
-    "DOC":   "Healthpeak Properties",
-    "AHR":   "American Healthcare REIT",
-    "ARE":   "Alexandria Real Estate Equities",
-    # Mid-cap
-    "CTRE":  "CareTrust REIT",
-    "HR":    "Healthcare Realty Trust",
-    "SBRA":  "Sabra Health Care REIT",
-    "JAN":   "Janus Living",
-    "NHI":   "National Health Investors",
-    "OHI":   "Omega Healthcare Investors",
-    # Small-cap
-    "LTC":   "LTC Properties",
-    "DHC":   "Diversified Healthcare Trust",
-    "SILA":  "Sila Realty Trust",
-    "MPW":   "Medical Properties Trust",
-    "CHCT":  "Community Healthcare Trust",
-    "UHT":   "Universal Health Realty",
+    # Large-cap industrial
+    "PLD":  "Prologis",
+    "EGP":  "EastGroup Properties",
+    "FR":   "First Industrial Realty Trust",
+    "REXR": "Rexford Industrial",
+    # Mid-cap industrial
+    "STAG": "STAG Industrial",
+    "LXP":  "LXP Industrial Trust",
+    "COLD": "Americold Realty Trust",
+    # Focus
+    "TRNO": "Terreno Realty",
+    # Specialty / small-cap
+    "IIPR": "Innovative Industrial Properties",
+    "PLYM": "Plymouth Industrial REIT",
+    "ILPT": "Industrial Logistics Properties Trust",
+    "MDV":  "Modiv Industrial",
 }
 
-# ── Broad healthcare news RSS feeds ──────────────────────────
+# ── Broad industrial / logistics RSS feeds ────────────────────
 BROAD_FEEDS = [
-    {"source": "Reuters Health",       "url": "https://feeds.reuters.com/reuters/healthNews",                    "category": "broad"},
-    {"source": "Becker's Hospital",    "url": "https://www.beckershospitalreview.com/rss/articles",              "category": "broad"},
-    {"source": "Skilled Nursing News", "url": "https://skillednursingnews.com/feed/",                            "category": "sector"},
-    {"source": "McKnight's Senior",    "url": "https://www.mcknightsseniorliving.com/feed/",                     "category": "sector"},
-    {"source": "Modern Healthcare",    "url": "https://www.modernhealthcare.com/section/rss",                    "category": "broad"},
-    {"source": "STAT News",            "url": "https://www.statnews.com/feed/",                                  "category": "broad"},
-    {"source": "CMS Newsroom",         "url": "https://www.cms.gov/newsroom/rss",                                "category": "broad"},
-    {"source": "Nareit",               "url": "https://www.reit.com/rss.xml",                                    "category": "sector"},
-    {"source": "MarketWatch Health",   "url": "https://feeds.content.dowjones.io/public/rss/mw_healthcare",     "category": "broad"},
-    {"source": "MarketWatch RE",       "url": "https://feeds.content.dowjones.io/public/rss/mw_realestate",     "category": "broad"},
+    {"source": "GlobeSt Industrial",  "url": "https://www.globest.com/category/industrial/feed/",         "category": "sector"},
+    {"source": "Supply Chain Dive",   "url": "https://www.supplychaindive.com/feeds/news/",               "category": "sector"},
+    {"source": "DC Velocity",         "url": "https://www.dcvelocity.com/rss/",                           "category": "sector"},
+    {"source": "Freight Waves",       "url": "https://www.freightwaves.com/news/feed",                    "category": "sector"},
+    {"source": "Nareit",              "url": "https://www.reit.com/rss.xml",                              "category": "broad"},
+    {"source": "MarketWatch RE",      "url": "https://feeds.content.dowjones.io/public/rss/mw_realestate","category": "broad"},
+    {"source": "The Real Deal",       "url": "https://therealdeal.com/feed/",                             "category": "broad"},
+    {"source": "The Loadstar",        "url": "https://theloadstar.com/feed/",                             "category": "sector"},
 ]
 
-# Keywords that flag a news item as a meaningful signal
 SIGNAL_KEYWORDS = [
     "earnings", "ffo", "dividend", "acquisition", "merger", "guidance",
     "upgrade", "downgrade", "price target", "initiates", "raises", "cuts",
-    "cms", "medicare", "medicaid", "occupancy", "beat", "miss",
-    "offering", "investment", "tenant", "operator", "rating", "coverage",
-    "quarter", "annual", "outlook", "forecast", "staffing", "reimbursement",
+    "occupancy", "beat", "miss", "offering", "investment", "tenant",
+    "rating", "coverage", "quarter", "annual", "outlook", "forecast",
+    "leasing", "vacancy", "cap rate", "noi", "same-store",
+    "supply chain", "e-commerce", "logistics", "warehouse", "tariff",
+    "reshoring", "nearshoring", "last-mile", "rent growth",
 ]
 
 
-# ── Price fetch ───────────────────────────────────────────────
 def fetch_prices() -> dict:
     results = {}
     try:
@@ -79,16 +73,19 @@ def fetch_prices() -> dict:
             hist  = stock.history(period="5d").dropna(subset=["Close"])
 
             if len(hist) >= 2:
-                prev  = float(hist["Close"].iloc[-2])
-                curr  = float(hist["Close"].iloc[-1])
+                prev = float(hist["Close"].iloc[-2])
+                curr = float(hist["Close"].iloc[-1])
             elif len(hist) == 1:
-                curr  = float(hist["Close"].iloc[-1])
-                prev  = curr
+                curr = float(hist["Close"].iloc[-1])
+                prev = curr
             else:
                 print(f"  No history: {ticker}", file=sys.stderr)
                 continue
 
             pct = ((curr - prev) / prev * 100) if prev else 0
+            raw_yield = info.get("dividendYield") or 0
+            div_yield = round(min(raw_yield if raw_yield > 1 else raw_yield * 100, 30), 2)
+
             results[ticker] = {
                 "name":                name,
                 "ticker":              ticker,
@@ -96,7 +93,7 @@ def fetch_prices() -> dict:
                 "prev_close":          round(prev, 2),
                 "pct_change":          round(pct, 2),
                 "market_cap":          info.get("marketCap") or 0,
-                "dividend_yield":      round(min((lambda y: y if y > 1 else y * 100)((info.get("dividendYield") or 0)), 30), 2),
+                "dividend_yield":      div_yield,
                 "fifty_two_week_high": info.get("fiftyTwoWeekHigh") or 0,
                 "fifty_two_week_low":  info.get("fiftyTwoWeekLow") or 0,
             }
@@ -107,7 +104,6 @@ def fetch_prices() -> dict:
     return results
 
 
-# ── REIT-specific news (Yahoo Finance RSS per ticker) ─────────
 def fetch_reit_news() -> list:
     items = []
     for ticker, name in REITS.items():
@@ -132,7 +128,6 @@ def fetch_reit_news() -> list:
     return items
 
 
-# ── Broad healthcare news (industry RSS feeds) ────────────────
 def fetch_broad_news() -> list:
     items = []
     for feed_cfg in BROAD_FEEDS:
@@ -157,7 +152,6 @@ def fetch_broad_news() -> list:
     return items
 
 
-# ── Tag signals ───────────────────────────────────────────────
 def tag_signals(items: list) -> list:
     for item in items:
         text = (item["title"] + " " + item.get("summary", "")).lower()
@@ -165,77 +159,61 @@ def tag_signals(items: list) -> list:
     return items
 
 
-# ── NewsAPI (WSJ, Bloomberg, Reuters by keyword) ─────────────
 def fetch_newsapi() -> list:
     if not NEWS_API_KEY:
-        print("  NEWS_API_KEY not set — skipping WSJ/Bloomberg pull")
+        print("  NEWS_API_KEY not set — skipping NewsAPI pull")
         return []
 
-    # Queries are already healthcare-scoped; secondary filter below
-    # catches any stray off-topic articles that slip through
     queries = [
-        "healthcare REIT skilled nursing",
-        "senior housing real estate investment",
-        "CMS Medicare Medicaid skilled nursing facility",
-        "CareTrust REIT OR Omega Healthcare OR Welltower OR Ventas",
+        "industrial REIT logistics warehouse real estate",
+        "supply chain e-commerce warehouse demand",
+        "Prologis OR Terreno OR STAG Industrial OR Rexford",
     ]
 
-    # Article must contain at least one of these to be kept
-    HEALTHCARE_TERMS = [
-        "health", "hospital", "medical", "medicare", "medicaid", "nursing",
-        "senior", "patient", "clinical", "pharma", "biotech", "drug", "therapy",
-        "care", "reit", "assisted living", "post-acute", "cms", "fda", "insurance",
-        "physician", "provider", "wellness", "aging", "dementia", "alzheimer",
+    INDUSTRIAL_TERMS = [
+        "industrial", "logistics", "warehouse", "distribution", "reit",
+        "supply chain", "e-commerce", "fulfillment", "freight", "shipping",
+        "manufacturing", "reshoring", "nearshoring", "last-mile", "pallet",
+        "vacancy", "occupancy", "lease", "cap rate",
     ]
 
-    def is_healthcare_relevant(art: dict) -> bool:
+    def is_relevant(art):
         text = ((art.get("title") or "") + " " + (art.get("description") or "")).lower()
-        return any(term in text for term in HEALTHCARE_TERMS)
+        return any(t in text for t in INDUSTRIAL_TERMS)
 
     items = []
     seen  = set()
-
     for q in queries:
         try:
             resp = requests.get(
                 "https://newsapi.org/v2/everything",
-                params={
-                    "q":        q,
-                    "language": "en",
-                    "sortBy":   "publishedAt",
-                    "pageSize": 10,
-                    "apiKey":   NEWS_API_KEY,
-                },
+                params={"q": q, "language": "en", "sortBy": "publishedAt", "pageSize": 10, "apiKey": NEWS_API_KEY},
                 timeout=10,
             )
             resp.raise_for_status()
             for art in resp.json().get("articles", []):
                 url = art.get("url", "")
-                if url in seen or not is_healthcare_relevant(art):
+                if url in seen or not is_relevant(art):
                     continue
                 seen.add(url)
-                source_name = art.get("source", {}).get("name", "News")
                 items.append({
-                    "ticker":    None,
-                    "company":   None,
-                    "source":    source_name,
-                    "category":  "broad",
-                    "title":     (art.get("title") or "").strip(),
-                    "link":      url,
+                    "ticker": None, "company": None,
+                    "source": art.get("source", {}).get("name", "News"),
+                    "category": "broad",
+                    "title": (art.get("title") or "").strip(),
+                    "link": url,
                     "published": art.get("publishedAt", ""),
-                    "summary":   (art.get("description") or "")[:300],
+                    "summary": (art.get("description") or "")[:300],
                     "is_signal": False,
                 })
         except Exception as e:
-            print(f"  NewsAPI ERROR ({q[:30]}…): {e}", file=sys.stderr)
+            print(f"  NewsAPI ERROR: {e}", file=sys.stderr)
 
-    print(f"  NewsAPI: {len(items)} articles across {len(queries)} queries")
+    print(f"  NewsAPI: {len(items)} articles")
     return items
 
 
-# ── Weekly Report (generated on Sundays) ─────────────────────
 def generate_weekly_report(all_news: list) -> dict:
-    """Fetch 5-day price history and build end-of-week recap."""
     from datetime import timedelta
 
     weekly_movers = []
@@ -246,38 +224,27 @@ def generate_weekly_report(all_news: list) -> dict:
                 start = float(hist["Close"].iloc[0])
                 end   = float(hist["Close"].iloc[-1])
                 wpct  = ((end - start) / start * 100) if start else 0
-                weekly_movers.append({
-                    "ticker":     ticker,
-                    "name":       name,
-                    "price":      round(end, 2),
-                    "weekly_pct": round(wpct, 2),
-                })
+                weekly_movers.append({"ticker": ticker, "name": name, "price": round(end, 2), "weekly_pct": round(wpct, 2)})
         except Exception as e:
-            print(f"  Weekly history ERROR {ticker}: {e}", file=sys.stderr)
+            print(f"  Weekly ERROR {ticker}: {e}", file=sys.stderr)
 
     weekly_movers.sort(key=lambda x: x["weekly_pct"], reverse=True)
-
     one_week_ago = datetime.now(timezone.utc) - timedelta(days=7)
 
-    key_signals = []
+    key_signals, broad_highlights = [], []
     for item in all_news:
-        if item.get("is_signal") and item.get("ticker"):
-            try:
-                pub = datetime.fromisoformat(item["published"].replace("Z", "+00:00"))
-                if pub >= one_week_ago:
-                    key_signals.append(f"{item['ticker']}: {item['title']}")
-            except Exception:
-                pass
-
-    broad_highlights = []
-    for item in all_news:
-        if item.get("is_signal") and item.get("category") in ("broad", "sector"):
-            try:
-                pub = datetime.fromisoformat(item["published"].replace("Z", "+00:00"))
-                if pub >= one_week_ago:
-                    broad_highlights.append(item["title"])
-            except Exception:
-                pass
+        if not item.get("is_signal"):
+            continue
+        try:
+            pub = datetime.fromisoformat(item["published"].replace("Z", "+00:00"))
+        except Exception:
+            continue
+        if pub < one_week_ago:
+            continue
+        if item.get("ticker"):
+            key_signals.append(f"{item['ticker']}: {item['title']}")
+        elif item.get("category") in ("broad", "sector"):
+            broad_highlights.append(item["title"])
 
     advancing = sum(1 for m in weekly_movers if m["weekly_pct"] > 0)
     declining = sum(1 for m in weekly_movers if m["weekly_pct"] < 0)
@@ -295,31 +262,29 @@ def generate_weekly_report(all_news: list) -> dict:
     }
 
 
-# ── CTRE static details (update manually each quarter) ───────
-CTRE_DETAILS = {
+FOCUS_DETAILS = {
+    "ticker": "TRNO",
+    "name":   "Terreno Realty",
+    "exchange": "NYSE",
     "key_dates": [
-        {"event": "Dividend Payment",  "date": "April 15, 2026",        "note": "$0.39/share — 16.4% hike vs prior quarter"},
-        {"event": "Annual Meeting",    "date": "April 29, 2026",         "note": "Director elections, Deloitte auditor ratification"},
-        {"event": "Q1 2026 Earnings",  "date": "Est. early May 2026",    "note": "Watch: deployment pace, FAD/FFO guidance"},
+        {"event": "Next Earnings",  "date": "TBD", "note": "Update with confirmed date"},
+        {"event": "Dividend",       "date": "TBD", "note": "Update with ex-dividend date"},
     ],
     "analyst_coverage": [
-        {"firm": "Mizuho",    "rating": "Outperform", "target": 42, "date": "Apr 2026"},
-        {"firm": "JPMorgan",  "rating": "Overweight",  "target": 40, "date": "Mar 2026"},
+        {"firm": "TBD", "rating": "Buy", "target": 0, "date": "2026"},
     ],
     "thesis_points": [
-        "Aggressive capital deployer — $1.8B+ invested in 2025, $142M deal announced in early 2026",
-        "16% dividend hike signals management confidence in pipeline accretion and cash flow visibility",
-        "Pure-play SNF/AL focus benefits from CMS 3.2% net rate increase (FY2026) and rising occupancy (~79% → 81%)",
-        "SNF staffing mandate rollback removes a major structural headwind for operators",
-        "Mizuho Outperform initiation ($42 PT) expands analyst coverage and adds buy-side visibility",
-        "Risks: capital deployment pace slowing, Medicare Advantage expansion pressuring operator margins, interest rate sensitivity",
+        "Concentrated coastal infill strategy — LA, NY, SF, Seattle, Miami, DC — where land supply is structurally constrained",
+        "100% industrial focus on last-mile / urban logistics, capturing e-commerce and reshoring tailwinds",
+        "No development risk: TRNO is a pure acquirer, avoiding construction cost overruns and lease-up uncertainty",
+        "Historically high occupancy (98%+) driven by irreplaceable locations and limited competing supply",
+        "Risks: tariff-driven freight slowdown, e-commerce normalization, rising coastal cap rates",
     ],
 }
 
 
-# ── Main ──────────────────────────────────────────────────────
 def main():
-    print("=== Healthcare REIT Dashboard Data Fetch ===")
+    print("=== Industrial REIT Dashboard Data Fetch ===")
     print(f"Run time: {datetime.now(timezone.utc).isoformat()}\n")
 
     print("Fetching prices...")
@@ -331,30 +296,25 @@ def main():
     print("\nFetching REIT news...")
     reit_news = fetch_reit_news()
 
-    print("\nFetching broad healthcare news...")
+    print("\nFetching broad industrial news...")
     broad_news = fetch_broad_news()
 
-    print("\nFetching NewsAPI (WSJ/Bloomberg)...")
+    print("\nFetching NewsAPI...")
     api_news = fetch_newsapi()
 
     all_news = tag_signals(reit_news + broad_news + api_news)
-
     sorted_stocks = sorted(stocks.values(), key=lambda s: s["pct_change"], reverse=True)
 
-    # Weekly report: regenerate on Sundays, preserve existing on other days
     is_sunday = datetime.now().weekday() == 6
     weekly_report = None
     if is_sunday:
         print("\nGenerating weekly report (Sunday)...")
         weekly_report = generate_weekly_report(all_news)
-        print(f"  Weekly report: {weekly_report['advancing']} advancing / {weekly_report['declining']} declining")
     else:
         out_path = os.path.join(os.path.dirname(__file__), "..", "data", "market_data.json")
         try:
             with open(out_path, "r") as f:
                 weekly_report = json.load(f).get("weekly_report")
-            if weekly_report:
-                print(f"\nPreserving existing weekly report (week ending {weekly_report.get('week_ending', '?')})")
         except Exception:
             pass
 
@@ -366,7 +326,7 @@ def main():
         "top_losers":    sorted_stocks[-3:],
         "news":          all_news,
         "weekly_report": weekly_report,
-        "ctre_details":  CTRE_DETAILS,
+        "focus_details": FOCUS_DETAILS,
     }
 
     out = os.path.join(os.path.dirname(__file__), "..", "data", "market_data.json")
@@ -375,8 +335,7 @@ def main():
         json.dump(payload, f, indent=2)
 
     signals = sum(1 for n in all_news if n["is_signal"])
-    print(f"\nDone. {len(stocks)} stocks | {len(reit_news)} REIT news | "
-          f"{len(broad_news)} industry news | {len(api_news)} NewsAPI | {signals} signals")
+    print(f"\nDone. {len(stocks)} stocks | {len(all_news)} total news | {signals} signals")
 
 
 if __name__ == "__main__":

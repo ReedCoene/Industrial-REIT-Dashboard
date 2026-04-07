@@ -10,7 +10,7 @@ function initTheme() {
 initTheme();
 
 // ── Config ───────────────────────────────────────────────────
-const TRACKED  = new Set(['CTRE']);
+const TRACKED  = new Set(['TRNO']);
 const BIG_MOVE = 2.5;
 
 // ── Formatters ───────────────────────────────────────────────
@@ -94,9 +94,9 @@ function summaryBox(title, date, items, accentColor) {
 }
 
 // ── CTRE: Daily Summary ───────────────────────────────────────
-function renderCTRESummary(data) {
-  const s   = data.stocks['CTRE'];
-  const cd  = data.ctre_details || {};
+function renderFocusSummary(data) {
+  const s   = data.stocks['TRNO'];
+  const cd  = data.focus_details || {};
   const { text, cls } = fmtChange(s.pct_change);
   const items = [];
 
@@ -104,7 +104,7 @@ function renderCTRESummary(data) {
   items.push({ html: `CTRE <span class="${cls}">${text}</span> to ${fmtPrice(s.price)} today` });
 
   // Most recent CTRE signal
-  const ctreSignals = (data.news || []).filter(n => n.ticker === 'CTRE' && n.is_signal);
+  const ctreSignals = (data.news || []).filter(n => n.ticker === 'TRNO' && n.is_signal);
   if (ctreSignals.length) {
     const n = ctreSignals[0];
     const link = n.link
@@ -130,7 +130,7 @@ function renderCTRESummary(data) {
     }
   }
 
-  document.getElementById('ctreSummary').innerHTML =
+  document.getElementById('focusSummary').innerHTML =
     summaryBox("Today's Summary", data.market_date || '—', items, 'var(--accent)');
 }
 
@@ -186,7 +186,7 @@ function renderREITsSummary(data) {
 }
 
 // ── Healthcare News: Daily Summary ───────────────────────────
-function renderHealthcareSummary(data) {
+function renderSectorSummary(data) {
   const broadNews = (data.news || []).filter(n => !n.ticker && n.category !== 'reit');
   const signals   = broadNews.filter(n => n.is_signal).slice(0, 3);
   const items     = [];
@@ -202,20 +202,20 @@ function renderHealthcareSummary(data) {
     });
   }
 
-  document.getElementById('healthcareSummary').innerHTML =
+  document.getElementById('sectorSummary').innerHTML =
     summaryBox("Today's Top Stories", data.market_date || '—', items, 'var(--purple)');
 }
 
 // ── CTRE Tab ─────────────────────────────────────────────────
-function renderCTRE(data) {
-  const s  = data.stocks['CTRE'];
-  const cd = data.ctre_details || {};
+function renderFocus(data) {
+  const s  = data.stocks['TRNO'];
+  const cd = data.focus_details || {};
   const { text, cls } = fmtChange(s.pct_change);
 
-  document.getElementById('ctreHero').innerHTML = `
+  document.getElementById('focusHero').innerHTML = `
     <div class="ctre-hero">
       <div class="ctre-hero-left">
-        <h2>CareTrust REIT &nbsp;&mdash;&nbsp; NYSE: CTRE</h2>
+        <h2>Terreno Realty &nbsp;&mdash;&nbsp; NYSE: TRNO</h2>
         <div class="ctre-price">${fmtPrice(s.price)}</div>
         <div class="ctre-change-pill ${cls}">${text} today</div>
       </div>
@@ -240,14 +240,14 @@ function renderCTRE(data) {
     </div>`;
 
   const points = cd.thesis_points || [];
-  document.getElementById('ctreThesis').innerHTML = `
+  document.getElementById('focusThesis').innerHTML = `
     <div class="panel">
       <h3>Investment Thesis</h3>
       <ul class="thesis-list">${points.map(p => `<li>${p}</li>`).join('')}</ul>
     </div>`;
 
   const dates = cd.key_dates || [];
-  document.getElementById('ctreDates').innerHTML = `
+  document.getElementById('focusDates').innerHTML = `
     <div class="panel">
       <h3>Key Dates</h3>
       <ul class="dates-list">${dates.map(d => `
@@ -259,7 +259,7 @@ function renderCTRE(data) {
     </div>`;
 
   const analysts = cd.analyst_coverage || [];
-  document.getElementById('ctreAnalysts').innerHTML = `
+  document.getElementById('focusAnalysts').innerHTML = `
     <div class="panel">
       <h3>Analyst Coverage</h3>
       <table class="analyst-table">
@@ -276,8 +276,8 @@ function renderCTRE(data) {
       </table>
     </div>`;
 
-  const ctreNews = (data.news || []).filter(n => n.ticker === 'CTRE');
-  const ctreEl   = document.getElementById('ctreNews');
+  const ctreNews = (data.news || []).filter(n => n.ticker === 'TRNO');
+  const ctreEl   = document.getElementById('focusNews');
   if (!ctreNews.length) { ctreEl.innerHTML = '<p class="empty-msg">No recent news.</p>'; return; }
   ctreEl.innerHTML = ctreNews.map(n => `
     <div class="news-card" style="margin-bottom:8px">
@@ -351,16 +351,16 @@ function attachTableSort() {
 }
 
 // ── Healthcare News Tab ───────────────────────────────────────
-let healthcareCat = 'all';
+let sectorCat = 'all';
 
-function renderHealthcareNewsTab(news) {
+function renderSectorNewsTab(news) {
   // Only non-REIT news
   let filtered = news.filter(n => !n.ticker && n.category !== 'reit');
-  if (healthcareCat === 'broad')  filtered = filtered.filter(n => n.category === 'broad');
-  if (healthcareCat === 'sector') filtered = filtered.filter(n => n.category === 'sector');
-  if (healthcareCat === 'signal') filtered = filtered.filter(n => n.is_signal);
+  if (sectorCat === 'broad')  filtered = filtered.filter(n => n.category === 'broad');
+  if (sectorCat === 'sector') filtered = filtered.filter(n => n.category === 'sector');
+  if (sectorCat === 'signal') filtered = filtered.filter(n => n.is_signal);
 
-  const el = document.getElementById('healthcareNewsGrid');
+  const el = document.getElementById('sectorNewsGrid');
   if (!filtered.length) { el.innerHTML = '<p class="empty-msg">No news for this filter.</p>'; return; }
 
   el.innerHTML = `<div class="news-grid-layout">` +
@@ -377,13 +377,13 @@ function renderHealthcareNewsTab(news) {
     }).join('') + `</div>`;
 }
 
-function initHealthcareCatFilters(news) {
-  document.querySelectorAll('#healthcareCatFilters .cat-btn').forEach(btn => {
+function initSectorCatFilters(news) {
+  document.querySelectorAll('#sectorCatFilters .cat-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('#healthcareCatFilters .cat-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('#sectorCatFilters .cat-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      healthcareCat = btn.dataset.hcat;
-      renderHealthcareNewsTab(news);
+      sectorCat = btn.dataset.hcat;
+      renderSectorNewsTab(news);
     });
   });
 }
@@ -458,7 +458,7 @@ function renderWeeklyReport(data) {
 
     ${wr.broad_highlights && wr.broad_highlights.length ? `
     <div class="section">
-      <div class="section-header"><h2>Healthcare &amp; Macro Highlights</h2></div>
+      <div class="section-header"><h2>Industrial &amp; Macro Highlights</h2></div>
       <div class="panel">
         <ul class="weekly-list">${signalList(wr.broad_highlights)}</ul>
       </div>
@@ -476,10 +476,10 @@ function renderBrief(data) {
   // Sentiment line
   const majority = advancing > declining ? 'up' : advancing < declining ? 'down' : 'flat';
   const sentimentText = majority === 'up'
-    ? `${advancing} of ${stocks.length} healthcare REITs advanced today`
+    ? `${advancing} of ${stocks.length} industrial REITs advanced today`
     : majority === 'down'
-    ? `${declining} of ${stocks.length} healthcare REITs declined today`
-    : `Healthcare REITs were mixed today`;
+    ? `${declining} of ${stocks.length} industrial REITs declined today`
+    : `Industrial REITs were mixed today`;
   const sentimentCls = majority === 'up' ? 'up' : majority === 'down' ? 'down' : 'flat';
 
   // Top movers (top 2 gainers + top loser if notable)
@@ -563,7 +563,7 @@ function renderBrief(data) {
 
         ${macro.length ? `
         <div class="brief-section">
-          <div class="brief-section-label">Healthcare &amp; Policy</div>
+          <div class="brief-section-label">Industrial &amp; Policy</div>
           <div class="brief-list">${macroItems}</div>
         </div>` : ''}
 
@@ -588,8 +588,8 @@ async function init() {
     renderBrief(data);
 
     // CTRE tab
-    renderCTRESummary(data);
-    renderCTRE(data);
+    renderFocusSummary(data);
+    renderFocus(data);
 
     // All REITs tab
     renderREITsSummary(data);
@@ -598,9 +598,9 @@ async function init() {
     attachTableSort();
 
     // Healthcare News tab
-    renderHealthcareSummary(data);
-    initHealthcareCatFilters(data.news || []);
-    renderHealthcareNewsTab(data.news || []);
+    renderSectorSummary(data);
+    initSectorCatFilters(data.news || []);
+    renderSectorNewsTab(data.news || []);
 
     // End of Week Report tab
     renderWeeklyReport(data);

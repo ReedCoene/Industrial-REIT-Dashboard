@@ -3,9 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Healthcare REIT Dashboard</title>
+  <title>Industrial REIT Dashboard</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="assets/style.css" />
 </head>
@@ -16,8 +15,8 @@
       <div class="header-left">
         <div class="header-dot"></div>
         <div>
-          <h1 class="site-title">Healthcare REIT Dashboard</h1>
-          <p class="site-subtitle">Skilled Nursing &middot; Senior Housing &middot; Post-Acute Care</p>
+          <h1 class="site-title">Industrial REIT Dashboard</h1>
+          <p class="site-subtitle">Logistics &middot; Warehouse &middot; Distribution</p>
         </div>
       </div>
       <div class="header-right">
@@ -34,9 +33,9 @@
 
     <nav class="tab-nav">
       <button class="tab-btn active" data-tab="brief">Today's Brief <span class="tab-badge">New</span></button>
-      <button class="tab-btn" data-tab="ctre">CTRE <span class="tab-badge">Portfolio</span></button>
+      <button class="tab-btn" data-tab="focus">TRNO <span class="tab-badge">Portfolio</span></button>
       <button class="tab-btn" data-tab="reits">All REITs</button>
-      <button class="tab-btn" data-tab="healthcare-news">Healthcare News</button>
+      <button class="tab-btn" data-tab="sector-news">Industrial News</button>
       <button class="tab-btn" data-tab="weekly">End of Week <span class="tab-badge">Sunday</span></button>
     </nav>
 
@@ -45,18 +44,18 @@
       <div id="todaysBrief"></div>
     </div>
 
-    <!-- CTRE TAB -->
-    <div id="tab-ctre" class="tab-panel">
-      <div id="ctreSummary"></div>
-      <div id="ctreHero"></div>
+    <!-- FOCUS STOCK TAB -->
+    <div id="tab-focus" class="tab-panel hidden">
+      <div id="focusSummary"></div>
+      <div id="focusHero"></div>
       <div class="ctre-grid">
-        <div class="section" id="ctreThesis"></div>
-        <div class="section" id="ctreDates"></div>
-        <div class="section" id="ctreAnalysts"></div>
+        <div class="section" id="focusThesis"></div>
+        <div class="section" id="focusDates"></div>
+        <div class="section" id="focusAnalysts"></div>
       </div>
       <div class="section">
-        <div class="section-header"><h2>CTRE News</h2></div>
-        <div id="ctreNews"></div>
+        <div class="section-header"><h2>TRNO News</h2></div>
+        <div id="focusNews"></div>
       </div>
     </div>
 
@@ -70,7 +69,7 @@
       <div class="section">
         <div class="section-header">
           <h2>Coverage Universe</h2>
-          <span class="section-note">Healthcare REITs &gt; $500M Market Cap &mdash; click column headers to sort</span>
+          <span class="section-note">Industrial REITs &mdash; click column headers to sort</span>
         </div>
         <div class="table-scroll">
           <table class="reit-table" id="reitTable">
@@ -91,19 +90,19 @@
       </div>
     </div>
 
-    <!-- HEALTHCARE NEWS TAB -->
-    <div id="tab-healthcare-news" class="tab-panel hidden">
-      <div id="healthcareSummary"></div>
+    <!-- INDUSTRIAL NEWS TAB -->
+    <div id="tab-sector-news" class="tab-panel hidden">
+      <div id="sectorSummary"></div>
       <div class="section">
         <div class="news-controls">
-          <div class="cat-filters" id="healthcareCatFilters">
+          <div class="cat-filters" id="sectorCatFilters">
             <button class="cat-btn active" data-hcat="all">All</button>
             <button class="cat-btn" data-hcat="broad">Industry</button>
-            <button class="cat-btn" data-hcat="sector">SNF / Senior Housing</button>
+            <button class="cat-btn" data-hcat="sector">Logistics / Warehouse</button>
             <button class="cat-btn" data-hcat="signal">Signals Only</button>
           </div>
         </div>
-        <div id="healthcareNewsGrid"></div>
+        <div id="sectorNewsGrid"></div>
       </div>
     </div>
 
