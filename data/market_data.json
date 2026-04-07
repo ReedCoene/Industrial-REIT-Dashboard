@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T22:07:15.435093+00:00",
+  "last_updated": "2026-04-07T23:25:29.195207+00:00",
   "market_date": "April 07, 2026",
   "stocks": {
     "PLD": {
@@ -866,6 +866,17 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
+      "title": "MyFreight: A task-driven TMS for faster, smarter forwarding",
+      "link": "https://theloadstar.com/myfreight-a-task-driven-tms-for-faster-smarter-forwarding/",
+      "published": "Tue, 07 Apr 2026 23:01:21 +0000",
+      "summary": "<p>Freight forwarding has long been shaped by a single dominant Transport Management System. While that system defined the standard for years, the way forwarders operate today has changed significantly. Workflows have accelerated, volumes have increased, and the demand for real-time insight has beco\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Loadstar",
+      "category": "sector",
       "title": "Container fleet growth cools, but charter market remains hot",
       "link": "https://theloadstar.com/container-fleet-growth-cools-but-charter-market-remains-hot/",
       "published": "Tue, 07 Apr 2026 11:48:35 +0000",
@@ -904,17 +915,6 @@
       "published": "Tue, 07 Apr 2026 10:39:56 +0000",
       "summary": "<p>The war in the Middle East continues&#8230;<br />\nAnd the US president&#8230;<br />\n&#8230; by just postponing the ultimatum deadline again on Sunday, to&#8230; Tuesday (today) 8pm Eastern Time, has now issued his fifth ultimatum to Iran. That came with a lot of swearing, in a tone that indicates\u2026",
       "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Loadstar",
-      "category": "sector",
-      "title": "GXO Logistics sets its sights on Asia-Pacific market in 2027",
-      "link": "https://theloadstar.com/gxo-logistics-sets-its-sights-on-asia-pacific-market-in-2027/",
-      "published": "Tue, 07 Apr 2026 10:23:23 +0000",
-      "summary": "<p>GXO Logistics is likely to head to the Asia-Pacific region in search of new acquisition opportunities next year.<br />\nIn an exclusive interview with The Loadstar, during a visit to London last week, GXO CEO Patrick Kelleher said the world&#8217;s largest pure-play contract logistics operator was\u2026",
-      "is_signal": true
     },
     {
       "ticker": null,
@@ -1018,23 +1018,12 @@
     {
       "ticker": null,
       "company": null,
-      "source": "The Straits Times",
+      "source": "OilPrice.com",
       "category": "broad",
-      "title": "Wall St ends higher as investors parse US-Iran negotiations, threats",
-      "link": "https://www.straitstimes.com/business/companies-markets/wall-st-ends-higher-as-investors-parse-us-iran-negotiations-threats",
-      "published": "2026-04-06T21:38:19Z",
-      "summary": "The Dow Jones Industrial Average rose 165.21 points, or 0.36 per cent. Read more at straitstimes.com. Read more at straitstimes.com.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Japan Today",
-      "category": "broad",
-      "title": "How one factory in China learned to live with Trump, tariffs and turmoil",
-      "link": "https://japantoday.com/category/business/how-one-factory-in-china-learned-to-live-with-trump-tariffs-and-turmoil",
-      "published": "2026-04-06T21:35:12Z",
-      "summary": "U.S. President Donald Trump's tariffs sought to hurt Chinese manufacturing, but for one electronics maker, a turbulent 2025 ended with a belief that China is a location that is difficult to replicate - as long as things don't change too drastically. Agilian T\u2026",
+      "title": "Oil Supply Shock Ripples Through Fertilizer, Plastics, and Tech",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Supply-Shock-Ripples-Through-Fertilizer-Plastics-and-Tech.html",
+      "published": "2026-04-06T23:00:00Z",
+      "summary": "The worst supply shock in the history of the oil market is spilling over to critical supply chains, threatening shortages of medical supplies, fertilizers, semiconductors, and everyday consumer goods, including textiles, footwear, and cosmetics. When the Stra\u2026",
       "is_signal": true
     }
   ],
