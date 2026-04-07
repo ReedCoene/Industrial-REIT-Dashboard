@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T21:24:57.398312+00:00",
+  "last_updated": "2026-04-07T21:51:38.495580+00:00",
   "market_date": "April 07, 2026",
   "stocks": {
     "PLD": {
@@ -11,7 +11,8 @@
       "market_cap": 124191768576,
       "dividend_yield": 3.23,
       "fifty_two_week_high": 143.95,
-      "fifty_two_week_low": 85.35
+      "fifty_two_week_low": 85.35,
+      "next_earnings": "2026-04-16"
     },
     "EGP": {
       "name": "EastGroup Properties",
@@ -22,7 +23,8 @@
       "market_cap": 10120266752,
       "dividend_yield": 3.3,
       "fifty_two_week_high": 197.95,
-      "fifty_two_week_low": 137.67
+      "fifty_two_week_low": 137.67,
+      "next_earnings": "2026-04-22"
     },
     "FR": {
       "name": "First Industrial Realty Trust",
@@ -33,7 +35,8 @@
       "market_cap": 8070723072,
       "dividend_yield": 3.42,
       "fifty_two_week_high": 64.01,
-      "fifty_two_week_low": 40.31
+      "fifty_two_week_low": 40.31,
+      "next_earnings": "2026-04-15"
     },
     "REXR": {
       "name": "Rexford Industrial",
@@ -44,7 +47,8 @@
       "market_cap": 7895725568,
       "dividend_yield": 5.35,
       "fifty_two_week_high": 44.38,
-      "fifty_two_week_low": 29.68
+      "fifty_two_week_low": 29.68,
+      "next_earnings": "2026-04-23"
     },
     "STAG": {
       "name": "STAG Industrial",
@@ -55,7 +59,8 @@
       "market_cap": 7258354176,
       "dividend_yield": 4.26,
       "fifty_two_week_high": 39.98,
-      "fifty_two_week_low": 28.61
+      "fifty_two_week_low": 28.61,
+      "next_earnings": "2026-04-28"
     },
     "LXP": {
       "name": "LXP Industrial Trust",
@@ -66,7 +71,8 @@
       "market_cap": 2811476224,
       "dividend_yield": 5.97,
       "fifty_two_week_high": 52.52,
-      "fifty_two_week_low": 34.25
+      "fifty_two_week_low": 34.25,
+      "next_earnings": "2026-04-29"
     },
     "COLD": {
       "name": "Americold Realty Trust",
@@ -77,7 +83,8 @@
       "market_cap": 3264005120,
       "dividend_yield": 7.99,
       "fifty_two_week_high": 20.75,
-      "fifty_two_week_low": 10.1
+      "fifty_two_week_low": 10.1,
+      "next_earnings": "2026-05-07"
     },
     "TRNO": {
       "name": "Terreno Realty",
@@ -88,7 +95,8 @@
       "market_cap": 6676092928,
       "dividend_yield": 3.32,
       "fifty_two_week_high": 66.74,
-      "fifty_two_week_low": 48.18
+      "fifty_two_week_low": 48.18,
+      "next_earnings": "2026-05-06"
     },
     "IIPR": {
       "name": "Innovative Industrial Properties",
@@ -99,7 +107,8 @@
       "market_cap": 1405949312,
       "dividend_yield": 15.37,
       "fifty_two_week_high": 59.83,
-      "fifty_two_week_low": 44.58
+      "fifty_two_week_low": 44.58,
+      "next_earnings": "2026-05-06"
     },
     "ILPT": {
       "name": "Industrial Logistics Properties Trust",
@@ -110,7 +119,8 @@
       "market_cap": 363926080,
       "dividend_yield": 3.64,
       "fifty_two_week_high": 6.68,
-      "fifty_two_week_low": 2.45
+      "fifty_two_week_low": 2.45,
+      "next_earnings": "2026-04-29"
     },
     "MDV": {
       "name": "Modiv Industrial",
@@ -121,7 +131,8 @@
       "market_cap": 153141088,
       "dividend_yield": 8.02,
       "fifty_two_week_high": 17.145,
-      "fifty_two_week_low": 13.8
+      "fifty_two_week_low": 13.8,
+      "next_earnings": "2026-05-07"
     }
   },
   "top_gainers": [
@@ -134,7 +145,8 @@
       "market_cap": 2811476224,
       "dividend_yield": 5.97,
       "fifty_two_week_high": 52.52,
-      "fifty_two_week_low": 34.25
+      "fifty_two_week_low": 34.25,
+      "next_earnings": "2026-04-29"
     },
     {
       "name": "STAG Industrial",
@@ -145,7 +157,8 @@
       "market_cap": 7258354176,
       "dividend_yield": 4.26,
       "fifty_two_week_high": 39.98,
-      "fifty_two_week_low": 28.61
+      "fifty_two_week_low": 28.61,
+      "next_earnings": "2026-04-28"
     },
     {
       "name": "Rexford Industrial",
@@ -156,7 +169,8 @@
       "market_cap": 7895725568,
       "dividend_yield": 5.35,
       "fifty_two_week_high": 44.38,
-      "fifty_two_week_low": 29.68
+      "fifty_two_week_low": 29.68,
+      "next_earnings": "2026-04-23"
     }
   ],
   "top_losers": [
@@ -169,7 +183,8 @@
       "market_cap": 363926080,
       "dividend_yield": 3.64,
       "fifty_two_week_high": 6.68,
-      "fifty_two_week_low": 2.45
+      "fifty_two_week_low": 2.45,
+      "next_earnings": "2026-04-29"
     },
     {
       "name": "Americold Realty Trust",
@@ -180,7 +195,8 @@
       "market_cap": 3264005120,
       "dividend_yield": 7.99,
       "fifty_two_week_high": 20.75,
-      "fifty_two_week_low": 10.1
+      "fifty_two_week_low": 10.1,
+      "next_earnings": "2026-05-07"
     },
     {
       "name": "Modiv Industrial",
@@ -191,7 +207,8 @@
       "market_cap": 153141088,
       "dividend_yield": 8.02,
       "fifty_two_week_high": 17.145,
-      "fifty_two_week_low": 13.8
+      "fifty_two_week_low": 13.8,
+      "next_earnings": "2026-05-07"
     }
   ],
   "news": [
@@ -737,6 +754,61 @@
     {
       "ticker": null,
       "company": null,
+      "source": "DC Velocity",
+      "category": "sector",
+      "title": "Tariffs on steel and aluminum hit European machine producers",
+      "link": "https://www.dcvelocity.com/transportation/regulation-government/tariffs-on-steel-and-aluminum-hit-european-machine-producers",
+      "published": "Tue, 07 Apr 2026 20:20:24 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-robotic-welding-arms-at-work.jpg?id=65488126&amp;width=1245&amp;height=700&amp;coordinates=237%2C0%2C237%2C0\" /><br /><br /><h3></h3><br /><p>As new Trump Administration tariffs on steel and aluminum began to bite this week, European machin\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "DC Velocity",
+      "category": "sector",
+      "title": "Building a stronger warehouse culture",
+      "link": "https://www.dcvelocity.com/technology/building-a-stronger-warehouse-culture",
+      "published": "Tue, 07 Apr 2026 12:00:02 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/image.jpg?id=65475846&amp;width=1200&amp;height=800&amp;coordinates=62%2C0%2C63%2C0\" /><br /><br /><h3></h3><br /><p>Third-party logistics service provider (3PL) <a href=\"https://stateslogistics.com/\" target=\"_blank\">States Logistics</a> prides itse\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "DC Velocity",
+      "category": "sector",
+      "title": "Iran War: global airfreight pricing continues to rise",
+      "link": "https://www.dcvelocity.com/transportation/air/air-cargo/iran-war-global-airfreight-pricing-continues-to-rise",
+      "published": "Mon, 06 Apr 2026 21:17:02 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/chart-of-air-cargo-rates.png?id=65477972&amp;width=1199&amp;height=520&amp;coordinates=0%2C0%2C7%2C0\" /><br /><br /><h3></h3><br /><p>With petroleum markets under pressure from disruption by the Iran War, global airfreight pricing continued to rise \u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "DC Velocity",
+      "category": "sector",
+      "title": "U.S. flatbed truck freight rate jumps to largest weekly increase in over a decade",
+      "link": "https://www.dcvelocity.com/u-s-flatbed-truck-freight-rate-jumps-to-largest-weekly-increase-in-over-a-decade",
+      "published": "Mon, 06 Apr 2026 21:12:56 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/chart-of-trucking-freight-prices.jpg?id=65477961&amp;width=2000&amp;height=692&amp;coordinates=0%2C0%2C0%2C6\" /><br /><br /><h3></h3><br /><p><a href=\"https://www.dcvelocity.com/transportation/trucking/iran-war-diesel-price-surge-forces-change-in-u-\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "DC Velocity",
+      "category": "sector",
+      "title": "Report: global freight markets rocked by Iran War effects",
+      "link": "https://www.dcvelocity.com/supply-chain/other-services/global-logistics/report-freight-markets-rocked-by-iran-war-effects",
+      "published": "Mon, 06 Apr 2026 21:06:38 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/collage-of-plane-ship-and-train.jpg?id=65477942&amp;width=1200&amp;height=800&amp;coordinates=0%2C19%2C0%2C20\" /><br /><br /><h3></h3><br /><p>Global freight planning is being reshaped by three outcomes of the Iran War\u2014fuel shock, tighter air capaci\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
       "source": "Freight Waves",
       "category": "sector",
       "title": "The \u2018ingenious strategy\u2019 behind most truckers\u2019 least favorite week of the year: International Roadcheck",
@@ -1001,34 +1073,34 @@
     {
       "ticker": null,
       "company": null,
+      "source": "The Straits Times",
+      "category": "broad",
+      "title": "Wall St ends higher as investors parse US-Iran negotiations, threats",
+      "link": "https://www.straitstimes.com/business/companies-markets/wall-st-ends-higher-as-investors-parse-us-iran-negotiations-threats",
+      "published": "2026-04-06T21:38:19Z",
+      "summary": "The Dow Jones Industrial Average rose 165.21 points, or 0.36 per cent. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Japan Today",
+      "category": "broad",
+      "title": "How one factory in China learned to live with Trump, tariffs and turmoil",
+      "link": "https://japantoday.com/category/business/how-one-factory-in-china-learned-to-live-with-trump-tariffs-and-turmoil",
+      "published": "2026-04-06T21:35:12Z",
+      "summary": "U.S. President Donald Trump's tariffs sought to hurt Chinese manufacturing, but for one electronics maker, a turbulent 2025 ended with a belief that China is a location that is difficult to replicate - as long as things don't change too drastically. Agilian T\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
       "source": "Fortune",
       "category": "broad",
       "title": "Sam Altman\u2019s big pitch to fix the big AI mess sounds like Jamie Dimon\u2019s: a 4-day workweek and a big new tax on rich people like him",
       "link": "https://fortune.com/2026/04/06/sam-altmans-capital-gains-taxes-4-day-workweek/",
       "published": "2026-04-06T21:14:16Z",
       "summary": "OpenAI Monday released a paper outlining policy proposals to regulate and tax corporate income from AI.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Tom's Hardware UK",
-      "category": "broad",
-      "title": "Intel's OEM-only Bartlett Lake CPU modded to run on consumer Z790 motherboard beats AMD's Ryzen 9 9900X3D in Cinebench multi-core test \u2014 Core 9 273QPE has 12 cores, 24 threads, and hits 5.4GHz",
-      "link": "https://www.tomshardware.com/pc-components/cpus/intels-oem-only-bartlett-lake-cpu-modded-to-run-on-consumer-z790-motherboard-beats-amds-ryzen-9-9900x3d-in-cinebench-multi-core-test-core-9-273qpe-has-12-cores-24-threads-and-hits-5-4ghz",
-      "published": "2026-04-06T20:45:35Z",
-      "summary": "Bartlett Lake, Intel's P-core only family of CPUs intended for edge and industrial use cases has been modded to run on consumer Z790 motherboards. At the moment, the flagship Core 9 273QPE with 12 Raptor Cove P-cores is posting around 33,000 points in Cinbene\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Newser",
-      "category": "broad",
-      "title": "Stocks Drift Higher Ahead of Trump's Iran Deadline",
-      "link": "https://www.newser.com/story/386818/stocks-drift-higher-ahead-of-trumps-iran-deadline.html",
-      "published": "2026-04-06T20:44:20Z",
-      "summary": "The US stock market drifted higher Monday in tentative trading ahead of a deadline President Trump has set to bomb Iranian power plants. The S&P 500 rose 29.14 points, or 0.4%, to 6,611.83. The Dow Jones Industrial Average rose 165.21 points, or 0.4%, to...",
       "is_signal": false
     }
   ],
