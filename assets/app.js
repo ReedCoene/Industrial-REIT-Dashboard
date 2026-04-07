@@ -236,8 +236,17 @@ function renderFocus(data) {
           <div class="ctre-metric-label">52W Low</div>
           <div class="ctre-metric-value">${fmtPrice(s.fifty_two_week_low)}</div>
         </div>
+        ${s.next_earnings ? (() => {
+          const days = Math.round((new Date(s.next_earnings) - new Date()) / (1000*60*60*24));
+          const label = days < 0 ? 'Reported' : days === 0 ? 'Today' : `${days}d away`;
+          const cls   = days >= 0 && days <= 21 ? 'up' : 'flat';
+          return `<div class="ctre-metric-item">
+            <div class="ctre-metric-label">Next Earnings</div>
+            <div class="ctre-metric-value">${s.next_earnings} <span class="pct-pill ${cls}" style="font-size:11px">${label}</span></div>
+          </div>`;
+        })() : ''}
       </div>
-    </div>`;
+    </div>\`;
 
   const points = cd.thesis_points || [];
   document.getElementById('focusThesis').innerHTML = `
@@ -365,11 +374,19 @@ function renderSectorNewsTab(news) {
 
   el.innerHTML = `<div class="news-grid-layout">` +
     filtered.slice(0, 40).map(n => {
+      const isFiling = n.category === 'filing';
       const isSector = n.category === 'sector';
-      const srcCls   = isSector ? 'sector-src' : (n.is_signal ? 'signal-src' : '');
-      return `<div class="news-card ${isSector ? 'sector-card' : 'broad-card'}" style="margin-bottom:0">
+      const isPriority = n.is_priority;
+      const srcCls = isFiling
+        ? (isPriority ? 'filing-priority-src' : 'filing-src')
+        : isSector ? 'sector-src' : (n.is_signal ? 'signal-src' : '');
+      const cardCls = isFiling
+        ? (isPriority ? 'filing-priority-card' : 'filing-card')
+        : isSector ? 'sector-card' : 'broad-card';
+      const formBadge = isFiling ? `<span class="form-badge ${isPriority ? 'form-priority' : 'form-secondary'}">${n.form}</span>` : '';
+      return `<div class="news-card ${cardCls}" style="margin-bottom:0">
         <div class="card-meta">
-          <span class="card-source ${srcCls}">${n.source || 'Industry'}</span>
+          ${formBadge}<span class="card-source ${srcCls}">${n.ticker || n.source || 'Industry'}</span>
           <span class="card-date">${timeSince(n.published)}</span>
         </div>
         <div class="card-title">${n.link ? `<a href="${n.link}" target="_blank" rel="noopener">${n.title}</a>` : n.title}</div>

@@ -86,6 +86,28 @@ def fetch_prices() -> dict:
             raw_yield = info.get("dividendYield") or 0
             div_yield = round(min(raw_yield if raw_yield > 1 else raw_yield * 100, 30), 2)
 
+            # Next earnings date — try multiple yfinance fields
+            next_earnings = None
+            try:
+                cal = stock.calendar
+                if isinstance(cal, dict):
+                    ed = cal.get('Earnings Date')
+                    if ed:
+                        next_earnings = str(ed[0] if hasattr(ed, '__len__') else ed)[:10]
+                elif cal is not None and hasattr(cal, 'columns'):
+                    col = cal.get('Earnings Date')
+                    if col is not None:
+                        next_earnings = str(list(col.values())[0])[:10]
+            except Exception:
+                pass
+            if not next_earnings:
+                try:
+                    ts = info.get('earningsTimestamp') or info.get('earningsDate')
+                    if ts and isinstance(ts, (int, float)):
+                        next_earnings = datetime.fromtimestamp(ts, tz=timezone.utc).strftime('%Y-%m-%d')
+                except Exception:
+                    pass
+
             results[ticker] = {
                 "name":                name,
                 "ticker":              ticker,
@@ -96,6 +118,7 @@ def fetch_prices() -> dict:
                 "dividend_yield":      div_yield,
                 "fifty_two_week_high": info.get("fiftyTwoWeekHigh") or 0,
                 "fifty_two_week_low":  info.get("fiftyTwoWeekLow") or 0,
+                "next_earnings":       next_earnings,
             }
             print(f"  {ticker}: ${curr:.2f} ({pct:+.2f}%)")
         except Exception as e:
@@ -281,6 +304,72 @@ FOCUS_DETAILS = {
         "Risks: tariff-driven freight slowdown, e-commerce normalization, rising coastal cap rates",
     ],
 }
+
+
+# ── SEC EDGAR Filings (10-K, 10-Q, 8-K) ─────────────────────
+EDGAR_HEADERS = {"User-Agent": "REIT Dashboard reit-dashboard@research.com"}
+PRIORITY_FORMS   = {'10-K', '10-Q'}
+SECONDARY_FORMS  = {'8-K'}
+ALL_FILING_FORMS = PRIORITY_FORMS | SECONDARY_FORMS
+
+def fetch_sec_filings(tickers_dict: dict) -> list:
+    """Pull recent 10-K, 10-Q, and 8-K filings from SEC EDGAR."""
+    try:
+        r = requests.get(
+            "https://www.sec.gov/files/company_tickers.json",
+            headers=EDGAR_HEADERS, timeout=15
+        )
+        ticker_cik = {
+            v['ticker'].upper(): str(v['cik_str']).zfill(10)
+            for v in r.json().values()
+        }
+    except Exception as e:
+        print(f"  EDGAR ticker map failed: {e}", file=sys.stderr)
+        return []
+
+    items = []
+    for ticker, name in tickers_dict.items():
+        cik = ticker_cik.get(ticker.upper())
+        if not cik:
+            print(f"  EDGAR: no CIK for {ticker}", file=sys.stderr)
+            continue
+        try:
+            r = requests.get(
+                f"https://data.sec.gov/submissions/CIK{cik}.json",
+                headers=EDGAR_HEADERS, timeout=10
+            )
+            recent = r.json().get('filings', {}).get('recent', {})
+            forms  = recent.get('form', [])
+            dates  = recent.get('filingDate', [])
+            accs   = recent.get('accessionNumber', [])
+            docs   = recent.get('primaryDocument', [])
+
+            for i, form in enumerate(forms[:80]):
+                if form not in ALL_FILING_FORMS:
+                    continue
+                acc  = accs[i].replace('-', '') if i < len(accs) else ''
+                doc  = docs[i] if i < len(docs) else ''
+                date = dates[i] if i < len(dates) else ''
+                link = f"https://www.sec.gov/Archives/edgar/data/{int(cik)}/{acc}/{doc}"
+                items.append({
+                    "ticker":      ticker,
+                    "company":     name,
+                    "source":      "SEC EDGAR",
+                    "category":    "filing",
+                    "form":        form,
+                    "title":       f"{ticker} — {form} ({date})",
+                    "link":        link,
+                    "published":   date + "T12:00:00Z" if date else "",
+                    "summary":     f"{name} filed a {form} with the SEC on {date}.",
+                    "is_signal":   True,
+                    "is_priority": form in PRIORITY_FORMS,
+                })
+            count = sum(1 for x in items if x['ticker'] == ticker)
+            print(f"  EDGAR {ticker}: {count} filings")
+        except Exception as e:
+            print(f"  EDGAR ERROR {ticker}: {e}", file=sys.stderr)
+
+    return items
 
 
 def main():
