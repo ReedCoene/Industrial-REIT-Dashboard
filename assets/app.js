@@ -282,7 +282,7 @@ function renderFocus(data) {
   ctreEl.innerHTML = ctreNews.map(n => `
     <div class="news-card" style="margin-bottom:8px">
       <div class="card-meta">
-        <span class="card-source ${n.is_signal ? 'signal-src' : ''}">CTRE</span>
+        <span class="card-source ${n.is_signal ? 'signal-src' : ''}">TRNO</span>
         <span class="card-date">${timeSince(n.published)}</span>
       </div>
       <div class="card-title">${n.link ? `<a href="${n.link}" target="_blank" rel="noopener">${n.title}</a>` : n.title}</div>
