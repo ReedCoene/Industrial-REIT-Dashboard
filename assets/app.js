@@ -247,7 +247,7 @@ function renderFocus(data) {
           </div>`;
         })() : ''}
       </div>
-    </div>\`;
+    </div>`;
 
   const points = cd.thesis_points || [];
   document.getElementById('focusThesis').innerHTML = `
