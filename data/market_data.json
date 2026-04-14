@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-04-14T00:03:25.090888+00:00",
+  "last_updated": "2026-04-14T22:09:58.050373+00:00",
   "market_date": "April 14, 2026",
   "stocks": {
     "PLD": {
       "name": "Prologis",
       "ticker": "PLD",
-      "price": 137.15,
-      "prev_close": 137.19,
-      "pct_change": -0.03,
-      "market_cap": 127855427584,
+      "price": 138.36,
+      "prev_close": 137.15,
+      "pct_change": 0.88,
+      "market_cap": 128983433216,
       "dividend_yield": 3.12,
       "fifty_two_week_high": 143.95,
-      "fifty_two_week_low": 96.87,
+      "fifty_two_week_low": 97.1,
       "next_earnings": "2026-04-16"
     },
     "EGP": {
       "name": "EastGroup Properties",
       "ticker": "EGP",
-      "price": 192.92,
-      "prev_close": 193.92,
-      "pct_change": -0.52,
-      "market_cap": 10292049920,
-      "dividend_yield": 3.2,
+      "price": 195.1,
+      "prev_close": 192.92,
+      "pct_change": 1.13,
+      "market_cap": 10487631872,
+      "dividend_yield": 3.21,
       "fifty_two_week_high": 197.95,
       "fifty_two_week_low": 152.53,
       "next_earnings": "2026-04-22"
@@ -29,11 +29,11 @@
     "FR": {
       "name": "First Industrial Realty Trust",
       "ticker": "FR",
-      "price": 60.43,
-      "prev_close": 60.68,
-      "pct_change": -0.41,
-      "market_cap": 8257937408,
-      "dividend_yield": 3.3,
+      "price": 61.1,
+      "prev_close": 60.43,
+      "pct_change": 1.11,
+      "market_cap": 8349494784,
+      "dividend_yield": 3.31,
       "fifty_two_week_high": 64.01,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-04-22"
@@ -41,11 +41,11 @@
     "REXR": {
       "name": "Rexford Industrial",
       "ticker": "REXR",
-      "price": 34.66,
-      "prev_close": 33.96,
-      "pct_change": 2.06,
-      "market_cap": 8231409664,
-      "dividend_yield": 5.12,
+      "price": 35.29,
+      "prev_close": 34.66,
+      "pct_change": 1.82,
+      "market_cap": 8381028352,
+      "dividend_yield": 5.02,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 31.08,
       "next_earnings": "2026-04-23"
@@ -53,11 +53,11 @@
     "STAG": {
       "name": "STAG Industrial",
       "ticker": "STAG",
-      "price": 38.07,
-      "prev_close": 38.15,
-      "pct_change": -0.21,
-      "market_cap": 7430103552,
-      "dividend_yield": 4.06,
+      "price": 38.65,
+      "prev_close": 38.07,
+      "pct_change": 1.52,
+      "market_cap": 7543302144,
+      "dividend_yield": 4.07,
       "fifty_two_week_high": 39.98,
       "fifty_two_week_low": 31.64,
       "next_earnings": "2026-04-28"
@@ -65,11 +65,11 @@
     "LXP": {
       "name": "LXP Industrial Trust",
       "ticker": "LXP",
-      "price": 49.09,
-      "prev_close": 49.72,
-      "pct_change": -1.27,
-      "market_cap": 2900091648,
-      "dividend_yield": 5.53,
+      "price": 49.91,
+      "prev_close": 49.09,
+      "pct_change": 1.67,
+      "market_cap": 2948534784,
+      "dividend_yield": 5.6,
       "fifty_two_week_high": 52.52,
       "fifty_two_week_low": 37.3,
       "next_earnings": "2026-04-29"
@@ -77,11 +77,11 @@
     "COLD": {
       "name": "Americold Realty Trust",
       "ticker": "COLD",
-      "price": 12.28,
-      "prev_close": 12.01,
-      "pct_change": 2.25,
-      "market_cap": 3520199680,
-      "dividend_yield": 7.66,
+      "price": 12.35,
+      "prev_close": 12.28,
+      "pct_change": 0.57,
+      "market_cap": 3540266240,
+      "dividend_yield": 7.49,
       "fifty_two_week_high": 20.75,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-05-07"
@@ -89,11 +89,11 @@
     "TRNO": {
       "name": "Terreno Realty",
       "ticker": "TRNO",
-      "price": 65.6,
-      "prev_close": 65.34,
-      "pct_change": 0.4,
-      "market_cap": 6970422784,
-      "dividend_yield": 3.18,
+      "price": 65.65,
+      "prev_close": 65.6,
+      "pct_change": 0.08,
+      "market_cap": 6975735808,
+      "dividend_yield": 3.17,
       "fifty_two_week_high": 66.74,
       "fifty_two_week_low": 53.0,
       "next_earnings": "2026-05-06"
@@ -101,11 +101,11 @@
     "IIPR": {
       "name": "Innovative Industrial Properties",
       "ticker": "IIPR",
-      "price": 50.68,
-      "prev_close": 51.0,
-      "pct_change": -0.63,
-      "market_cap": 1425925760,
-      "dividend_yield": 14.9,
+      "price": 51.18,
+      "prev_close": 50.68,
+      "pct_change": 0.99,
+      "market_cap": 1439993600,
+      "dividend_yield": 15.0,
       "fifty_two_week_high": 59.83,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-05-06"
@@ -113,11 +113,11 @@
     "ILPT": {
       "name": "Industrial Logistics Properties Trust",
       "ticker": "ILPT",
-      "price": 5.64,
-      "prev_close": 5.54,
-      "pct_change": 1.81,
-      "market_cap": 375923648,
-      "dividend_yield": 3.61,
+      "price": 5.8,
+      "prev_close": 5.64,
+      "pct_change": 2.84,
+      "market_cap": 386588160,
+      "dividend_yield": 3.55,
       "fifty_two_week_high": 6.68,
       "fifty_two_week_low": 2.47,
       "next_earnings": "2026-04-29"
@@ -125,11 +125,11 @@
     "MDV": {
       "name": "Modiv Industrial",
       "ticker": "MDV",
-      "price": 15.35,
-      "prev_close": 15.13,
-      "pct_change": 1.45,
-      "market_cap": 158404016,
-      "dividend_yield": 7.93,
+      "price": 15.58,
+      "prev_close": 15.35,
+      "pct_change": 1.5,
+      "market_cap": 160777504,
+      "dividend_yield": 7.82,
       "fifty_two_week_high": 17.145,
       "fifty_two_week_low": 13.8,
       "next_earnings": "2026-05-07"
@@ -137,81 +137,92 @@
   },
   "top_gainers": [
     {
-      "name": "Americold Realty Trust",
-      "ticker": "COLD",
-      "price": 12.28,
-      "prev_close": 12.01,
-      "pct_change": 2.25,
-      "market_cap": 3520199680,
-      "dividend_yield": 7.66,
-      "fifty_two_week_high": 20.75,
-      "fifty_two_week_low": 10.1,
-      "next_earnings": "2026-05-07"
+      "name": "Industrial Logistics Properties Trust",
+      "ticker": "ILPT",
+      "price": 5.8,
+      "prev_close": 5.64,
+      "pct_change": 2.84,
+      "market_cap": 386588160,
+      "dividend_yield": 3.55,
+      "fifty_two_week_high": 6.68,
+      "fifty_two_week_low": 2.47,
+      "next_earnings": "2026-04-29"
     },
     {
       "name": "Rexford Industrial",
       "ticker": "REXR",
-      "price": 34.66,
-      "prev_close": 33.96,
-      "pct_change": 2.06,
-      "market_cap": 8231409664,
-      "dividend_yield": 5.12,
+      "price": 35.29,
+      "prev_close": 34.66,
+      "pct_change": 1.82,
+      "market_cap": 8381028352,
+      "dividend_yield": 5.02,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 31.08,
       "next_earnings": "2026-04-23"
     },
     {
-      "name": "Industrial Logistics Properties Trust",
-      "ticker": "ILPT",
-      "price": 5.64,
-      "prev_close": 5.54,
-      "pct_change": 1.81,
-      "market_cap": 375923648,
-      "dividend_yield": 3.61,
-      "fifty_two_week_high": 6.68,
-      "fifty_two_week_low": 2.47,
-      "next_earnings": "2026-04-29"
-    }
-  ],
-  "top_losers": [
-    {
-      "name": "EastGroup Properties",
-      "ticker": "EGP",
-      "price": 192.92,
-      "prev_close": 193.92,
-      "pct_change": -0.52,
-      "market_cap": 10292049920,
-      "dividend_yield": 3.2,
-      "fifty_two_week_high": 197.95,
-      "fifty_two_week_low": 152.53,
-      "next_earnings": "2026-04-22"
-    },
-    {
-      "name": "Innovative Industrial Properties",
-      "ticker": "IIPR",
-      "price": 50.68,
-      "prev_close": 51.0,
-      "pct_change": -0.63,
-      "market_cap": 1425925760,
-      "dividend_yield": 14.9,
-      "fifty_two_week_high": 59.83,
-      "fifty_two_week_low": 44.58,
-      "next_earnings": "2026-05-06"
-    },
-    {
       "name": "LXP Industrial Trust",
       "ticker": "LXP",
-      "price": 49.09,
-      "prev_close": 49.72,
-      "pct_change": -1.27,
-      "market_cap": 2900091648,
-      "dividend_yield": 5.53,
+      "price": 49.91,
+      "prev_close": 49.09,
+      "pct_change": 1.67,
+      "market_cap": 2948534784,
+      "dividend_yield": 5.6,
       "fifty_two_week_high": 52.52,
       "fifty_two_week_low": 37.3,
       "next_earnings": "2026-04-29"
     }
   ],
+  "top_losers": [
+    {
+      "name": "Prologis",
+      "ticker": "PLD",
+      "price": 138.36,
+      "prev_close": 137.15,
+      "pct_change": 0.88,
+      "market_cap": 128983433216,
+      "dividend_yield": 3.12,
+      "fifty_two_week_high": 143.95,
+      "fifty_two_week_low": 97.1,
+      "next_earnings": "2026-04-16"
+    },
+    {
+      "name": "Americold Realty Trust",
+      "ticker": "COLD",
+      "price": 12.35,
+      "prev_close": 12.28,
+      "pct_change": 0.57,
+      "market_cap": 3540266240,
+      "dividend_yield": 7.49,
+      "fifty_two_week_high": 20.75,
+      "fifty_two_week_low": 10.1,
+      "next_earnings": "2026-05-07"
+    },
+    {
+      "name": "Terreno Realty",
+      "ticker": "TRNO",
+      "price": 65.65,
+      "prev_close": 65.6,
+      "pct_change": 0.08,
+      "market_cap": 6975735808,
+      "dividend_yield": 3.17,
+      "fifty_two_week_high": 66.74,
+      "fifty_two_week_low": 53.0,
+      "next_earnings": "2026-05-06"
+    }
+  ],
   "news": [
+    {
+      "ticker": "PLD",
+      "company": "Prologis",
+      "source": "PLD",
+      "category": "reit",
+      "title": "Terreno Announces Completion of Property Development in Hialeah",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/terreno-announces-completion-property-development-161500843.html?.tsrc=rss",
+      "published": "Tue, 14 Apr 2026 16:15:00 +0000",
+      "summary": "TRNO completes property development of Building 34 in Hialeah. It is fully leased and targets LEED certification, advancing its strategy to upgrade property quality.",
+      "is_signal": true
+    },
     {
       "ticker": "PLD",
       "company": "Prologis",
@@ -243,17 +254,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-prologis-pld-091615391.html?.tsrc=rss",
       "published": "Fri, 10 Apr 2026 09:16:15 +0000",
       "summary": "Prologis and La Caisse recently announced the creation of Prologis Logistics Investment Venture Europe (PLIVE), a pan-European joint venture initially seeded with \u20ac1 billion of logistics properties, with La Caisse holding a 70% interest and Prologis acting as operating partner. This move expands Pro\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
-      "title": "Terreno Realty Announces Sale of Industrial Property in Torrance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/terreno-realty-announces-sale-industrial-170700504.html?.tsrc=rss",
-      "published": "Thu, 09 Apr 2026 17:07:00 +0000",
-      "summary": "TRNO sells a fully leased Torrance industrial property for $31.1M, securing a 10.3% IRR as it continues strategic portfolio optimization efforts.",
       "is_signal": true
     },
     {
@@ -437,6 +437,17 @@
       "company": "LXP Industrial Trust",
       "source": "LXP",
       "category": "reit",
+      "title": "Improve Your Retirement Income with These 3 Top-Ranked Dividend Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/improve-retirement-income-3-top-131002449.html?.tsrc=rss",
+      "published": "Tue, 14 Apr 2026 13:10:02 +0000",
+      "summary": "The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",
+      "is_signal": true
+    },
+    {
+      "ticker": "LXP",
+      "company": "LXP Industrial Trust",
+      "source": "LXP",
+      "category": "reit",
       "title": "3 Top-Ranked Dividend Stocks: A Smarter Way to Boost Your Retirement Income",
       "link": "https://finance.yahoo.com/markets/stocks/articles/3-top-ranked-dividend-stocks-131004944.html?.tsrc=rss",
       "published": "Wed, 08 Apr 2026 13:10:04 +0000",
@@ -466,14 +477,14 @@
       "is_signal": true
     },
     {
-      "ticker": "LXP",
-      "company": "LXP Industrial Trust",
-      "source": "LXP",
+      "ticker": "COLD",
+      "company": "Americold Realty Trust",
+      "source": "COLD",
       "category": "reit",
-      "title": "LXP Industrial Trust to Report First Quarter 2026 Results and Host Conference Call April 29, 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lxp-industrial-trust-report-first-201500371.html?.tsrc=rss",
-      "published": "Wed, 01 Apr 2026 20:15:00 +0000",
-      "summary": "WEST PALM BEACH, Fla., April 01, 2026 (GLOBE NEWSWIRE) -- LXP Industrial Trust (NYSE: LXP) (\u201cLXP\u201d), a real estate investment trust (REIT) focused on Class A warehouse and distribution real estate investments, today announced it will release its first quarter 2026 financial results the morning of Wed\u2026",
+      "title": "Americold Cuts Emissions, Improves Energy Efficiency and Strengthens Facility Reliability Across Its Global Network",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/americold-cuts-emissions-improves-energy-110000589.html?.tsrc=rss",
+      "published": "Tue, 14 Apr 2026 11:00:00 +0000",
+      "summary": "Company releases 2025 Sustainability Report detailing operational performance, energy discipline, and engineering-led executionATLANTA, April 14, 2026 (GLOBE NEWSWIRE) -- Americold Realty Trust (NYSE: COLD), a global leader in temperature-controlled logistics real estate and value-added services, to\u2026",
       "is_signal": true
     },
     {
@@ -510,14 +521,14 @@
       "is_signal": false
     },
     {
-      "ticker": "COLD",
-      "company": "Americold Realty Trust",
-      "source": "COLD",
+      "ticker": "TRNO",
+      "company": "Terreno Realty",
+      "source": "TRNO",
       "category": "reit",
-      "title": "Is\u00a0Americold Realty Trust, Inc. (COLD)\u00a0A Good Stock\u00a0To\u00a0Buy Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/americold-realty-trust-inc-cold-015234572.html?.tsrc=rss",
-      "published": "Mon, 30 Mar 2026 01:52:34 +0000",
-      "summary": "Is COLD a good stock to buy? We came across a bullish thesis on Americold Realty Trust, Inc. on Compounding Dividends\u2019s Substack by TJ Terwilliger. In this article, we will summarize the bulls\u2019 thesis on COLD. Americold Realty Trust, Inc.\u2019s share was trading at $11.33 as of March 24th. COLD\u2019s forwar\u2026",
+      "title": "Terreno Announces Completion of Property Development in Hialeah",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/terreno-announces-completion-property-development-161500843.html?.tsrc=rss",
+      "published": "Tue, 14 Apr 2026 16:15:00 +0000",
+      "summary": "TRNO completes property development of Building 34 in Hialeah. It is fully leased and targets LEED certification, advancing its strategy to upgrade property quality.",
       "is_signal": true
     },
     {
@@ -551,17 +562,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/terreno-realty-announces-sale-industrial-170700504.html?.tsrc=rss",
       "published": "Thu, 09 Apr 2026 17:07:00 +0000",
       "summary": "TRNO sells a fully leased Torrance industrial property for $31.1M, securing a 10.3% IRR as it continues strategic portfolio optimization efforts.",
-      "is_signal": true
-    },
-    {
-      "ticker": "TRNO",
-      "company": "Terreno Realty",
-      "source": "TRNO",
-      "category": "reit",
-      "title": "Terreno Realty's Q1 Update: Are Occupancy & Rent Trends Still Strong?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/terreno-realtys-q1-occupancy-rent-142300719.html?.tsrc=rss",
-      "published": "Thu, 09 Apr 2026 14:23:00 +0000",
-      "summary": "TRNO's Q1 update shows strong occupancy, rising rents and active deals but signals a shift toward more balanced growth in 2026.",
       "is_signal": true
     },
     {
@@ -701,10 +701,10 @@
       "company": null,
       "source": "Supply Chain Dive",
       "category": "sector",
-      "title": "From tariffs to Iran war, geopolitics are upending packaging supply chains",
-      "link": "https://www.supplychaindive.com/news/adapting-packaging-supply-chains-iran-war-tariffs/817092/",
-      "published": "Mon, 13 Apr 2026 09:43:00 -0400",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/3lvDX13GpU52Dq-0x9fETTUeNHAQSTvWIBWo6xGfyOM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYyNzI5NzYyLmpwZw==.webp\" /></div></figure><p>Switching all sourcing to the U.S. is nearly impossible, manufacturers an\u2026",
+      "title": "CBP preps tariff refund portal for April 20 launch",
+      "link": "https://www.supplychaindive.com/news/cbp-tariff-refund-process-launch-april-20-8-am/817457/",
+      "published": "Tue, 14 Apr 2026 13:39:00 -0400",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/g838hYg305Tnbq-cJsZJmZD5OtLXtN3b6Zv678uPfFw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3NzA2MjAzLmpwZw==.webp\" /></div></figure><p>The system will go live at 8 a.m. EDT to begin the electronic returns pro\u2026",
       "is_signal": true
     },
     {
@@ -712,10 +712,10 @@
       "company": null,
       "source": "Supply Chain Dive",
       "category": "sector",
-      "title": "Norfolk Southern focuses on freight growth in latest partnership",
-      "link": "https://www.supplychaindive.com/news/norfolk-southern-short-line-partnership-expand-freight-capacity/817190/",
-      "published": "Mon, 13 Apr 2026 09:26:12 -0400",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/kRJ8Lg-jLqNoiB11EW8GqJu_tnCBmVMg_zyXPMjt3NY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjQ3MTQ0MzA4LmpwZw==.webp\" /></div></figure><p>Jaguar Transport Holdings will assume local switching operations for the \u2026",
+      "title": "Sportsman\u2019s Warehouse hones in on inventory timing",
+      "link": "https://www.supplychaindive.com/news/sportsmans-warehouse-inventory-management-timing-/816728/",
+      "published": "Tue, 14 Apr 2026 12:27:23 -0400",
+      "summary": "<p>The retailer said its spring season inventory is set to arrive later in a bid to boost product turnaround and productivity.</p>",
       "is_signal": true
     },
     {
@@ -723,10 +723,10 @@
       "company": null,
       "source": "Supply Chain Dive",
       "category": "sector",
-      "title": "FedEx One Rate prices to jump in April",
-      "link": "https://www.supplychaindive.com/news/fedex-one-rate-price-increase-2026/817208/",
-      "published": "Mon, 13 Apr 2026 09:17:00 -0400",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/dX6I6tnCy2-VX78Xk8yEBbiISviBiPtaRhVEbYCZNGQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDUxMTUyNDE4LmpwZw==.webp\" /></div></figure><p>Increases vary based on shipping characteristics but generally hover arou\u2026",
+      "title": "UPS growing RFID usage to boost shipper visibility, trim manual scans",
+      "link": "https://www.supplychaindive.com/news/ups-rfid-sensor-hub-expansion-2026/817288/",
+      "published": "Tue, 14 Apr 2026 12:00:00 -0400",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/IJRZxa7UuCF9zpJncWEBNFD3CXuDSTbOUgBmsyJRXnQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjM3MDUyMDYzLmpwZw==.webp\" /></div></figure><p>The carrier will equip U.S. hubs with RFID sensors and customers with lab\u2026",
       "is_signal": false
     },
     {
@@ -734,21 +734,21 @@
       "company": null,
       "source": "Supply Chain Dive",
       "category": "sector",
-      "title": "Strategic intermodal integration: Efficiency, visibility and the new length-of-haul",
-      "link": "https://www.supplychaindive.com/spons/strategic-intermodal-integration-efficiency-visibility-and-the-new-length/816915/",
-      "published": "Mon, 13 Apr 2026 05:00:00 -0400",
-      "summary": "<p>With fuel volatility and tightening capacity, intermodal is key for resilient, modern supply chains.</p>",
-      "is_signal": true
+      "title": "Iran war is \u2018a concern, but it\u2019s not a worry,\u2019 Los Angeles port director says",
+      "link": "https://www.supplychaindive.com/news/port-los-angeles-iran-war-concern-not-worry-march-2026/817362/",
+      "published": "Tue, 14 Apr 2026 10:41:56 -0400",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Lzza7jKHPFqIqoN8sV9QtLKvEjr7JGPV0b__7Z6OPRo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY2MzQyNDgzLmpwZw==.webp\" /></div></figure><p>Transpacific trade remains solid despite Middle East tensions as retailer\u2026",
+      "is_signal": false
     },
     {
       "ticker": null,
       "company": null,
       "source": "Supply Chain Dive",
       "category": "sector",
-      "title": "Building resilient supply chains in an era of constant disruption",
-      "link": "https://www.supplychaindive.com/spons/building-resilient-supply-chains-in-an-era-of-constant-disruption/816561/",
-      "published": "Mon, 13 Apr 2026 05:00:00 -0400",
-      "summary": "<p>How manufacturers are building more resilient, adaptable supply chains in a volatile world.</p>",
+      "title": "FedEx Freight counting on scale to deliver revenue growth",
+      "link": "https://www.supplychaindive.com/news/fedex-freight-investor-day-/817105/",
+      "published": "Tue, 14 Apr 2026 10:24:48 -0400",
+      "summary": "<p>The LTL carrier, preparing for a June spinoff from FedEx, is targeting higher-growth customer segments &quot;that align with our offerings,&quot; an executive said.</p>",
       "is_signal": true
     },
     {
@@ -866,21 +866,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "FedEx CFO John Dietrich to step down",
-      "link": "https://theloadstar.com/fedex-cfo-john-dietrich-to-step-down/",
-      "published": "Mon, 13 Apr 2026 20:54:51 +0000",
-      "summary": "<p>PRESS RELASE\u00a0<br />\nFedEx Chief Financial Officer John W. Dietrich to Step Down June 1<br />\n13 April 2026\u00a0<br />\nTiming to coincide with completion of the FedEx Freight spin-off<br />\nEnterprise Vice President, Finance, Claude Russ to serve as Interim CFO while company conducts search<br />\nMEMP\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Loadstar",
-      "category": "sector",
-      "title": "US importers challenge new tariffs as economists warn Section 122 is \u2018wrong tool\u2019",
-      "link": "https://theloadstar.com/us-importers-challenge-new-tariffs-as-economists-warn-section-122-is-wrong-tool/",
-      "published": "Mon, 13 Apr 2026 16:37:38 +0000",
-      "summary": "<p>A fresh legal challenge to the US administration\u2019s use of tariff powers is gathering momentum at the Court of International Trade (CIT), raising the prospect that importers could see another round of refunds.\u00a0<br />\nThe case was brought last week by a coalition of US states in State of Oregon v. \u2026",
+      "title": "KLN Logistics announces executive appointments",
+      "link": "https://theloadstar.com/kln-logistics-announces-executive-appointments/",
+      "published": "Tue, 14 Apr 2026 15:18:17 +0000",
+      "summary": "<p>PRESS RELEASE</p>\n<p>KLN Announces Executive Appointments to Accelerate Global Growth<br />\n2026-04-14 Hong Kong</p>\n<p>KLN Logistics Group Limited (\u2018KLN\u2019; Sxtock Code 0636.HK) today announced three strategic executive appointments aimed at accelerating its global expansion and strengthening its \u2026",
       "is_signal": true
     },
     {
@@ -888,10 +877,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Surging traffic at transhipment hubs hits container supply chain efficiency",
-      "link": "https://theloadstar.com/surging-traffic-at-transhipment-hubs-hits-container-supply-chain-efficiency/",
-      "published": "Mon, 13 Apr 2026 12:25:07 +0000",
-      "summary": "<p>The world\u2019s largest container transhipment hubs are tottering under the weight of their own success, with massive numbers of vessel calls undermining port productivity, according to a new analysis from Sea-Intelligence Consulting.<br />\nIts analysts have conducted an exhaustive statistical analys\u2026",
+      "title": "CMA CGM snaps up Beirut-based Fattal Group for undisclosed amount",
+      "link": "https://theloadstar.com/cma-cgm-snaps-up-beirut-based-fattal-group-for-undisclosed-amount/",
+      "published": "Tue, 14 Apr 2026 14:35:12 +0000",
+      "summary": "<p>PRESS RELEASE\u00a0<br />\nCMA CGM Group and the shareholders of Fattal Group have entered into an agreement for the acquisition of 100% of Fattal Group by CMA CGM\u00a0<br />\nBeirut April 14th, 2026<br />\nCMA CGM Group and the shareholders of Fattal Group have entered into an agreement for the acquisition \u2026",
       "is_signal": true
     },
     {
@@ -899,10 +888,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Trump threatens Hormuz blockade as FMC eyes probe into carrier surcharges",
-      "link": "https://theloadstar.com/trump-threatens-hormuz-blockade-as-fmc-eyes-probe-into-carrier-surcharges/",
-      "published": "Mon, 13 Apr 2026 12:10:45 +0000",
-      "summary": "<p>As Donald Trump threatens to blockade the Strait of Hormuz amid his perception of Iranian intransigence surrounding lifting of its own blockade, the US Federal Maritime Commission (FMC) has raised the spectre of a probe into Hormuz-related carrier surcharges.<br />\nOn Saturday, the FMC told shipp\u2026",
+      "title": "Carriers shift capacity as demand slows on Asia-Latin America west coast",
+      "link": "https://theloadstar.com/carriers-shift-capacity-as-demand-slows-on-asia-latin-america-west-coast/",
+      "published": "Tue, 14 Apr 2026 12:27:37 +0000",
+      "summary": "<p>Demand is weakening and freight rates are under pressure on the Asia-Latin America west coast trade, and amid an uncertain outlook carriers are positioning themselves in different ways.<br />\nZim Line appears to be on the brink of closing its standalone Asia-South America west coast ZAT service.<\u2026",
       "is_signal": true
     },
     {
@@ -910,11 +899,22 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Lufthansa Cargo maintains two-thirds capacity amid pilot strike disruption",
-      "link": "https://theloadstar.com/lufthansa-cargo-maintains-two-thirds-capacity-amid-pilot-strike-disruption/",
-      "published": "Mon, 13 Apr 2026 11:52:02 +0000",
-      "summary": "<p>Lufthansa Cargo says it can operate up to two-thirds of its freighter schedule despite disruption from a two-day pilot strike called by the Vereinigung Cockpit (VC) union, beginning today.<br />\nThe carrier said it had implemented \u201cshort-notice adjustments and flexible solutions\u201d to mitigate the \u2026",
-      "is_signal": false
+      "title": "US blockade \u2018won\u2019t change anything\u2019 for container traffic in the Gulf",
+      "link": "https://theloadstar.com/us-blockade-wont-change-anything-for-container-traffic-in-the-gulf/",
+      "published": "Tue, 14 Apr 2026 12:09:50 +0000",
+      "summary": "<p>Carriers are now contending with two choke points in the Strait of Hormuz, following the decision of Donald Trump to impose a US naval blockade on vessels heading to and from Iranian ports.<br />\nThe US president announced his intent to further gum up the waterway after efforts to negotiate an en\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Loadstar",
+      "category": "sector",
+      "title": "Hormuz stalemate could reshape container trade flows, warns analyst",
+      "link": "https://theloadstar.com/hormuz-stalemate-could-reshape-container-trade-flows-warns-analyst/",
+      "published": "Tue, 14 Apr 2026 11:30:50 +0000",
+      "summary": "<p>The disruption in the Strait of Hormuz risks evolving into a structural shift for global container shipping, according to analysts at Upply, who outlined scenarios that could reshape trade flows and supply chains.\u00a0<br />\nDuring a recent webinar, Upply said the industry was moving beyond the immed\u2026",
+      "is_signal": true
     },
     {
       "ticker": null,
@@ -1007,12 +1007,12 @@
     {
       "ticker": null,
       "company": null,
-      "source": "Digitimes",
+      "source": "Fratellowatches.com",
       "category": "broad",
-      "title": "Taiwan's chip program covers 200+ high-end devices to boost advanced IC design talent",
-      "link": "https://www.digitimes.com/news/a20260410PD232/taiwan-ic-design-talent-equipment-chips.html",
-      "published": "2026-04-12T23:24:26Z",
-      "summary": "The Chip-based Industrial Innovation Program (Taiwan CBI), a decade-long, NT$300 billion (US$9.4 billion) initiative launched by the Executive Yuan to support academic and research institutions in acquiring costly semiconductor equipment, has begun to achieve\u2026",
+      "title": "The Cartier Roadster Comes Roaring Back: It\u2019s Ready To Roll In Two Sizes",
+      "link": "https://www.fratellowatches.com/cartier-roadster-comes-roaring-back/",
+      "published": "2026-04-13T22:00:41Z",
+      "summary": "Sometimes, a watch release makes you feel old. The Cartier Roadster now comes roaring back, but I couldn\u2019t help but think it hadn\u2019t been that long since it debuted. Well, it turns out the launch of the first Roadster was 24 years ago. Anyway, Cartier has just\u2026",
       "is_signal": false
     }
   ],
