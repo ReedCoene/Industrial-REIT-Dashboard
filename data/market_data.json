@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T22:06:40.120319+00:00",
+  "last_updated": "2026-04-21T22:10:45.389730+00:00",
   "market_date": "April 21, 2026",
   "stocks": {
     "PLD": {
@@ -756,6 +756,17 @@
       "company": null,
       "source": "DC Velocity",
       "category": "sector",
+      "title": "Report: 65% of pharma supply chain leaders have limited confidence in AI",
+      "link": "https://www.dcvelocity.com/technology/artificial-intelligence/report-65-of-pharma-supply-chain-leaders-have-limited-confidence-in-ai",
+      "published": "Tue, 21 Apr 2026 22:08:39 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/image-of-human-head-overlaid-with-binary-digits.jpg?id=65599243&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><h3></h3><br /><p>Pharmaceutical companies are racing to deploy artificial intelligence (AI) across their supp\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "DC Velocity",
+      "category": "sector",
       "title": "Industry identifies top 3 women-friendly truck stops",
       "link": "https://www.dcvelocity.com/editorial/featured/industry-identifies-top-3-women-friendly-truck-stops",
       "published": "Tue, 21 Apr 2026 20:21:50 +0000",
@@ -794,17 +805,6 @@
       "published": "Mon, 20 Apr 2026 16:06:30 +0000",
       "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-john-paxton-mhi-ceo-on-stage-at-the-modex-2026-trade-show-during-the-keynote-presentation-on-the-mhi-annual-industry.jpg?id=65574467&amp;width=1245&amp;height=700&amp;coordinates=0%2C92%2C0%2C92\" /><br /><br /><h3></h3><br /><p>Artificial i\u2026",
       "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "DC Velocity",
-      "category": "sector",
-      "title": "Raymond showcases products that better connect operator and forklift truck",
-      "link": "https://www.dcvelocity.com/material-handling/raymond-showcases-products-that-better-connect-operator-and-forklift-truck",
-      "published": "Mon, 20 Apr 2026 15:59:58 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/a-photo-of-reach-truck-operator-wearing-raymond-s-integrated-tether-system.jpg?id=65574435&amp;width=1245&amp;height=700&amp;coordinates=0%2C475%2C0%2C476\" /><br /><br /><h3></h3><br /><p><a href=\"https://www.raymondcorp.com/\" target=\"_blank\">Raymon\u2026",
-      "is_signal": false
     },
     {
       "ticker": null,
