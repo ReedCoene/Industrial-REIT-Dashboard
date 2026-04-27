@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T22:12:48.196319+00:00",
+  "last_updated": "2026-04-27T22:28:11.939845+00:00",
   "market_date": "April 27, 2026",
   "stocks": {
     "PLD": {
@@ -93,7 +93,7 @@
       "prev_close": 65.28,
       "pct_change": 1.03,
       "market_cap": 7007612416,
-      "dividend_yield": 0,
+      "dividend_yield": 3.19,
       "fifty_two_week_high": 67.55,
       "fifty_two_week_low": 53.0,
       "next_earnings": "2026-05-06"
@@ -537,7 +537,7 @@
       "source": "TRNO",
       "category": "reit",
       "title": "Brandywine Realty Trust (BDN) Q1 FFO Meet Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brandywine-realty-trust-bdn-q1-214502824.html?.tsrc=rss",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brandywine-realty-trust-bdn-q1-214502698.html?.tsrc=rss",
       "published": "Wed, 22 Apr 2026 21:45:02 +0000",
       "summary": "Brandywine Realty Trust (BDN) delivered FFO and revenue surprises of 0.00% and +10.90%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
       "is_signal": true
@@ -756,54 +756,54 @@
       "company": null,
       "source": "DC Velocity",
       "category": "sector",
+      "title": "Avery Dennison takes $75 million stake in Wiliot",
+      "link": "https://www.dcvelocity.com/technology/automatic-data-capture/avery-dennison-takes-75-million-stake-in-wiliot",
+      "published": "Mon, 27 Apr 2026 22:19:51 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/image-of-parcel-box-with-sensor-tag.png?id=66525079&amp;width=1200&amp;height=800&amp;coordinates=0%2C158%2C0%2C158\" /><br /><br /><h3></h3><br /><p>Avery Dennison Corp., the digital identification solutions vendor, <a href=\"https://www.averydenniso\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "DC Velocity",
+      "category": "sector",
+      "title": "Diesel price spike: older class 8 trucks feel more pain",
+      "link": "https://www.dcvelocity.com/transportation/trucking/diesel-price-spike-older-class-8-trucks-feel-more-pain",
+      "published": "Mon, 27 Apr 2026 22:15:54 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/chart-of-diesel-gas-prices.png?id=66524758&amp;width=1200&amp;height=800&amp;coordinates=155%2C0%2C155%2C0\" /><br /><br /><h3></h3><br /><p>Fleets operating older model class 8 trucks are feeling more pain from the diesel price spikes triggered by t\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "DC Velocity",
+      "category": "sector",
+      "title": "3PL Geodis opens its first cold-chain facility in Americas for healthcare sector",
+      "link": "https://www.dcvelocity.com/logistics/warehousing/3pl-geodis-opens-its-first-cold-chain-facility-in-americas-for-healthcare-sector",
+      "published": "Mon, 27 Apr 2026 22:13:12 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-a-cold-chain-warehouse.jpg?id=66524463&amp;width=1200&amp;height=800&amp;coordinates=40%2C0%2C41%2C0\" /><br /><br /><h3></h3><br /><p>Third party logistics (3PL) provider <a href=\"https://geodis.com/us-en/newsroom/geodis-unveils-first-cold-\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "DC Velocity",
+      "category": "sector",
+      "title": "Matternet begins drone deliveries for London healthcare sector",
+      "link": "https://www.dcvelocity.com/transportation/drone-deliveries/matternet-begins-drone-deliveries-for-london-healthcare-sector",
+      "published": "Mon, 27 Apr 2026 22:09:50 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-delivery-drone-flying-in-the-air.jpg?id=66524064&amp;width=1200&amp;height=800&amp;coordinates=156%2C0%2C156%2C0\" /><br /><br /><h3></h3><br /><p>Airborne drone delivery provider Matternet today said it had started operations in Central Lon\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "DC Velocity",
+      "category": "sector",
       "title": "In Person interview: Brad White of Werner",
       "link": "https://www.dcvelocity.com/transportation/in-person-interview-brad-white-of-werner",
       "published": "Mon, 27 Apr 2026 14:04:11 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/brad-white.jpg?id=66442699&amp;width=1245&amp;height=700&amp;coordinates=0%2C62%2C0%2C63\" /><br /><br /><h3></h3><br /><p>Brad White serves as director of safety and compliance at transportation and logistics giant <a href=\"https://www.werner.com/\" \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "DC Velocity",
-      "category": "sector",
-      "title": "Accenture: Humanoid robot runs warehouse pilot project in Germany",
-      "link": "https://www.dcvelocity.com/material-handling/robotics/accenture-humanoid-robot-runs-warehouse-pilot-project-in-germany",
-      "published": "Fri, 24 Apr 2026 21:35:04 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-humanoid-robot-working-in-warehouse.jpg?id=66034280&amp;width=1245&amp;height=700&amp;coordinates=59%2C0%2C60%2C0\" /><br /><br /><h3></h3><br /><p>Consulting firm Accenture is partnering with Vodafone and SAP <a href=\"https://newsroom.accen\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "DC Velocity",
-      "category": "sector",
-      "title": "Zebra sells off its Fetch AMR division",
-      "link": "https://www.dcvelocity.com/material-handling/robotics/zebra-sells-off-its-fetch-amr-division",
-      "published": "Fri, 24 Apr 2026 21:30:19 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/image-of-robots-moving-around-a-warehouse.jpg?id=66033260&amp;width=1245&amp;height=700&amp;coordinates=168%2C0%2C168%2C0\" /><br /><br /><h3></h3><br /><p>Zebra Technologies Corp. has sold off the Fetch Robotics division it acquired five years ago, \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "DC Velocity",
-      "category": "sector",
-      "title": "Career logistics award goes to Penske\u2019s Doucette",
-      "link": "https://www.dcvelocity.com/transportation/trucking/career-logistics-award-goes-to-penskes-doucette",
-      "published": "Fri, 24 Apr 2026 21:23:47 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-prize-winners-on-stage.png?id=66032813&amp;width=1245&amp;height=700&amp;coordinates=44%2C0%2C44%2C0\" /><br /><br /><h3></h3><br /><p><a href=\"https://www.womenintrucking.org/press-releases/aur%C3%A9lie-doucette-named-2026-distinguished-wom\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "DC Velocity",
-      "category": "sector",
-      "title": "Honeywell sells Intelligrated division to a private equity firm",
-      "link": "https://www.dcvelocity.com/supply-chain/other-services/systems-integration-services/honeywell-sells-intelligrated-division-to-a-private-equity-firm",
-      "published": "Thu, 23 Apr 2026 22:52:52 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-worker-driving-forjlift-down-warehouse-aisle.webp?id=65885053&amp;width=1245&amp;height=700&amp;coordinates=0%2C37%2C0%2C38\" /><br /><br /><h3></h3><br /><p>Supply chain technology vendor Honeywell is continuing to trim its waistline, <a hr\u2026",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/brad-white.jpg?id=66442699&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><h3></h3><br /><p>Brad White serves as director of safety and compliance at transportation and logistics giant <a href=\"https://www.werner.com/\" ta\u2026",
       "is_signal": true
     },
     {
