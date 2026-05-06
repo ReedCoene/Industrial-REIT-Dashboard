@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T22:12:50.185218+00:00",
+  "last_updated": "2026-05-06T22:26:41.580415+00:00",
   "market_date": "May 06, 2026",
   "stocks": {
     "PLD": {
@@ -1084,13 +1084,13 @@
     {
       "ticker": null,
       "company": null,
-      "source": "Financial Post",
+      "source": "PRNewswire",
       "category": "broad",
-      "title": "Dream Industrial REIT Reports Q1 2026 Results With 9% Comparative Properties Net Operating Income and 7% Net Rental Income Growth",
-      "link": "https://financialpost.com/pmn/business-wire-news-releases-pmn/dream-industrial-reit-reports-q1-2026-results-with-9-comparative-properties-net-operating-income-and-7-net-rental-income-growth",
-      "published": "2026-05-05T21:43:07Z",
-      "summary": "This press release contains forward-looking information that is based upon assumptions and is subject to risks and uncertainties as indicated in the cautionary note contained within this press release. All dollar amounts are in Canadian dollars unless otherwi\u2026",
-      "is_signal": true
+      "title": "/C O R R E C T I O N -- Clearwater PACE/",
+      "link": "https://www.prnewswire.com/news-releases/clearwater-pace-closes-33-million-c-pace-financing-for-ameyalli-wellbeing-resort-302762451.html",
+      "published": "2026-05-05T22:17:00Z",
+      "summary": "In the news release, Clearwater PACE Closes $33 Million C-PACE Financing for Ameyalli Wellbeing Resort, issued 05-May-2026 by Clearwater PACE over PR Newswire, we are advised by the company that the references to financial backing from Ares Management have be\u2026",
+      "is_signal": false
     }
   ],
   "weekly_report": null,
