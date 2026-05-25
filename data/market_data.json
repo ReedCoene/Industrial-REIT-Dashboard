@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T22:33:25.576636+00:00",
+  "last_updated": "2026-05-25T22:36:08.210958+00:00",
   "market_date": "May 25, 2026",
   "stocks": {
     "PLD": {
@@ -213,50 +213,6 @@
   ],
   "news": [
     {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
-      "title": "What Sun Communities' $1.03B UK Asset Sale Means for Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sun-communities-1-03b-uk-163800784.html?.tsrc=rss",
-      "published": "Fri, 22 May 2026 16:38:00 +0000",
-      "summary": "SUI's $1.03B all-cash U.K. asset sale sharpens its North American MH/RV focus and adds flexibility for debt cuts, growth, or returns.",
-      "is_signal": true
-    },
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
-      "title": "Prologis Growth Plans Blend Logistics Strength With New Data Center Focus",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prologis-growth-plans-blend-logistics-132341831.html?.tsrc=rss",
-      "published": "Fri, 22 May 2026 13:23:41 +0000",
-      "summary": "Prologis (NYSE:PLD) reported strong first quarter results, supported by solid leasing activity and capital recycling. The company raised its development outlook for 2026, signaling a larger future project pipeline. Prologis outlined new business initiatives, including plans to expand into data cente\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
-      "title": "GRS Advisors Opens $49 Million Broadstone Net Lease Position, According to Recent SEC Filing",
-      "link": "https://www.fool.com/coverage/filings/2026/05/20/grs-advisors-opens-usd49-million-broadstone-net-lease-position-according-to-recent-sec-filing/?.tsrc=rss",
-      "published": "Wed, 20 May 2026 20:15:49 +0000",
-      "summary": "Broadstone Net Lease has the steady rent base investors expect from long-term tenant contracts. The next question is whether new property investments can turn that stability into per-share growth.",
-      "is_signal": true
-    },
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
-      "title": "5 Reasons to Add Prologis Stock to Your Portfolio Right Now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-reasons-add-prologis-stock-141500945.html?.tsrc=rss",
-      "published": "Tue, 19 May 2026 14:15:00 +0000",
-      "summary": "PLD's record leasing, data center expansion and raised 2026 NOI outlook support further upside after strong first-quarter results.",
-      "is_signal": true
-    },
-    {
       "ticker": "EGP",
       "company": "EastGroup Properties",
       "source": "EGP",
@@ -299,50 +255,6 @@
       "published": "Tue, 05 May 2026 16:45:03 +0000",
       "summary": "EastGroup Properties (EGP) is well positioned to outperform the market, as it exhibits above-average growth in financials.",
       "is_signal": false
-    },
-    {
-      "ticker": "FR",
-      "company": "First Industrial Realty Trust",
-      "source": "FR",
-      "category": "reit",
-      "title": "How First Industrial\u2019s Strong Q1 Results and Higher 2026 Earnings Guidance Will Impact First Industrial Realty Trust (FR) Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-industrial-strong-q1-results-080501963.html?.tsrc=rss",
-      "published": "Sun, 03 May 2026 08:05:01 +0000",
-      "summary": "First Industrial Realty Trust, Inc. reported first-quarter 2026 results showing revenue of US$194.83 million and net income of US$143.1 million, and in April 2026 issued full-year 2026 net income guidance of US$2.32\u2013US$2.42 per share while declaring a quarterly dividend of US$0.50 per share payable \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "FR",
-      "company": "First Industrial Realty Trust",
-      "source": "FR",
-      "category": "reit",
-      "title": "First Industrial Shareholders Re-elect All Company Directors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-industrial-shareholders-elect-company-202000927.html?.tsrc=rss",
-      "published": "Thu, 30 Apr 2026 20:20:00 +0000",
-      "summary": "First Industrial Realty Trust, Inc. (NYSE: FR), a leading fully integrated owner, operator and developer of logistics real estate, today announced that, based on the final vote count provided by its Independent Inspector of Elections following the Company's 2026 Annual Meeting of Stockholders (the \"\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "FR",
-      "company": "First Industrial Realty Trust",
-      "source": "FR",
-      "category": "reit",
-      "title": "First Industrial Declares Common Stock Dividends",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-industrial-declares-common-stock-201900308.html?.tsrc=rss",
-      "published": "Thu, 30 Apr 2026 20:19:00 +0000",
-      "summary": "First Industrial Realty Trust, Inc. (NYSE: FR), a leading fully integrated owner, operator and developer of logistics real estate, today announced that its board of directors declared a common stock dividend of $0.50 per share/unit for the quarter ending June 30, 2026 payable on July 20, 2026 to sto\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "FR",
-      "company": "First Industrial Realty Trust",
-      "source": "FR",
-      "category": "reit",
-      "title": "First Industrial Realty Trust Inc (FR) Q1 2026 Earnings Call Highlights: Strong Leasing ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-industrial-realty-trust-inc-071332050.html?.tsrc=rss",
-      "published": "Fri, 24 Apr 2026 07:13:32 +0000",
-      "summary": "First Industrial Realty Trust Inc (FR) reports robust cash rental rate increases and a significant land sale, despite advisory cost impacts.",
-      "is_signal": true
     },
     {
       "ticker": "REXR",
@@ -562,94 +474,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/national-storage-nsa-surpasses-q1-003010652.html?.tsrc=rss",
       "published": "Wed, 06 May 2026 00:30:10 +0000",
       "summary": "National Storage (NSA) delivered FFO and revenue surprises of +4.90% and -0.43%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "is_signal": true
-    },
-    {
-      "ticker": "IIPR",
-      "company": "Innovative Industrial Properties",
-      "source": "IIPR",
-      "category": "reit",
-      "title": "The Most Important Marijuana Stock You're Not Watching",
-      "link": "https://www.fool.com/investing/2026/05/23/the-most-important-marijuana-stock-youre-not-watch/?.tsrc=rss",
-      "published": "Sat, 23 May 2026 08:20:00 +0000",
-      "summary": "It's an unuaual company, in that it doesn't sell a single ounce of weed.",
-      "is_signal": false
-    },
-    {
-      "ticker": "IIPR",
-      "company": "Innovative Industrial Properties",
-      "source": "IIPR",
-      "category": "reit",
-      "title": "Refinancing Shift At Innovative Industrial Properties Reshapes Debt And Investor Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/refinancing-shift-innovative-industrial-properties-051327816.html?.tsrc=rss",
-      "published": "Fri, 22 May 2026 05:13:27 +0000",
-      "summary": "Innovative Industrial Properties (NYSE:IIPR) has closed multiple secured term loans totaling over $44 million. The company is using the proceeds to refinance upcoming unsecured debt with new long term, fixed rate financing. The new loans are backed by mortgages on certain properties and company guar\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "IIPR",
-      "company": "Innovative Industrial Properties",
-      "source": "IIPR",
-      "category": "reit",
-      "title": "A Look At Innovative Industrial Properties (IIPR) Valuation After Recent Share Price Momentum",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/look-innovative-industrial-properties-iipr-080944491.html?.tsrc=rss",
-      "published": "Thu, 21 May 2026 08:09:44 +0000",
-      "summary": "Recent performance in Innovative Industrial Properties (IIPR), including a 21.23% total return over the past 3 months and a 17.37% total return over the past year, has prompted fresh attention on this cannabis-focused REIT. See our latest analysis for Innovative Industrial Properties. The recent sha\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": "IIPR",
-      "company": "Innovative Industrial Properties",
-      "source": "IIPR",
-      "category": "reit",
-      "title": "Innovative Industrial Properties Announces Closing of $45 Million in Secured Term Loans",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-announces-closing-103000109.html?.tsrc=rss",
-      "published": "Wed, 20 May 2026 10:30:00 +0000",
-      "summary": "SAN DIEGO, May 20, 2026--Innovative Industrial Properties, Inc. (IIP) (NYSE: IIPR) announced today it has closed on four secured term loans totaling $44.9 million in gross proceeds (the \"Loans\"). The Loans have an initial term of five years, bear interest at a fixed rate of 6.67% and are secured by \u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": "ILPT",
-      "company": "Industrial Logistics Properties Trust",
-      "source": "ILPT",
-      "category": "reit",
-      "title": "Industrial Logistics Properties Trust to Present at Nareit\u2019s REITweek 2026 Investor Conference on Tuesday, June 2nd",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/industrial-logistics-properties-trust-present-120000411.html?.tsrc=rss",
-      "published": "Thu, 21 May 2026 12:00:00 +0000",
-      "summary": "NEWTON, Mass., May 21, 2026--Industrial Logistics Properties Trust (Nasdaq: ILPT) today announced that President and Chief Executive Officer Yael Duffy and Chief Financial Officer and Treasurer Tiffany Sy will be presenting at Nareit\u2019s REITweek 2026 Investor Conference in New York, NY on Tuesday, Ju\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "ILPT",
-      "company": "Industrial Logistics Properties Trust",
-      "source": "ILPT",
-      "category": "reit",
-      "title": "The RMR Group Q2 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/the-rmr-group-q2-earnings-call-highlights-2026-05-08/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "published": "Sat, 09 May 2026 00:07:42 +0000",
-      "summary": "The RMR Group (NASDAQ:RMR) reported fiscal second-quarter 2026 results at or above the high end of its outlook, as management highlighted incentive fees from managed REITs, ongoing private capital fundraising efforts and recent balance sheet investments. President and CEO Adam Portnoy said RMR gene",
-      "is_signal": true
-    },
-    {
-      "ticker": "ILPT",
-      "company": "Industrial Logistics Properties Trust",
-      "source": "ILPT",
-      "category": "reit",
-      "title": "Are You Looking for a Top Momentum Pick? Why Industrial Logistics Properties Trust (ILPT) is a Great Choice",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/looking-top-momentum-pick-why-160004444.html?.tsrc=rss",
-      "published": "Wed, 06 May 2026 16:00:04 +0000",
-      "summary": "Does Industrial Logistics Properties Trust (ILPT) have what it takes to be a top stock pick for momentum investors? Let's find out.",
-      "is_signal": true
-    },
-    {
-      "ticker": "ILPT",
-      "company": "Industrial Logistics Properties Trust",
-      "source": "ILPT",
-      "category": "reit",
-      "title": "How The Industrial Logistics Properties Trust (ILPT) Narrative Is Shifting With The Refined US$9.50 Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/industrial-logistics-properties-trust-ilpt-091234802.html?.tsrc=rss",
-      "published": "Sun, 03 May 2026 09:12:34 +0000",
-      "summary": "The latest analyst update on Industrial Logistics Properties Trust shifts the price target from $8.00 to $9.50, with fair value in the underlying model moving from $7.70 to $9.40. Analysts describe this as a refinement of fair value assumptions rather than a major reset, linking the change to how cu\u2026",
       "is_signal": true
     },
     {
