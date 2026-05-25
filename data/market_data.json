@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T22:36:30.830408+00:00",
-  "market_date": "May 22, 2026",
+  "last_updated": "2026-05-25T22:33:25.576636+00:00",
+  "market_date": "May 25, 2026",
   "stocks": {
     "PLD": {
       "name": "Prologis",
@@ -9,9 +9,9 @@
       "prev_close": 144.63,
       "pct_change": 0.88,
       "market_cap": 136028102656,
-      "dividend_yield": 2.96,
-      "fifty_two_week_high": 146.2599,
-      "fifty_two_week_low": 103.02,
+      "dividend_yield": 2.93,
+      "fifty_two_week_high": 146.27,
+      "fifty_two_week_low": 103.41,
       "next_earnings": "2026-07-15"
     },
     "EGP": {
@@ -33,7 +33,7 @@
       "prev_close": 62.44,
       "pct_change": 1.35,
       "market_cap": 8670400512,
-      "dividend_yield": 3.03,
+      "dividend_yield": 2.99,
       "fifty_two_week_high": 64.66,
       "fifty_two_week_low": 47.36,
       "next_earnings": "2026-07-22"
@@ -45,7 +45,7 @@
       "prev_close": 36.06,
       "pct_change": 0.33,
       "market_cap": 8370766336,
-      "dividend_yield": 4.8,
+      "dividend_yield": 4.78,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 32.14,
       "next_earnings": "2026-07-15"
@@ -57,7 +57,7 @@
       "prev_close": 38.09,
       "pct_change": 0.16,
       "market_cap": 7447048704,
-      "dividend_yield": 4.07,
+      "dividend_yield": 4.06,
       "fifty_two_week_high": 39.99,
       "fifty_two_week_low": 33.72,
       "next_earnings": "2026-07-28"
@@ -69,7 +69,7 @@
       "prev_close": 51.99,
       "pct_change": 0.48,
       "market_cap": 3079679232,
-      "dividend_yield": 5.29,
+      "dividend_yield": 5.26,
       "fifty_two_week_high": 52.79,
       "fifty_two_week_low": 38.2,
       "next_earnings": "2026-07-29"
@@ -81,7 +81,7 @@
       "prev_close": 14.44,
       "pct_change": 2.56,
       "market_cap": 4245618176,
-      "dividend_yield": 6.37,
+      "dividend_yield": 6.21,
       "fifty_two_week_high": 18.08,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-08-06"
@@ -93,7 +93,7 @@
       "prev_close": 66.36,
       "pct_change": -0.47,
       "market_cap": 6982633472,
-      "dividend_yield": 3.13,
+      "dividend_yield": 3.15,
       "fifty_two_week_high": 67.55,
       "fifty_two_week_low": 53.0,
       "next_earnings": "2026-08-05"
@@ -105,7 +105,7 @@
       "prev_close": 56.39,
       "pct_change": 1.19,
       "market_cap": 1641871360,
-      "dividend_yield": 13.48,
+      "dividend_yield": 13.32,
       "fifty_two_week_high": 61.395,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-05-04"
@@ -117,9 +117,9 @@
       "prev_close": 8.68,
       "pct_change": -1.09,
       "market_cap": 572323072,
-      "dividend_yield": 2.3,
+      "dividend_yield": 2.33,
       "fifty_two_week_high": 8.89,
-      "fifty_two_week_low": 3.03,
+      "fifty_two_week_low": 3.125,
       "next_earnings": "2026-07-28"
     },
     "MDV": {
@@ -129,7 +129,7 @@
       "prev_close": 18.27,
       "pct_change": -0.16,
       "market_cap": 188303744,
-      "dividend_yield": 6.57,
+      "dividend_yield": 6.58,
       "fifty_two_week_high": 18.48,
       "fifty_two_week_low": 13.8,
       "next_earnings": "2026-08-06"
@@ -143,7 +143,7 @@
       "prev_close": 14.44,
       "pct_change": 2.56,
       "market_cap": 4245618176,
-      "dividend_yield": 6.37,
+      "dividend_yield": 6.21,
       "fifty_two_week_high": 18.08,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-08-06"
@@ -155,7 +155,7 @@
       "prev_close": 62.44,
       "pct_change": 1.35,
       "market_cap": 8670400512,
-      "dividend_yield": 3.03,
+      "dividend_yield": 2.99,
       "fifty_two_week_high": 64.66,
       "fifty_two_week_low": 47.36,
       "next_earnings": "2026-07-22"
@@ -167,7 +167,7 @@
       "prev_close": 56.39,
       "pct_change": 1.19,
       "market_cap": 1641871360,
-      "dividend_yield": 13.48,
+      "dividend_yield": 13.32,
       "fifty_two_week_high": 61.395,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-05-04"
@@ -181,7 +181,7 @@
       "prev_close": 18.27,
       "pct_change": -0.16,
       "market_cap": 188303744,
-      "dividend_yield": 6.57,
+      "dividend_yield": 6.58,
       "fifty_two_week_high": 18.48,
       "fifty_two_week_low": 13.8,
       "next_earnings": "2026-08-06"
@@ -193,7 +193,7 @@
       "prev_close": 66.36,
       "pct_change": -0.47,
       "market_cap": 6982633472,
-      "dividend_yield": 3.13,
+      "dividend_yield": 3.15,
       "fifty_two_week_high": 67.55,
       "fifty_two_week_low": 53.0,
       "next_earnings": "2026-08-05"
@@ -205,9 +205,9 @@
       "prev_close": 8.68,
       "pct_change": -1.09,
       "market_cap": 572323072,
-      "dividend_yield": 2.3,
+      "dividend_yield": 2.33,
       "fifty_two_week_high": 8.89,
-      "fifty_two_week_low": 3.03,
+      "fifty_two_week_low": 3.125,
       "next_earnings": "2026-07-28"
     }
   ],
@@ -393,6 +393,17 @@
       "company": "STAG Industrial",
       "source": "STAG",
       "category": "reit",
+      "title": "Stag Industrial (STAG) Could Be a Great Choice",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stag-industrial-stag-could-great-154503336.html?.tsrc=rss",
+      "published": "Mon, 25 May 2026 15:45:03 +0000",
+      "summary": "Dividends are one of the best benefits to being a shareholder, but finding a great dividend stock is no easy task. Does Stag (STAG) have what it takes? Let's find out.",
+      "is_signal": true
+    },
+    {
+      "ticker": "STAG",
+      "company": "STAG Industrial",
+      "source": "STAG",
+      "category": "reit",
       "title": "What Does Americold's Jeronimo Martins Deal Mean for its Growth?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/does-americolds-jeronimo-martins-deal-160500392.html?.tsrc=rss",
       "published": "Thu, 21 May 2026 16:05:00 +0000",
@@ -419,17 +430,6 @@
       "link": "https://finance.yahoo.com/news/stag-industrial-publishes-2025-sustainability-202300124.html?.tsrc=rss",
       "published": "Wed, 13 May 2026 20:23:00 +0000",
       "summary": "STAG Industrial, Inc. (the \"Company\") (NYSE: STAG) announced today that it has published its 2025 Sustainability Report.",
-      "is_signal": false
-    },
-    {
-      "ticker": "STAG",
-      "company": "STAG Industrial",
-      "source": "STAG",
-      "category": "reit",
-      "title": "The Nationwide Social Security Survey Says Most Americans Are Flying Blind on Benefits, Here\u2019s the Income Strategy That Fills the Gap",
-      "link": "https://247wallst.com/personal-finance/2026/05/08/the-nationwide-social-security-survey-says-most-americans-are-flying-blind-on-benefits-heres-the-income-strategy-that-fills-the-gap/?.tsrc=rss",
-      "published": "Fri, 08 May 2026 19:40:46 +0000",
-      "summary": "A new Nationwide Retirement Institute survey paints a stark picture: most Americans approaching retirement do not actually understand the program they are banking on. Only 21% of respondents correctly identified their full retirement age based on their year of birth, and the average adult answered j\u2026",
       "is_signal": false
     },
     {
@@ -569,6 +569,17 @@
       "company": "Innovative Industrial Properties",
       "source": "IIPR",
       "category": "reit",
+      "title": "The Most Important Marijuana Stock You're Not Watching",
+      "link": "https://www.fool.com/investing/2026/05/23/the-most-important-marijuana-stock-youre-not-watch/?.tsrc=rss",
+      "published": "Sat, 23 May 2026 08:20:00 +0000",
+      "summary": "It's an unuaual company, in that it doesn't sell a single ounce of weed.",
+      "is_signal": false
+    },
+    {
+      "ticker": "IIPR",
+      "company": "Innovative Industrial Properties",
+      "source": "IIPR",
+      "category": "reit",
       "title": "Refinancing Shift At Innovative Industrial Properties Reshapes Debt And Investor Outlook",
       "link": "https://finance.yahoo.com/markets/stocks/articles/refinancing-shift-innovative-industrial-properties-051327816.html?.tsrc=rss",
       "published": "Fri, 22 May 2026 05:13:27 +0000",
@@ -596,17 +607,6 @@
       "published": "Wed, 20 May 2026 10:30:00 +0000",
       "summary": "SAN DIEGO, May 20, 2026--Innovative Industrial Properties, Inc. (IIP) (NYSE: IIPR) announced today it has closed on four secured term loans totaling $44.9 million in gross proceeds (the \"Loans\"). The Loans have an initial term of five years, bear interest at a fixed rate of 6.67% and are secured by \u2026",
       "is_signal": false
-    },
-    {
-      "ticker": "IIPR",
-      "company": "Innovative Industrial Properties",
-      "source": "IIPR",
-      "category": "reit",
-      "title": "Small REIT ETF paying monthly dividends faces refinancing squeeze as rates hold steady",
-      "link": "https://247wallst.com/investing/2026/05/13/small-reit-etf-paying-monthly-dividends-faces-refinancing-squeeze-as-rates-hold-steady/?.tsrc=rss",
-      "published": "Wed, 13 May 2026 11:36:30 +0000",
-      "summary": "Invesco KBW Premium Yield Equity REIT ETF (NASDAQ:KBWY) delivers an outsized monthly dividend from small- and mid-cap U.S. equity REITs. KBWY currently pays around $0.125 per share each month, which translates to a trailing yield of roughly 9% on a share price of $17. The harder question is whether \u2026",
-      "is_signal": true
     },
     {
       "ticker": "ILPT",
@@ -921,6 +921,39 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
+      "title": "AFR: WiseTech CEO receives \u2018threat of violence\u2019 over redundancies",
+      "link": "https://theloadstar.com/afr-wisetech-ceo-receives-threat-of-violence-over-redundancies/",
+      "published": "Mon, 25 May 2026 17:46:20 +0000",
+      "summary": "<p>AFR reports:<br />\nWiseTech Global chief executive Zubin Appoo has been threatened with violence as tensions boil over at the logistics software provider over its handling of 2000 redundancies, including comments by founder Richard White about replacing staff with artificial intelligence.<br />\nW\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Loadstar",
+      "category": "sector",
+      "title": "Shipowner interest in newbuilds remains firm outside Europe",
+      "link": "https://theloadstar.com/shipowner-interest-in-newbuilds-remains-firm-outside-europe/",
+      "published": "Mon, 25 May 2026 09:00:15 +0000",
+      "summary": "<p>Taiwan\u2019s Evergreen showed its ambition last week as the seventh-largest shipping line finalised orders for five 24,000 teu LNG dual-fuelled ships at Guangzhou Shipyard International, for between $1.3bn and $1.48bn.<br />\nEvergreen\u2019s directors approved the newbuilding order in 2025, but the contra\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Loadstar",
+      "category": "sector",
+      "title": "News in Brief podcast | Week 21 2026 | Overcapacity, contracting, and elevated air rates",
+      "link": "https://theloadstar.com/news-in-brief-podcast-week-21-2026-overcapacity-contracting-and-elevated-air-rates/",
+      "published": "Sun, 24 May 2026 16:00:35 +0000",
+      "summary": "<p>This week on The Loadstar News in Brief Podcast, Charlotte Goldstone is joined by Noatum Logistics\u2019 Stephanie Loomis to unpack the shifting dynamics in ocean freight, from the disappearance of traditional peak season patterns to evolving carrier behaviour amid persistent overcapacity. They also d\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Loadstar",
+      "category": "sector",
       "title": "Europe-Africa trade: more one-way traffic these days",
       "link": "https://theloadstar.com/europe-africa-trade-more-one-way-traffic-these-days/",
       "published": "Fri, 22 May 2026 14:00:30 +0000",
@@ -941,35 +974,13 @@
     {
       "ticker": null,
       "company": null,
-      "source": "The Loadstar",
-      "category": "sector",
-      "title": "Freight rate recovery \u2018more about demand than blanked sailings\u2019",
-      "link": "https://theloadstar.com/freight-rate-recovery-more-about-demand-than-blanked-sailings/",
-      "published": "Fri, 22 May 2026 12:14:13 +0000",
-      "summary": "<p>Container spot rate pricing momentum was firmly behind Asia-Europe carriers this week, with double-digit increases seen on the routes into North Europe and the Mediterranean.<br />\nThis week\u2019s World Container Index (WCI) from Drewry showed how the 15 May FAK (freight all kinds) rate levels implem\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Loadstar",
-      "category": "sector",
-      "title": "Fifteen years of Cargolux results reveal air cargo\u2019s uneven new era",
-      "link": "https://theloadstar.com/fifteen-years-of-cargolux-results-reveal-air-cargos-uneven-new-era/",
-      "published": "Fri, 22 May 2026 12:05:30 +0000",
-      "summary": "<p>Here at\u00a0The Loadstar,\u00a0we\u2019ve\u00a0been watching Cargolux for\u00a0well over\u00a0a decade. It has had\u00a0its\u00a0ups and downs\u00a0\u2013 from financial\u00a0stress to union trouble\u00a0and ownership changes.\u00a0But one\u00a0thing has become increasingly clear: the airline\u2019s fortunes tend to mirror the wider cargo market remarkably closely.\u00a0<br\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Loadstar",
-      "category": "sector",
-      "title": "TS Lines founder Chen Te-sheng set to hand the reins to his son",
-      "link": "https://theloadstar.com/ts-lines-founder-chen-te-sheng-set-to-hand-the-reins-to-his-son/",
-      "published": "Fri, 22 May 2026 11:13:45 +0000",
-      "summary": "<p>TS Lines founding chairman and CEO Chen Te-sheng will retire on 1 June and hand over the reins to his son, Chen Shao-hsiang (pictured).<br />\nThe regional carrier said yesterday that this was part of a pre-established succession plan, and 74-year-old Mr Chen will take on a senior advisory role, i\u2026",
-      "is_signal": false
+      "source": "Financial Post",
+      "category": "broad",
+      "title": "Granite REIT Announces Renewal of Normal Course Issuer Bid",
+      "link": "https://financialpost.com/pmn/business-wire-news-releases-pmn/granite-reit-announces-renewal-of-normal-course-issuer-bid-2",
+      "published": "2026-05-22T11:00:21Z",
+      "summary": "TORONTO \u2014 Granite Real Estate Investment Trust (TSX: GRT.UN) (\u201cGranite REIT\u201d or \u201cGranite\u201d) today announced the acceptance by the Toronto Stock Exchange (the \u201cTSX\u201d) of Granite\u2019s Notice of Intention to Make a Normal Course Issuer Bid (\u201cNCIB\u201d). Pursuant to the N\u2026",
+      "is_signal": true
     },
     {
       "ticker": null,
@@ -1058,61 +1069,6 @@
       "published": "2026-05-12T20:01:47Z",
       "summary": "Realterm, a global investment manager that focuses on the transportation industry, has announced the acquisition of 935 Garrison Avenue, a 1-acre industrial outdoor storage (IOS) site in the Bronx\u2019s Hunts Point neighborhood.\u00a0 This acquisition marks Realterm\u2019s\u2026",
       "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Supply Chain Dive",
-      "category": "broad",
-      "title": "Ulta to open nearly 400K square-foot distribution center in Utah",
-      "link": "https://www.supplychaindive.com/news/ulta-to-open-nearly-400k-square-foot-distribution-center-in-utah/819471/",
-      "published": "2026-05-12T12:00:00Z",
-      "summary": "The Salt Lake City facility aims to service up to 180 stores in the Pacific Northwest and Mountain Plains region and support the retailer\u2019s distribution hub ...",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Crypto Briefing",
-      "category": "broad",
-      "title": "AGILINK raises hundreds of millions at $1B valuation, shipping thousands of robotic hands since January",
-      "link": "https://cryptobriefing.com/agilink-billion-dollar-valuation-robotic-hands/",
-      "published": "2026-05-21T22:08:58Z",
-      "summary": "AGILINK's rapid growth and significant funding highlight the increasing demand and potential for advanced robotics in diverse industries.\nThe post AGILINK raises hundreds of millions at $1B valuation, shipping thousands of robotic hands since January appeared\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Breitbart News",
-      "category": "broad",
-      "title": "Breitbart Business Digest: AI\u2019s Real Economic Footprint Is Massive",
-      "link": "https://www.breitbart.com/economy/2026/05/21/breitbart-business-digest-ais-real-economic-footprint-is-massive/",
-      "published": "2026-05-21T21:58:16Z",
-      "summary": "The AI investment boom is now large enough to show up across the economy.\nThe post Breitbart Business Digest: AI\u2019s Real Economic Footprint Is Massive appeared first on Breitbart.",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Japan Today",
-      "category": "broad",
-      "title": "From conflict to cleaning, expo showcases China's drone dominance",
-      "link": "https://japantoday.com/category/business/from-conflict-to-cleaning-expo-showcases-china%27s-drone-dominance",
-      "published": "2026-05-21T21:53:33Z",
-      "summary": "Russians looking for drone interceptors brushed shoulders with entrepreneurs keen to see the latest industrial cleaning technology at a massive industry expo showcasing China's dominance of the drone industry on Thursday. Unmanned aerial vehicles of all sizes\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Pypi.org",
-      "category": "broad",
-      "title": "procaaso-field-device added to PyPI",
-      "link": "https://pypi.org/project/procaaso-field-device/",
-      "published": "2026-05-21T21:34:11Z",
-      "summary": "Multi-protocol industrial communications library with a four-layer architecture (Client / Driver / Unit / Device) for VFDs, I/O modules, sensors, and motor controllers.",
-      "is_signal": false
     }
   ],
   "weekly_report": null,
