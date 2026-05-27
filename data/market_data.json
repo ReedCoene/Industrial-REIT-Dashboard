@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-05-26T22:50:54.229570+00:00",
-  "market_date": "May 26, 2026",
+  "last_updated": "2026-05-27T22:55:39.272514+00:00",
+  "market_date": "May 27, 2026",
   "stocks": {
     "PLD": {
       "name": "Prologis",
       "ticker": "PLD",
-      "price": 146.94,
-      "prev_close": 145.9,
-      "pct_change": 0.71,
-      "market_cap": 136997748736,
-      "dividend_yield": 2.93,
+      "price": 146.52,
+      "prev_close": 146.94,
+      "pct_change": -0.29,
+      "market_cap": 136606162944,
+      "dividend_yield": 2.91,
       "fifty_two_week_high": 147.93,
       "fifty_two_week_low": 103.41,
       "next_earnings": "2026-07-15"
@@ -17,11 +17,11 @@
     "EGP": {
       "name": "EastGroup Properties",
       "ticker": "EGP",
-      "price": 206.98,
-      "prev_close": 205.16,
-      "pct_change": 0.89,
-      "market_cap": 11126256640,
-      "dividend_yield": 3.02,
+      "price": 205.67,
+      "prev_close": 206.98,
+      "pct_change": -0.63,
+      "market_cap": 11055837184,
+      "dividend_yield": 3.0,
       "fifty_two_week_high": 207.72,
       "fifty_two_week_low": 159.37,
       "next_earnings": "2026-07-22"
@@ -29,11 +29,11 @@
     "FR": {
       "name": "First Industrial Realty Trust",
       "ticker": "FR",
-      "price": 64.04,
-      "prev_close": 63.28,
-      "pct_change": 1.2,
-      "market_cap": 8774533120,
-      "dividend_yield": 2.99,
+      "price": 63.06,
+      "prev_close": 64.04,
+      "pct_change": -1.53,
+      "market_cap": 8640257024,
+      "dividend_yield": 2.95,
       "fifty_two_week_high": 64.66,
       "fifty_two_week_low": 47.36,
       "next_earnings": "2026-07-22"
@@ -41,11 +41,11 @@
     "REXR": {
       "name": "Rexford Industrial",
       "ticker": "REXR",
-      "price": 36.59,
-      "prev_close": 36.18,
-      "pct_change": 1.13,
-      "market_cap": 8465625600,
-      "dividend_yield": 4.78,
+      "price": 36.36,
+      "prev_close": 36.59,
+      "pct_change": -0.63,
+      "market_cap": 8412411904,
+      "dividend_yield": 4.73,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 32.14,
       "next_earnings": "2026-07-15"
@@ -53,11 +53,11 @@
     "STAG": {
       "name": "STAG Industrial",
       "ticker": "STAG",
-      "price": 38.52,
-      "prev_close": 38.15,
-      "pct_change": 0.97,
-      "market_cap": 7519273984,
-      "dividend_yield": 4.06,
+      "price": 38.29,
+      "prev_close": 38.52,
+      "pct_change": -0.6,
+      "market_cap": 7474377216,
+      "dividend_yield": 4.02,
       "fifty_two_week_high": 39.99,
       "fifty_two_week_low": 33.72,
       "next_earnings": "2026-07-28"
@@ -65,23 +65,23 @@
     "LXP": {
       "name": "LXP Industrial Trust",
       "ticker": "LXP",
-      "price": 52.77,
-      "prev_close": 52.24,
-      "pct_change": 1.01,
-      "market_cap": 3110924032,
-      "dividend_yield": 5.26,
-      "fifty_two_week_high": 53.15,
+      "price": 52.66,
+      "prev_close": 52.77,
+      "pct_change": -0.21,
+      "market_cap": 3104439296,
+      "dividend_yield": 5.21,
+      "fifty_two_week_high": 53.16,
       "fifty_two_week_low": 38.2,
       "next_earnings": "2026-07-29"
     },
     "COLD": {
       "name": "Americold Realty Trust",
       "ticker": "COLD",
-      "price": 14.86,
-      "prev_close": 14.81,
-      "pct_change": 0.34,
-      "market_cap": 4259951616,
-      "dividend_yield": 6.21,
+      "price": 15.33,
+      "prev_close": 14.86,
+      "pct_change": 3.16,
+      "market_cap": 4394687488,
+      "dividend_yield": 6.19,
       "fifty_two_week_high": 18.08,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-08-06"
@@ -89,11 +89,11 @@
     "TRNO": {
       "name": "Terreno Realty",
       "ticker": "TRNO",
-      "price": 66.69,
-      "prev_close": 66.05,
-      "pct_change": 0.97,
-      "market_cap": 7050292736,
-      "dividend_yield": 3.15,
+      "price": 66.75,
+      "prev_close": 66.69,
+      "pct_change": 0.09,
+      "market_cap": 7056635392,
+      "dividend_yield": 3.12,
       "fifty_two_week_high": 67.55,
       "fifty_two_week_low": 53.0,
       "next_earnings": "2026-08-05"
@@ -101,10 +101,10 @@
     "IIPR": {
       "name": "Innovative Industrial Properties",
       "ticker": "IIPR",
-      "price": 57.06,
+      "price": 57.76,
       "prev_close": 57.06,
-      "pct_change": 0.0,
-      "market_cap": 1641871360,
+      "pct_change": 1.23,
+      "market_cap": 1662013312,
       "dividend_yield": 13.32,
       "fifty_two_week_high": 61.395,
       "fifty_two_week_low": 44.58,
@@ -113,87 +113,37 @@
     "ILPT": {
       "name": "Industrial Logistics Properties Trust",
       "ticker": "ILPT",
-      "price": 8.72,
-      "prev_close": 8.59,
-      "pct_change": 1.57,
-      "market_cap": 581322944,
-      "dividend_yield": 2.33,
+      "price": 8.69,
+      "prev_close": 8.72,
+      "pct_change": -0.34,
+      "market_cap": 579322944,
+      "dividend_yield": 2.3,
       "fifty_two_week_high": 8.89,
-      "fifty_two_week_low": 3.125,
+      "fifty_two_week_low": 3.18,
       "next_earnings": "2026-07-28"
     },
     "MDV": {
       "name": "Modiv Industrial",
       "ticker": "MDV",
-      "price": 18.5,
-      "prev_close": 18.24,
-      "pct_change": 1.43,
-      "market_cap": 190987888,
-      "dividend_yield": 6.58,
-      "fifty_two_week_high": 18.5799,
+      "price": 18.48,
+      "prev_close": 18.5,
+      "pct_change": -0.11,
+      "market_cap": 190781424,
+      "dividend_yield": 6.49,
+      "fifty_two_week_high": 18.6749,
       "fifty_two_week_low": 13.8,
       "next_earnings": "2026-08-06"
     }
   },
   "top_gainers": [
     {
-      "name": "Industrial Logistics Properties Trust",
-      "ticker": "ILPT",
-      "price": 8.72,
-      "prev_close": 8.59,
-      "pct_change": 1.57,
-      "market_cap": 581322944,
-      "dividend_yield": 2.33,
-      "fifty_two_week_high": 8.89,
-      "fifty_two_week_low": 3.125,
-      "next_earnings": "2026-07-28"
-    },
-    {
-      "name": "Modiv Industrial",
-      "ticker": "MDV",
-      "price": 18.5,
-      "prev_close": 18.24,
-      "pct_change": 1.43,
-      "market_cap": 190987888,
-      "dividend_yield": 6.58,
-      "fifty_two_week_high": 18.5799,
-      "fifty_two_week_low": 13.8,
-      "next_earnings": "2026-08-06"
-    },
-    {
-      "name": "First Industrial Realty Trust",
-      "ticker": "FR",
-      "price": 64.04,
-      "prev_close": 63.28,
-      "pct_change": 1.2,
-      "market_cap": 8774533120,
-      "dividend_yield": 2.99,
-      "fifty_two_week_high": 64.66,
-      "fifty_two_week_low": 47.36,
-      "next_earnings": "2026-07-22"
-    }
-  ],
-  "top_losers": [
-    {
-      "name": "Prologis",
-      "ticker": "PLD",
-      "price": 146.94,
-      "prev_close": 145.9,
-      "pct_change": 0.71,
-      "market_cap": 136997748736,
-      "dividend_yield": 2.93,
-      "fifty_two_week_high": 147.93,
-      "fifty_two_week_low": 103.41,
-      "next_earnings": "2026-07-15"
-    },
-    {
       "name": "Americold Realty Trust",
       "ticker": "COLD",
-      "price": 14.86,
-      "prev_close": 14.81,
-      "pct_change": 0.34,
-      "market_cap": 4259951616,
-      "dividend_yield": 6.21,
+      "price": 15.33,
+      "prev_close": 14.86,
+      "pct_change": 3.16,
+      "market_cap": 4394687488,
+      "dividend_yield": 6.19,
       "fifty_two_week_high": 18.08,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-08-06"
@@ -201,17 +151,78 @@
     {
       "name": "Innovative Industrial Properties",
       "ticker": "IIPR",
-      "price": 57.06,
+      "price": 57.76,
       "prev_close": 57.06,
-      "pct_change": 0.0,
-      "market_cap": 1641871360,
+      "pct_change": 1.23,
+      "market_cap": 1662013312,
       "dividend_yield": 13.32,
       "fifty_two_week_high": 61.395,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-05-04"
+    },
+    {
+      "name": "Terreno Realty",
+      "ticker": "TRNO",
+      "price": 66.75,
+      "prev_close": 66.69,
+      "pct_change": 0.09,
+      "market_cap": 7056635392,
+      "dividend_yield": 3.12,
+      "fifty_two_week_high": 67.55,
+      "fifty_two_week_low": 53.0,
+      "next_earnings": "2026-08-05"
+    }
+  ],
+  "top_losers": [
+    {
+      "name": "EastGroup Properties",
+      "ticker": "EGP",
+      "price": 205.67,
+      "prev_close": 206.98,
+      "pct_change": -0.63,
+      "market_cap": 11055837184,
+      "dividend_yield": 3.0,
+      "fifty_two_week_high": 207.72,
+      "fifty_two_week_low": 159.37,
+      "next_earnings": "2026-07-22"
+    },
+    {
+      "name": "Rexford Industrial",
+      "ticker": "REXR",
+      "price": 36.36,
+      "prev_close": 36.59,
+      "pct_change": -0.63,
+      "market_cap": 8412411904,
+      "dividend_yield": 4.73,
+      "fifty_two_week_high": 44.38,
+      "fifty_two_week_low": 32.14,
+      "next_earnings": "2026-07-15"
+    },
+    {
+      "name": "First Industrial Realty Trust",
+      "ticker": "FR",
+      "price": 63.06,
+      "prev_close": 64.04,
+      "pct_change": -1.53,
+      "market_cap": 8640257024,
+      "dividend_yield": 2.95,
+      "fifty_two_week_high": 64.66,
+      "fifty_two_week_low": 47.36,
+      "next_earnings": "2026-07-22"
     }
   ],
   "news": [
+    {
+      "ticker": "PLD",
+      "company": "Prologis",
+      "source": "PLD",
+      "category": "reit",
+      "title": "Maritime Startup Fund Aims to Help U.S. Catch China in Shipbuilding",
+      "link": "https://wwd.com/sourcing-journal/logistics/shipbuilding-200-million-venture-capital-1238982447/?.tsrc=rss",
+      "published": "Wed, 27 May 2026 11:00:00 +0000",
+      "summary": "TMV Logistics is launching as Washington ramps up efforts to rebuild domestic maritime capacity.",
+      "is_signal": true
+    },
     {
       "ticker": "PLD",
       "company": "Prologis",
@@ -243,17 +254,6 @@
       "link": "https://finance.yahoo.com/sectors/technology/articles/tmv-logistics-launches-200m-maritime-102100330.html?.tsrc=rss",
       "published": "Tue, 26 May 2026 10:21:00 +0000",
       "summary": "NEW YORK, May 26, 2026--TMV today announced the launch of TMV Logistics, LP, a $200M venture fund dedicated to maritime and logistics innovation and safety. The fund is anchored by strategic commitments from American Bureau of Shipping (ABS), the global leader in classification and technical advisor\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
-      "title": "What Sun Communities' $1.03B UK Asset Sale Means for Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sun-communities-1-03b-uk-163800784.html?.tsrc=rss",
-      "published": "Fri, 22 May 2026 16:38:00 +0000",
-      "summary": "SUI's $1.03B all-cash U.K. asset sale sharpens its North American MH/RV focus and adds flexibility for debt cuts, growth, or returns.",
       "is_signal": true
     },
     {
@@ -393,6 +393,17 @@
       "company": "STAG Industrial",
       "source": "STAG",
       "category": "reit",
+      "title": "What IIPR's $282M Senior Note Repayment Means for Investors in 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iiprs-282m-senior-note-repayment-142500167.html?.tsrc=rss",
+      "published": "Wed, 27 May 2026 14:25:00 +0000",
+      "summary": "IIPR repays $282M of 5.50% notes due May 2026, easing refinancing pressure and boosting flexibility as it leans on new secured loans.",
+      "is_signal": false
+    },
+    {
+      "ticker": "STAG",
+      "company": "STAG Industrial",
+      "source": "STAG",
+      "category": "reit",
       "title": "Stag Industrial (STAG) Could Be a Great Choice",
       "link": "https://finance.yahoo.com/markets/stocks/articles/stag-industrial-stag-could-great-154503336.html?.tsrc=rss",
       "published": "Mon, 25 May 2026 15:45:03 +0000",
@@ -420,17 +431,6 @@
       "published": "Wed, 20 May 2026 14:22:45 +0000",
       "summary": "A 66-year-old couple with $850,000 spread across three accounts wants to generate $4,612 per month in portfolio income. That equals $55,344 annually, requiring a blended yield of roughly 6.5% across the entire portfolio. In the current rate environment, that target is realistic, but account placemen\u2026",
       "is_signal": true
-    },
-    {
-      "ticker": "STAG",
-      "company": "STAG Industrial",
-      "source": "STAG",
-      "category": "reit",
-      "title": "STAG INDUSTRIAL PUBLISHES 2025 SUSTAINABILITY REPORT",
-      "link": "https://finance.yahoo.com/news/stag-industrial-publishes-2025-sustainability-202300124.html?.tsrc=rss",
-      "published": "Wed, 13 May 2026 20:23:00 +0000",
-      "summary": "STAG Industrial, Inc. (the \"Company\") (NYSE: STAG) announced today that it has published its 2025 Sustainability Report.",
-      "is_signal": false
     },
     {
       "ticker": "LXP",
@@ -481,6 +481,17 @@
       "company": "Americold Realty Trust",
       "source": "COLD",
       "category": "reit",
+      "title": "Americold Launches \u201cFit for Purpose\u201d Initiative, Advancing Strategic Priorities With Targeted Incremental Annual Overhead Savings of More Than $25 Million",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/americold-launches-fit-purpose-initiative-210000717.html?.tsrc=rss",
+      "published": "Wed, 27 May 2026 21:00:00 +0000",
+      "summary": "Builds on previously announced actions to reduce indirect labor and SG&amp;A by $30 million, and expected project spend by $50 million, year-over-yearReflects the next phase of Americold\u2019s focus on operating discipline and cost efficiency, enabled by prior investmentsExpected to further enhance exec\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "COLD",
+      "company": "Americold Realty Trust",
+      "source": "COLD",
+      "category": "reit",
       "title": "Americold Realty Trust, Inc. Declares Second Quarter 2026 Dividend",
       "link": "https://finance.yahoo.com/markets/stocks/articles/americold-realty-trust-inc-declares-201500411.html?.tsrc=rss",
       "published": "Thu, 21 May 2026 20:15:00 +0000",
@@ -507,17 +518,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/americold-expands-european-retail-operations-110000732.html?.tsrc=rss",
       "published": "Thu, 21 May 2026 11:00:00 +0000",
       "summary": "ATLANTA and LISBON, Portugal, May 21, 2026 (GLOBE NEWSWIRE) -- Americold, a global leader in temperature-controlled logistics, real estate, and value-added services focused on the ownership, operation, acquisition, and development of temperature-controlled facilities, today announced a new long-term\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "COLD",
-      "company": "Americold Realty Trust",
-      "source": "COLD",
-      "category": "reit",
-      "title": "A Look At Americold Realty Trust (COLD) Valuation After New PLUS Frozen Logistics Agreement",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/look-americold-realty-trust-cold-141233567.html?.tsrc=rss",
-      "published": "Sun, 17 May 2026 14:12:33 +0000",
-      "summary": "Americold Realty Trust (COLD) is back in focus after securing a new frozen logistics agreement with PLUS, a Dutch supermarket cooperative. The deal routes nationwide frozen distribution through Americold\u2019s Barneveld facility in the Netherlands. See our latest analysis for Americold Realty Trust. The\u2026",
       "is_signal": true
     },
     {
@@ -569,6 +569,17 @@
       "company": "Innovative Industrial Properties",
       "source": "IIPR",
       "category": "reit",
+      "title": "What IIPR's $282M Senior Note Repayment Means for Investors in 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iiprs-282m-senior-note-repayment-142500167.html?.tsrc=rss",
+      "published": "Wed, 27 May 2026 14:25:00 +0000",
+      "summary": "IIPR repays $282M of 5.50% notes due May 2026, easing refinancing pressure and boosting flexibility as it leans on new secured loans.",
+      "is_signal": false
+    },
+    {
+      "ticker": "IIPR",
+      "company": "Innovative Industrial Properties",
+      "source": "IIPR",
+      "category": "reit",
       "title": "Innovative Industrial Properties Announces Full Repayment of $282 Million of Senior Notes",
       "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-announces-full-185600477.html?.tsrc=rss",
       "published": "Tue, 26 May 2026 18:56:00 +0000",
@@ -598,15 +609,15 @@
       "is_signal": true
     },
     {
-      "ticker": "IIPR",
-      "company": "Innovative Industrial Properties",
-      "source": "IIPR",
+      "ticker": "ILPT",
+      "company": "Industrial Logistics Properties Trust",
+      "source": "ILPT",
       "category": "reit",
-      "title": "A Look At Innovative Industrial Properties (IIPR) Valuation After Recent Share Price Momentum",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/look-innovative-industrial-properties-iipr-080944491.html?.tsrc=rss",
-      "published": "Thu, 21 May 2026 08:09:44 +0000",
-      "summary": "Recent performance in Innovative Industrial Properties (IIPR), including a 21.23% total return over the past 3 months and a 17.37% total return over the past year, has prompted fresh attention on this cannabis-focused REIT. See our latest analysis for Innovative Industrial Properties. The recent sha\u2026",
-      "is_signal": false
+      "title": "Why The Industrial Logistics Properties Trust (ILPT) Story Is Shifting With New Fair Value Targets",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-industrial-logistics-properties-trust-001700546.html?.tsrc=rss",
+      "published": "Wed, 27 May 2026 00:17:00 +0000",
+      "summary": "Industrial Logistics Properties Trust now has an updated fair value target of US$9.65, compared with the prior US$9.40 mark. That shift lines up with recent Street research, where price targets have clustered around US$9.50 to US$9.65 as analysts reassess their frameworks. As you read on, you will s\u2026",
+      "is_signal": true
     },
     {
       "ticker": "ILPT",
@@ -639,17 +650,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/looking-top-momentum-pick-why-160004444.html?.tsrc=rss",
       "published": "Wed, 06 May 2026 16:00:04 +0000",
       "summary": "Does Industrial Logistics Properties Trust (ILPT) have what it takes to be a top stock pick for momentum investors? Let's find out.",
-      "is_signal": true
-    },
-    {
-      "ticker": "ILPT",
-      "company": "Industrial Logistics Properties Trust",
-      "source": "ILPT",
-      "category": "reit",
-      "title": "How The Industrial Logistics Properties Trust (ILPT) Narrative Is Shifting With The Refined US$9.50 Target",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/industrial-logistics-properties-trust-ilpt-091234802.html?.tsrc=rss",
-      "published": "Sun, 03 May 2026 09:12:34 +0000",
-      "summary": "The latest analyst update on Industrial Logistics Properties Trust shifts the price target from $8.00 to $9.50, with fair value in the underlying model moving from $7.70 to $9.40. Analysts describe this as a refinement of fair value assumptions rather than a major reset, linking the change to how cu\u2026",
       "is_signal": true
     },
     {
@@ -701,6 +701,39 @@
       "company": null,
       "source": "Supply Chain Dive",
       "category": "sector",
+      "title": "New rail data requirement a \u2018win\u2019 for shippers, expert says",
+      "link": "https://www.supplychaindive.com/news/new-rail-data-requirement-a-win-for-shippers-expert-says/820949/",
+      "published": "Wed, 27 May 2026 16:15:00 -0400",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/NS9lmdL5YrOdhTXnvdn6FaPTY3utn1-Tp6P27l4yFIc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI3NjA4MzI1LmpwZw==.webp\" /></div></figure><p>Class I railroads will soon need to report two additional metrics, which \u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Supply Chain Dive",
+      "category": "sector",
+      "title": "Novelis aluminum plant to resume operations following fire damage",
+      "link": "https://www.supplychaindive.com/news/novelis-aluminum-plant-to-resume-operations-following-fire-damage/820988/",
+      "published": "Wed, 27 May 2026 11:18:00 -0400",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ftzOOCg2DQ4bCBW9ymHBE3luvkygWOLuMnVSknXnmfk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9fMjZhNzU1OWEuanBn.webp\" /></div></figure><p>The company has started commissioning its New York plant and expects to ramp up hot mill prod\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Supply Chain Dive",
+      "category": "sector",
+      "title": "Full tariff refunds for de minimis imports? US says no",
+      "link": "https://www.supplychaindive.com/news/full-tariff-refunds-for-de-minimis-imports-us-says-no/821067/",
+      "published": "Wed, 27 May 2026 09:17:40 -0400",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/GHhP5n8G-V98wJgJPCi4_-aayW3gZ6PWdyizSp5R4uc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDI5NjM2MDk5LmpwZw==.webp\" /></div></figure><p>A lawsuit aims to revive the exemption and land refunds on all tariffs fo\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Supply Chain Dive",
+      "category": "sector",
       "title": "Target touts improved inventory turns in Q1",
       "link": "https://www.supplychaindive.com/news/target-touts-improved-inventory-turns-in-q1/821027/",
       "published": "Tue, 26 May 2026 14:42:00 -0400",
@@ -712,8 +745,8 @@
       "company": null,
       "source": "Supply Chain Dive",
       "category": "sector",
-      "title": "CBP raises accepted tariff refunds to $85 billion",
-      "link": "https://www.supplychaindive.com/news/cbp-raises-accepted-tariff-refunds-to-85-billion/821157/",
+      "title": "CBP raises accepted tariff refunds to $85B",
+      "link": "https://www.supplychaindive.com/news/cbp-raises-accepted-tariff-refunds-to-85b/821157/",
       "published": "Tue, 26 May 2026 14:04:00 -0400",
       "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/VW45rivOeGwxfXLW-jpOl94eIleV_TXy75evBzZxe7o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA3NTg5NzM4X0JRQjQ4QWwuanBn.webp\" /></div></figure><p>As of May 22, about $20.6 billion in certified refunds with inter\u2026",
       "is_signal": true
@@ -721,35 +754,13 @@
     {
       "ticker": null,
       "company": null,
-      "source": "Supply Chain Dive",
+      "source": "DC Velocity",
       "category": "sector",
-      "title": "How do AI, software fit into warehouse robotics?",
-      "link": "https://www.supplychaindive.com/news/warehouse-robotics-implementation-ai-software/816122/",
-      "published": "Tue, 26 May 2026 11:03:00 -0400",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/6rYONk9gHxD7OCiV06QDVD_jFsowkojMIGdl4LxmWak/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjUtMDYtMTNfMTI0NDA3LnBuZw==.webp\" /></div></figure><p>Investing in intelligent software systems is crucial for warehous\u2026",
+      "title": "3PLs sharpen their automation skills",
+      "link": "https://www.dcvelocity.com/material-handling/3pls-sharpen-their-automation-skills",
+      "published": "Wed, 27 May 2026 14:21:38 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/locus-robotics-automation-equipment-in-use.jpg?id=66826565&amp;width=1245&amp;height=700&amp;coordinates=0%2C112%2C0%2C113\" /><br /><br /><h3></h3><br /><p>Today\u2019s third-party logistics service providers (3PLs) rely on automation to provide clients \u2026",
       "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Supply Chain Dive",
-      "category": "sector",
-      "title": "Supply chain resiliency increasingly trumps cost in perma-crisis era",
-      "link": "https://www.supplychaindive.com/news/supply-chain-resiliency-increasingly-trumps-cost-in-perma-crisis-era/820757/",
-      "published": "Tue, 26 May 2026 10:50:00 -0400",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/qCFQH6nQ1kJ4HO0PEdLldxEnT0ouE0xFA5qK43sbDLc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjczMDIxNTc3LmpwZw==.webp\" /></div></figure><p>As multiple &ldquo;black swan&rdquo; events have disrupted the flow of go\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Supply Chain Dive",
-      "category": "sector",
-      "title": "Sherwin-Williams partnership enables outbound volume boost during peak",
-      "link": "https://www.supplychaindive.com/news/sherwin-williams-partnership-enables-outbound-volume-boost-during-peak/820673/",
-      "published": "Tue, 26 May 2026 10:32:55 -0400",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/t--Sx66pD9qruq2-_Zfs49z3CcewsiPLCmaWEmwmzdU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zaGVyd2luLXdpbGxpYW1zLXJldGFpbC1zdG9yZS1kZWxpdmVyeS10cnVja2xvYWQtc29sdXRpb25zLmpwZWc=.webp\" /></div></figure><p>The paint brand partnered\u2026",
-      "is_signal": false
     },
     {
       "ticker": null,
@@ -793,17 +804,6 @@
       "link": "https://www.dcvelocity.com/editorial/featured/report-market-sentiment-for-forklift-pallet-handling-tech-improves",
       "published": "Tue, 26 May 2026 18:03:01 +0000",
       "summary": "<img src=\"https://www.dcvelocity.com/media-library/image.png?id=66821233&amp;width=1245&amp;height=700&amp;coordinates=0%2C15%2C0%2C15\" /><br /><br /><h3></h3><br /><p>Buyers of forklift and pallet-handing technology are upbeat in 2026, with many expecting to increase capital expenditures on such eq\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "DC Velocity",
-      "category": "sector",
-      "title": "Survey: Port leaders call for $6.7 billion cargo equipment spending",
-      "link": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/survey-port-leaders-call-for-6-7-billion-cargo-equipment-spending",
-      "published": "Fri, 22 May 2026 16:49:38 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-crane-loading-containers-onto-a-ship.png?id=66784824&amp;width=1245&amp;height=700&amp;coordinates=27%2C0%2C28%2C0\" /><br /><br /><h3></h3><br /><p>U.S. ports face the need for $6.7 billion in cargo equipment investment over the next five y\u2026",
       "is_signal": true
     },
     {
@@ -921,10 +921,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Stord raises $250m at $3bn valuation",
-      "link": "https://theloadstar.com/stord-raises-250m-at-3bn-valuation/",
-      "published": "Tue, 26 May 2026 16:28:07 +0000",
-      "summary": "<p>PRESS RELEASE\u00a0<br />\nStord Raises $250M Series F at $3B to Advance the Physical Intelligence Layer for Commerce<br />\nMay 26, 2026, 08:00 ET<br />\nWith 10x revenue growth and the trust of over $15B of GMV across more than 1,000 customers, Stord deepens its investment in physical intelligence, lau\u2026",
+      "title": "YT: Pablo Escobar was a logistics guy \u2013 Ryan Petersen (VIDEO)",
+      "link": "https://theloadstar.com/yt-pablo-escobar-was-a-logistics-guy-ryan-petersen-video/",
+      "published": "Wed, 27 May 2026 13:01:40 +0000",
+      "summary": "<p>Watch it here on YouTube \u2013&#62; Relentless production @ti_morse:\u00a0&#8216;Interviewing the greats&#8217;&#8230;<br />\n0:03 Pablo Escobar was a logistics guy 2:29 The explosion in tariff fraud 8:58 The Dutch East India Company 11:20 History of global trade 14:39 1,000x spice markup 17:53 The British\u2026",
       "is_signal": true
     },
     {
@@ -932,10 +932,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Already stretched barge services now threatened by falling river levels",
-      "link": "https://theloadstar.com/already-stretched-barge-services-now-threatened-by-falling-river-levels/",
-      "published": "Tue, 26 May 2026 12:23:04 +0000",
-      "summary": "<p>Hobbled by an influx of ultra-large container vessels (ULCVs) arriving at ports, Europe\u2019s inland waterways are now contending with increasing temperatures provoking decreasing water levels, extending delays for those wishing to use barges.<br />\nThe current level on the Rhine&#8217;s Kaub gauge i\u2026",
+      "title": "Carriers still chase \u2018healthy deals\u2019 for open tonnage despite smaller idle fleet",
+      "link": "https://theloadstar.com/carriers-still-chase-healthy-deals-for-open-tonnage-despite-smaller-idle-fleet/",
+      "published": "Wed, 27 May 2026 11:30:44 +0000",
+      "summary": "<p>Excluding ships caught up in the fracas in the Persian Gulf, the container shipping sector\u2019s scheme for full employment appears to be working, with virtually none of the rest of the world&#8217;s 33m teu cellular fleet idle.<br />\nIn its latest round-up, Alphaliner counted just 59 (representing 1\u2026",
       "is_signal": false
     },
     {
@@ -943,21 +943,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "OceanX: Saudi Arabia PIFing along; politicisation; CMA CGM vs Zim vs others",
-      "link": "https://theloadstar.com/oceanx-saudi-arabia-pifing-along-politicisation-cma-cgm-vs-zim-vs-others/",
-      "published": "Tue, 26 May 2026 11:18:19 +0000",
-      "summary": "<p>We just got another reminder of how political shipping and logistics have become.<br />\nAs also confirmed now in our circles after talks that started earlier this year \u2013 Saudi Arabia\u2019s top sovereign wealth fund PIF (Public Investment Fund) is considering pooling its logistics investments and buil\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Loadstar",
-      "category": "sector",
-      "title": "New EU-Mexico trade deal will open new markets, says ESC",
-      "link": "https://theloadstar.com/new-eu-mexico-trade-deal-will-open-new-markets-says-esc/",
-      "published": "Tue, 26 May 2026 11:11:51 +0000",
-      "summary": "<p>European shippers and forwarders have welcomed the new free-trade agreement between the EU and Mexico, which was inked at a summit in Mexico City at the end of last week.</p>\n<p>It builds on the trade accord signed in 2000 and provides duty-free access for almost all goods.</p>\n<p>Closer economic\u2026",
+      "title": "China-Australia \u2018firm\u2019 as surcharges support strong rates",
+      "link": "https://theloadstar.com/tradelane-china-australia-firm-as-surcharges-support-strong-rates/",
+      "published": "Wed, 27 May 2026 10:51:32 +0000",
+      "summary": "<p>Maersk is looking to capitalise on the \u201cfirm\u201d China-Australia lane with its latest \u201clean service&#8221; announcement.<br />\nThe Danish shipping line on Friday announced a new service serving the Greater China region to/from Australia.<br />\nThe Qilin service will link Shanghai, Sydney and Melbour\u2026",
       "is_signal": false
     },
     {
@@ -965,11 +954,22 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "AI infrastructure boom reshaping freight flows and driving modal shift",
-      "link": "https://theloadstar.com/ai-infrastructure-boom-reshaping-freight-flows-and-driving-modal-shift/",
-      "published": "Tue, 26 May 2026 10:39:01 +0000",
-      "summary": "<p>DHL, Expeditors, and Matson are all pointing to the same thing: AI infrastructure rapidly becoming one of the logistics industry\u2019s most important new cargo verticals, reshaping freight flows across multiple regions \u2013 and modes.\u00a0<br />\nWhat began as a surge in semiconductor and GPU shipments is no\u2026",
+      "title": "Canada pours cash into developing global trade links outside the US",
+      "link": "https://theloadstar.com/canada-pours-cash-into-developing-global-trade-links-outside-the-us/",
+      "published": "Wed, 27 May 2026 10:41:29 +0000",
+      "summary": "<p>The Canadian government has been aggressively pursuing trade agreements with partners around the world to reduce the economy\u2019s reliance on US trade, and is pouring money into transport infrastructure to support this.<br />\nHowever, a new study raises questions about the nation\u2019s ability to boost \u2026",
       "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Loadstar",
+      "category": "sector",
+      "title": "Container production in China to fall as supply/demand rebalances",
+      "link": "https://theloadstar.com/container-production-in-china-to-fall-as-supply-demand-rebalances/",
+      "published": "Wed, 27 May 2026 10:27:00 +0000",
+      "summary": "<p>The China Container Industry Association (CCIA) expects manufacturing output to drop by as much as 30% this year, because of a rebalancing of supply and demand.<br />\nChinese manufacturers produce 95% of the world&#8217;s containers and, after record output in 2021, 2024, and 2025, downward press\u2026",
+      "is_signal": false
     },
     {
       "ticker": null,
@@ -1018,6 +1018,50 @@
     {
       "ticker": null,
       "company": null,
+      "source": "WWD",
+      "category": "broad",
+      "title": "Stord Raises $250 Million to Build Brands an Amazon\u00a0Alternative",
+      "link": "http://wwd.com/sourcing-journal/logistics/stord-labs-250-million-funding-ai-robotics-e-commerce-fulfillment-amazon-1238982203/",
+      "published": "2026-05-26T20:29:41Z",
+      "summary": "The fulfillment provider is betting a unified tech stack and a new AI robotics lab can give independent brands a fighting chance against e-commerce giants.",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Bluegrasslive.com",
+      "category": "broad",
+      "title": "Cosmos Health Releases 2026\u20132029 Guidance: Targeting $200M Revenue, $71M Gross Profit, and $44M Adjusted EBITDA by 2029",
+      "link": "https://smb.bluegrasslive.com/article/Cosmos-Health-Releases-2026-2029-Guidance-Targeting-dollar200M-Revenue-dollar71M-Gross-Profit-and-dollar44M-Adjusted-EBITDA-by-2029-Building-an-Innovative-High-Margin-Healthcare-Platform-with-Strong-Cash-Generation?storyId=6a15a25e004597ee6ba129f9",
+      "published": "2026-05-26T16:50:03Z",
+      "summary": "Cosmos Health Releases 2026\u20132029 Guidance: Targeting $200M Revenue, $71M Gross Profit, and $44M Adjusted EBITDA by 2029bluegrasslive.com",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "GlobeNewswire",
+      "category": "broad",
+      "title": "Cosmos Health Releases 2026\u20132029 Guidance: Targeting $200M Revenue, $71M Gross Profit, and $44M Adjusted EBITDA by 2029 \u2014 Building an Innovative, High-Margin Healthcare Platform with Strong Cash Generation",
+      "link": "https://www.globenewswire.com/news-release/2026/05/26/3301211/0/en/Cosmos-Health-Releases-2026-2029-Guidance-Targeting-200M-Revenue-71M-Gross-Profit-and-44M-Adjusted-EBITDA-by-2029-Building-an-Innovative-High-Margin-Healthcare-Platform-with-Strong.html",
+      "published": "2026-05-26T13:34:00Z",
+      "summary": "Cosmos Health Releases 2026\u20132029 Guidance: Targeting $200M Revenue, $71M Gross Profit, and $44M Adjusted EBITDA by 2029....",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "GlobeNewswire",
+      "category": "broad",
+      "title": "Cosmetic Packaging Market: USD 40.33 Billion by 2031, Fueled by Refillable Packaging Trends as Asia-Pacific Holds 42.55% Market Share \u2013 Says Mordor Intelligence",
+      "link": "https://www.globenewswire.com/news-release/2026/05/26/3300785/0/en/Cosmetic-Packaging-Market-USD-40-33-Billion-by-2031-Fueled-by-Refillable-Packaging-Trends-as-Asia-Pacific-Holds-42-55-Market-Share-Says-Mordor-Intelligence.html",
+      "published": "2026-05-26T07:17:00Z",
+      "summary": "The cosmetic packaging market growth is driven by rising demand for sustainable and premium beauty products, increasing adoption of recyclable and refillable packaging solutions, and expanding e-commerce beauty sales worldwide. The market is projected to regi\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
       "source": "Yahoo Entertainment",
       "category": "broad",
       "title": "More than 5,100 freight-related layoffs hit US supply chain sector",
@@ -1047,39 +1091,6 @@
       "published": "2026-05-13T20:15:00Z",
       "summary": "WALNUT, Calif., May 13, 2026 (GLOBE NEWSWIRE) -- Armlogi Holding Corp. (\u201cArmlogi\u201d or the \u201cCompany\u201d) (Nasdaq: BTOC), a U.S.-based warehousing and logistics service provider that offers a comprehensive package of supply-chain solutions related to warehouse mana\u2026",
       "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "PRNewswire",
-      "category": "broad",
-      "title": "Supply Chain Management Market to Reach USD 93.9 Billion, Globally, by 2034 at 10.9% CAGR: Allied Market Research",
-      "link": "https://www.prnewswire.com/news-releases/supply-chain-management-market-to-reach-usd-93-9-billion-globally-by-2034-at-10-9-cagr-allied-market-research-302771121.html",
-      "published": "2026-05-13T14:49:00Z",
-      "summary": "The Supply Chain Management (SCM) market is witnessing steady adoption across manufacturing companies, retail enterprises, logistics providers, healthcare organizations, e-commerce platforms, and government agencies due to its critical role in enhancing opera\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Commercial Observer",
-      "category": "broad",
-      "title": "Realterm Acquires Bronx IOS Site at 935 Garrison Avenue",
-      "link": "http://commercialobserver.com/2026/05/realterm-acquires-bronx-ios-935-garrison-avenue/",
-      "published": "2026-05-12T20:01:47Z",
-      "summary": "Realterm, a global investment manager that focuses on the transportation industry, has announced the acquisition of 935 Garrison Avenue, a 1-acre industrial outdoor storage (IOS) site in the Bronx\u2019s Hunts Point neighborhood.\u00a0 This acquisition marks Realterm\u2019s\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "TechRadar",
-      "category": "broad",
-      "title": "'Security of your network is essential to security of your robot': Industrial robots targeted by malware, which could open them up to hacking \u2014 is this how the revolution begins?",
-      "link": "https://www.techradar.com/pro/security/security-of-your-network-is-essential-to-security-of-your-robot-industrial-robots-targeted-by-malware-which-could-open-them-up-to-hacking-is-this-how-the-revolution-begins",
-      "published": "2026-05-25T22:15:00Z",
-      "summary": "A critical Universal Robots vulnerability allows attackers to remotely execute commands and potentially compromise industrial robots and factory networks.",
-      "is_signal": false
     }
   ],
   "weekly_report": null,
