@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T22:56:07.645069+00:00",
+  "last_updated": "2026-06-17T23:01:59.567493+00:00",
   "market_date": "June 17, 2026",
   "stocks": {
     "PLD": {
@@ -921,6 +921,17 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
+      "title": "What container shipping rates tell us about the economy",
+      "link": "https://theloadstar.com/what-container-shipping-rates-tell-us-about-the-economy/",
+      "published": "Wed, 17 Jun 2026 23:01:38 +0000",
+      "summary": "<p>When economists want to take the temperature of global trade, they increasingly look not at GDP revisions or purchasing manager indices, but at a number that was largely unknown outside freight circles a decade ago: the container shipping rate. The price of moving a 40-foot steel box from Shangha\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Loadstar",
+      "category": "sector",
       "title": "Southwest Airlines partners with AWS \u2018to accelerate AI capabilities and tech modernization\u2019",
       "link": "https://theloadstar.com/southwest-airlines-partners-with-aws-to-accelerate-ai-capabilities-and-tech-modernization/",
       "published": "Wed, 17 Jun 2026 21:07:46 +0000",
@@ -958,17 +969,6 @@
       "link": "https://theloadstar.com/dp-world-enter-us-market-with-new-box-terminal-at-corpus-christi/",
       "published": "Wed, 17 Jun 2026 12:04:38 +0000",
       "summary": "<p>DP World looks set to finally break into the US market after entering into an \u201cexclusive negotiation agreement\u201d for a long-term lease to develop and operate a container terminal at the Gulf coast port of Corpus Christi.<br />\nThe Texan port is currently a major export gateway for US LNG and crude\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Loadstar",
-      "category": "sector",
-      "title": "Ennore port plan for second box terminal attracts major carriers",
-      "link": "https://theloadstar.com/ennore-port-plan-for-second-box-terminal-attracts-major-carriers/",
-      "published": "Wed, 17 Jun 2026 11:35:53 +0000",
-      "summary": "<p>An upcoming Indian tender for the development of a second container terminal at Ennore Port, near Chennai, has caught the eye of major global box lines seeking to cement their operations in the emerging economy.<br />\nEnnore, also known as Kamarajar, is one of India&#8217;s 12 major or government\u2026",
       "is_signal": false
     },
     {
@@ -1040,45 +1040,56 @@
     {
       "ticker": null,
       "company": null,
-      "source": "PBS",
+      "source": "Biztoc.com",
       "category": "broad",
       "title": "Questions linger over U.S.-Iran deal as details remain murky",
-      "link": "https://www.pbs.org/newshour/show/questions-linger-over-u-s-iran-deal-as-details-remain-murky",
-      "published": "2026-06-16T22:55:09Z",
+      "link": "https://biztoc.com/x/71e3a160f2f8438a",
+      "published": "2026-06-16T23:01:22Z",
       "summary": "Meeting leaders of the top industrial nations at the G7 summit in the French Alps, President again extolled the framework deal the U.S. struck with Iran to start nuclear negotiations and end the war. But the prevailing question remains: What is actually in th\u2026",
       "is_signal": false
     },
     {
       "ticker": null,
       "company": null,
-      "source": "Financial Post",
+      "source": "Biztoc.com",
       "category": "broad",
-      "title": "Chemico Named a 2025 Supplier of the Year by General Motors",
-      "link": "https://financialpost.com/globe-newswire/chemico-named-a-2025-supplier-of-the-year-by-general-motors",
-      "published": "2026-06-16T22:54:41Z",
-      "summary": "Leading chemical management supplier has received 16 Supplier of the Year awards from GM SOUTHFIELD, Mich., June 16, 2026 (GLOBE NEWSWIRE) \u2014 General Motors (GM) recognized\u00a0Chemico as a 2025 Supplier of the Year in the category of Industrialization during GM\u2019s\u2026",
+      "title": "EU removes tariffs from US goods",
+      "link": "https://biztoc.com/x/f8c7da6c724d816e",
+      "published": "2026-06-16T23:01:21Z",
+      "summary": "The European Parliament approved its trade deal with the US, agreeing to reduce tariffs on industrial and agricultural goods. Washington agreed to cap its own tariffs.\nThe deal was agreed last year, but votes were postponed after US President Donald Trump thr\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Royal Society of Chemistry",
+      "category": "broad",
+      "title": "CO 2 -Selective Metal-Organic Frameworks for One-Step C 2 H 2 Purification",
+      "link": "https://pubs.rsc.org/en/content/articlelanding/2026/ta/d6ta03830a",
+      "published": "2026-06-16T23:00:00Z",
+      "summary": "J. Mater. Chem. A, 2026, Accepted ManuscriptDOI: 10.1039/D6TA03830A, Review ArticleZhixuan Liu, Tingting Pan, Le Shi, Zhijie ChenThe separation of acetylene (C 2 H 2 ) and carbon dioxide (CO 2 ) and is a critical step in the industrial production of high-puri\u2026",
       "is_signal": false
     },
     {
       "ticker": null,
       "company": null,
-      "source": "GlobeNewswire",
+      "source": "Royal Society of Chemistry",
       "category": "broad",
-      "title": "Chemico Named a 2025 Supplier of the Year by General Motors",
-      "link": "https://www.globenewswire.com/news-release/2026/06/16/3313131/0/en/Chemico-Named-a-2025-Supplier-of-the-Year-by-General-Motors.html",
-      "published": "2026-06-16T22:51:00Z",
-      "summary": "Chemico was named a 2025 Supplier of the Year by General Motors in the Industrialization category, marking its 16th time receiving the prestigious award....",
+      "title": "Surface Coatings Regulate the Biodynamics and Trophic Transfer of Silver Nanoparticles: Insights from Au@Ag Core-Shell Nanoparticle",
+      "link": "https://pubs.rsc.org/en/content/articlelanding/2026/en/d6en00416d",
+      "published": "2026-06-16T23:00:00Z",
+      "summary": "Environ. Sci.: Nano, 2026, Accepted ManuscriptDOI: 10.1039/D6EN00416D, PaperYufei Zhao, Xiangrui Wang, Yibing Hou, Zhejie Hou, Wenhong FanSilver nanoparticles (AgNPs) are widely used in industrial production and daily life, and their potential risks to aquati\u2026",
       "is_signal": false
     },
     {
       "ticker": null,
       "company": null,
-      "source": "TechRadar",
+      "source": "Royal Society of Chemistry",
       "category": "broad",
-      "title": "Quote of the day by former YouTube CEO Susan Wojcicki: 'Coding is like writing, and we live in a time of the new industrial revolution' \u2014 commentary on society's relationship with programming",
-      "link": "https://www.techradar.com/pro/quote-of-the-day-by-former-youtube-ceo-susan-wojcicki-coding-is-like-writing-and-we-live-in-a-time-of-the-new-industrial-revolution-commentary-on-societys-relationship-with-programming",
-      "published": "2026-06-16T22:05:00Z",
-      "summary": "The late technology executive Susan Wojcicki drew strong parallels between the rise of coding and the engineering bloom in the 1800s",
+      "title": "Strengthened d-\u03c0 Interaction in Bimetallic Cluster for Boosted Urea Electrosynthesis from Nitrate and CO2 in Simulated Industrial Waste",
+      "link": "https://pubs.rsc.org/en/content/articlelanding/2026/gc/d6gc02382g",
+      "published": "2026-06-16T23:00:00Z",
+      "summary": "Green Chem., 2026, Accepted ManuscriptDOI: 10.1039/D6GC02382G, PaperChunjing Tao, Jingting He, Wei Li, Fanfei Meng, Dongxu Cui, Meiyan Wang, Guo-Gang Shan, Xinlong Wang, Zhong-Min Su, Chun-Yi SunElectrocatalytic conversion of NO3- and CO2 offers a viable stra\u2026",
       "is_signal": false
     }
   ],
