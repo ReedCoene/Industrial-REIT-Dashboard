@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T23:19:51.610458+00:00",
-  "market_date": "June 18, 2026",
+  "last_updated": "2026-06-19T22:29:56.637527+00:00",
+  "market_date": "June 19, 2026",
   "stocks": {
     "PLD": {
       "name": "Prologis",
@@ -217,6 +217,28 @@
       "company": "Prologis",
       "source": "PLD",
       "category": "reit",
+      "title": "Are Finance Stocks Lagging  Prologis (PLD) This Year?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/finance-stocks-lagging-prologis-pld-134005125.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 13:40:05 +0000",
+      "summary": "Here is how Prologis (PLD) and Atlanticus Holdings Corporation (ATLC) have performed compared to their sector so far this year.",
+      "is_signal": false
+    },
+    {
+      "ticker": "PLD",
+      "company": "Prologis",
+      "source": "PLD",
+      "category": "reit",
+      "title": "Terreno Realty's Acquisition Spree Gains Steam With Hialeah Deal",
+      "link": "https://finance.yahoo.com/real-estate/articles/terreno-realtys-acquisition-spree-gains-122700662.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 12:27:00 +0000",
+      "summary": "Terreno Realty expands its Miami portfolio with a fully leased Hialeah Gardens asset, extending its buying push across high-barrier logistics markets.",
+      "is_signal": true
+    },
+    {
+      "ticker": "PLD",
+      "company": "Prologis",
+      "source": "PLD",
+      "category": "reit",
       "title": "Top Research Reports for Alphabet, Broadcom & Johnson & Johnson",
       "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-alphabet-broadcom-210900876.html?.tsrc=rss",
       "published": "Thu, 18 Jun 2026 21:09:00 +0000",
@@ -233,28 +255,6 @@
       "published": "Thu, 18 Jun 2026 15:07:00 +0000",
       "summary": "Prologis looks compelling despite the Fed's hawkish tone, backed by record leasing, rent growth, balance sheet strength and data center opportunities.",
       "is_signal": true
-    },
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
-      "title": "SpaceX initiated, Salesforce upgraded: Wall Street's top analyst calls",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-initiated-salesforce-upgraded-wall-133508409.html?.tsrc=rss",
-      "published": "Thu, 18 Jun 2026 13:35:08 +0000",
-      "summary": "SpaceX initiated, Salesforce upgraded: Wall Street's top analyst calls",
-      "is_signal": true
-    },
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
-      "title": "FIBRA Prologis Announces Changes to its Technical Committee",
-      "link": "https://finance.yahoo.com/real-estate/articles/fibra-prologis-announces-changes-technical-214100291.html?.tsrc=rss",
-      "published": "Wed, 17 Jun 2026 21:41:00 +0000",
-      "summary": "FIBRA Prologis (BMV: FIBRAPL 14), a leading owner and operator of Class-A industrial real estate in Mexico, today announced changes to its Technical Committee: Christopher Burns, Head of Deployment of North America for Prologis will join as a non-independent member and Joseph Ghazal, former Chief In\u2026",
-      "is_signal": false
     },
     {
       "ticker": "EGP",
@@ -393,6 +393,17 @@
       "company": "STAG Industrial",
       "source": "STAG",
       "category": "reit",
+      "title": "Terreno Realty's Acquisition Spree Gains Steam With Hialeah Deal",
+      "link": "https://finance.yahoo.com/real-estate/articles/terreno-realtys-acquisition-spree-gains-122700662.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 12:27:00 +0000",
+      "summary": "Terreno Realty expands its Miami portfolio with a fully leased Hialeah Gardens asset, extending its buying push across high-barrier logistics markets.",
+      "is_signal": true
+    },
+    {
+      "ticker": "STAG",
+      "company": "STAG Industrial",
+      "source": "STAG",
+      "category": "reit",
       "title": "Terreno Realty Adds Alexandria Asset as Industrial Demand Holds Up",
       "link": "https://finance.yahoo.com/real-estate/articles/terreno-realty-adds-alexandria-asset-155500980.html?.tsrc=rss",
       "published": "Wed, 17 Jun 2026 15:55:00 +0000",
@@ -419,17 +430,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/public-storage-stock-still-worth-160100655.html?.tsrc=rss",
       "published": "Tue, 09 Jun 2026 16:01:00 +0000",
       "summary": "Public Storage rises 19.9% YTD as FFO ticks higher and a National Storage Affiliates deal promises synergies. Can the momentum last?",
-      "is_signal": true
-    },
-    {
-      "ticker": "STAG",
-      "company": "STAG Industrial",
-      "source": "STAG",
-      "category": "reit",
-      "title": "LAMR Stock Rallies 19.2% YTD: Can the Momentum Keep Going?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lamr-stock-rallies-19-2-170000447.html?.tsrc=rss",
-      "published": "Fri, 05 Jun 2026 17:00:00 +0000",
-      "summary": "LAMR rises 19.2% YTD as Q1 results beat, bookings hit best since COVID, margins expand and a 2026 dividend of at least $6.40 looms.",
       "is_signal": true
     },
     {
@@ -525,6 +525,17 @@
       "company": "Terreno Realty",
       "source": "TRNO",
       "category": "reit",
+      "title": "Terreno Realty's Acquisition Spree Gains Steam With Hialeah Deal",
+      "link": "https://finance.yahoo.com/real-estate/articles/terreno-realtys-acquisition-spree-gains-122700662.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 12:27:00 +0000",
+      "summary": "Terreno Realty expands its Miami portfolio with a fully leased Hialeah Gardens asset, extending its buying push across high-barrier logistics markets.",
+      "is_signal": true
+    },
+    {
+      "ticker": "TRNO",
+      "company": "Terreno Realty",
+      "source": "TRNO",
+      "category": "reit",
       "title": "Terreno Expands Portfolio With $77.1M Landover Property Acquisition",
       "link": "https://finance.yahoo.com/real-estate/articles/terreno-expands-portfolio-77-1m-151600395.html?.tsrc=rss",
       "published": "Thu, 18 Jun 2026 15:16:00 +0000",
@@ -554,14 +565,14 @@
       "is_signal": false
     },
     {
-      "ticker": "TRNO",
-      "company": "Terreno Realty",
-      "source": "TRNO",
+      "ticker": "IIPR",
+      "company": "Innovative Industrial Properties",
+      "source": "IIPR",
       "category": "reit",
-      "title": "Terreno Realty Corporation Acquires Property in Landover, MD for $77.1 Million",
-      "link": "https://finance.yahoo.com/real-estate/articles/terreno-realty-corporation-acquires-property-131500104.html?.tsrc=rss",
-      "published": "Wed, 17 Jun 2026 13:15:00 +0000",
-      "summary": "BELLEVUE, Wash., June 17, 2026--Terreno Realty Corporation Acquires Property in Landover, MD for $77.1 Million",
+      "title": "Innovative Industrial Properties (IIPR) Exceeds Market Returns: Some Facts to Consider",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-iipr-exceeds-221503831.html?.tsrc=rss",
+      "published": "Thu, 18 Jun 2026 22:15:03 +0000",
+      "summary": "Innovative Industrial Properties (IIPR) concluded the recent trading session at $59.6, signifying a +1.62% move from its prior day's close.",
       "is_signal": false
     },
     {
@@ -596,17 +607,6 @@
       "published": "Mon, 15 Jun 2026 03:10:13 +0000",
       "summary": "Innovative Industrial Properties (IIPR) has priced an upsized private offering of US$350 million exchangeable senior notes due 2029. This funding move immediately puts capital structure, dilution risk and capital allocation in focus for shareholders. See our latest analysis for Innovative Industrial\u2026",
       "is_signal": true
-    },
-    {
-      "ticker": "IIPR",
-      "company": "Innovative Industrial Properties",
-      "source": "IIPR",
-      "category": "reit",
-      "title": "Innovative Industrial Properties (IIPR) Stock Declines While Market Improves: Some Information for Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-iipr-stock-221504645.html?.tsrc=rss",
-      "published": "Fri, 12 Jun 2026 22:15:04 +0000",
-      "summary": "Innovative Industrial Properties (IIPR) closed the most recent trading day at $60.49, moving 2.07% from the previous trading session.",
-      "is_signal": false
     },
     {
       "ticker": "ILPT",
@@ -756,10 +756,32 @@
       "company": null,
       "source": "DC Velocity",
       "category": "sector",
+      "title": "Forecast: Panama Canal could restrict shipping if El Nino causes drought",
+      "link": "https://www.dcvelocity.com/transportation/maritime-ocean/forecast-panama-canal-could-restrict-shipping-if-el-nino-causes-drought",
+      "published": "Fri, 19 Jun 2026 18:42:36 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/chart-of-history-of-el-nino-weather.png?id=66968557&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><h3></h3><br /><p>Global supply chains could be slowed this year by restricted shipping through the Panama Canal, accordin\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "DC Velocity",
+      "category": "sector",
+      "title": "Experts: Hormuz won\u2019t see return to full cargo flow for 3 months",
+      "link": "https://www.dcvelocity.com/transportation/maritime-ocean/experts-hormuz-wont-see-return-to-full-cargo-flow-for-3-months",
+      "published": "Fri, 19 Jun 2026 18:35:36 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/satellite-photo-of-strait-of-hormuz.png?id=66968494&amp;width=1245&amp;height=700&amp;coordinates=0%2C114%2C0%2C114\" /><br /><br /><h3></h3><br /><p>Commercial shipping analysts are giving wary support for the U.S. and Iran\u2019s temporary peace agreeme\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "DC Velocity",
+      "category": "sector",
       "title": "Gartner: Schneider Electric returns as Number 1 in supply chain rank",
       "link": "https://www.dcvelocity.com/supply-chain/other-services/supply-chain-strategy/gartner-schneider-electric-returns-as-number-1-in-supply-chain-rank",
       "published": "Thu, 18 Jun 2026 19:15:50 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/chart-of-supply-chain-rankings.png?id=66958429&amp;width=1200&amp;height=400&amp;coordinates=0%2C181%2C0%2C181\" /><br /><br /><h3></h3><br /><p>Analyst firm Gartner this week <a href=\"https://www.gartner.com/en/newsroom/press-releases/2026-06-17-gar\u2026",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/chart-of-supply-chain-rankings.png?id=66958429&amp;width=1245&amp;height=700&amp;coordinates=0%2C43%2C0%2C44\" /><br /><br /><h3></h3><br /><p>Analyst firm Gartner this week <a href=\"https://www.gartner.com/en/newsroom/press-releases/2026-06-17-gartn\u2026",
       "is_signal": true
     },
     {
@@ -770,7 +792,7 @@
       "title": "Descartes: U.S. Imports from Hormuz-Affected ports \u201ccollapsed\u201d in May",
       "link": "https://www.dcvelocity.com/transportation/maritime-ocean/descartes-u-s-imports-from-hormuz-affected-ports-collapsed-in-may",
       "published": "Thu, 18 Jun 2026 19:14:59 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/chart-of-exports-through-hormuz.png?id=66958379&amp;width=1200&amp;height=400&amp;coordinates=0%2C137%2C0%2C138\" /><br /><br /><h3></h3><br /><p>U.S. Imports from Hormuz-affected ports \u201ccollapsed\u201d in May as the closure of the key shipping strait hit\u2026",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/chart-of-exports-through-hormuz.png?id=66958379&amp;width=1245&amp;height=700&amp;coordinates=25%2C0%2C26%2C0\" /><br /><br /><h3></h3><br /><p>U.S. Imports from Hormuz-affected ports \u201ccollapsed\u201d in May as the closure of the key shipping strait hit c\u2026",
       "is_signal": false
     },
     {
@@ -781,29 +803,7 @@
       "title": "Accenture says acquisition offers tools to help manufacturers to digitalize operations",
       "link": "https://www.dcvelocity.com/technology/supply-chain-it/simulation-vr-digital-twin/accenture-says-acquisition-offers-tools-to-help-manufacturers-to-digitalize-operations",
       "published": "Thu, 18 Jun 2026 19:08:23 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/diagram-of-digitalization.png?id=66958346&amp;width=1200&amp;height=400&amp;coordinates=0%2C197%2C0%2C197\" /><br /><br /><h3></h3><br /><p>Consulting firm <a href=\"https://newsroom.accenture.com/news/2026/accenture-to-strengthen-capabilities-for-sof\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "DC Velocity",
-      "category": "sector",
-      "title": "Berkshire Grey expands footprint in Europe",
-      "link": "https://www.dcvelocity.com/material-handling/order-fulfillment-packing/robotic-picking-and-loading/berkshire-grey-expands-footprint-in-europe",
-      "published": "Thu, 18 Jun 2026 19:04:37 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-automated-picking-cell.jpg?id=66958328&amp;width=1200&amp;height=400&amp;coordinates=0%2C220%2C0%2C220\" /><br /><br /><h3></h3><br /><p>Robotic automation provider Berkshire Grey will expand its European operations with the opening of a new\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "DC Velocity",
-      "category": "sector",
-      "title": "Logistics workers score big in World Cup prep",
-      "link": "https://www.dcvelocity.com/editorial/featured/logistics-workers-score-big-in-world-cup-prep",
-      "published": "Wed, 17 Jun 2026 14:39:15 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/norway-vs-iraq-at-massachusetts-gillette-stadium-june-16.jpg?id=66951880&amp;width=1200&amp;height=400&amp;coordinates=0%2C227%2C0%2C227\" /><br /><br /><h3></h3><br /><p>The World Cup is well underway in America, and players and fans alike can thank\u2026",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/diagram-of-digitalization.png?id=66958346&amp;width=1245&amp;height=700&amp;coordinates=57%2C0%2C58%2C0\" /><br /><br /><h3></h3><br /><p>Consulting firm <a href=\"https://newsroom.accenture.com/news/2026/accenture-to-strengthen-capabilities-for-softw\u2026",
       "is_signal": true
     },
     {
@@ -921,10 +921,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Starboard bets AI can give smaller forwarders a fighting chance",
-      "link": "https://theloadstar.com/starboard-bets-ai-can-give-smaller-forwarders-a-fighting-chance/",
-      "published": "Thu, 18 Jun 2026 23:01:33 +0000",
-      "summary": "<p>Freight forwarding has plenty of AI demos. The harder test is whether the technology can handle the daily mess of the quote desk: emails, PDFs, spreadsheets, carrier portals, agent replies and rates that change before anyone has time to clean the data.<br />\nThat is where Sumeet Trehan, founder o\u2026",
+      "title": "Spot rates surge again as carriers push through fresh July hikes",
+      "link": "https://theloadstar.com/spot-rates-surge-again-as-carriers-push-through-fresh-july-hikes/",
+      "published": "Fri, 19 Jun 2026 12:20:50 +0000",
+      "summary": "<p>A series of container freight spot rate hikes and general rate increases implemented on 15 June prompted another week of double-digit price rises on the transpacific and Asia-Europe trades.<br />\nThis week\u2019s World Container Index (WCI) from Drewry saw the spot rate on its Shanghai-Rotterdam leg s\u2026",
       "is_signal": false
     },
     {
@@ -932,21 +932,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Hormuz traffic rises as US-Iran MoU sparks cautious optimism",
-      "link": "https://theloadstar.com/hormuz-traffic-rises-as-us-iran-mou-sparks-cautious-optimism/",
-      "published": "Thu, 18 Jun 2026 11:44:29 +0000",
-      "summary": "<p>Forwarders may be short of confidence following confirmation that the US and Iran have signed a deal to end the war, but there have been green shoots of hope with ocean transits on the up.<br />\nBoth President Trump and President Masoud Pezeshkian confirmed that they had put pen to paper \u2013 or pen\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Loadstar",
-      "category": "sector",
-      "title": "Network restructuring cascading larger vessels onto Intra-Europe trades",
-      "link": "https://theloadstar.com/network-restructuring-cascading-larger-vessels-onto-intra-europe-trades/",
-      "published": "Thu, 18 Jun 2026 11:20:09 +0000",
-      "summary": "<p>Container lines are increasingly deploying larger vessels on intra-Europe routes, with the number of ships above 8,000 teu operating in the Mediterranean rising by 78% year on year, according to Alphaliner.\u00a0<br />\nThe analyst said the fleet of vessels above 8,000 teu trading in the region had inc\u2026",
+      "title": "Gulf land bridge gains momentum as DHL, Oman Air and GWC expand capacity",
+      "link": "https://theloadstar.com/gulf-land-bridge-gains-momentum-as-dhl-oman-air-and-gwc-expand-capacity/",
+      "published": "Fri, 19 Jun 2026 12:03:17 +0000",
+      "summary": "<p>Deal or no deal, logistics operators are expanding their Gulf land bridge offerings with DHL, GWC, and Oman Air Cargo all pumping further capacity into the region as shocks from the US/Israeli war against Iran continue to be felt across global supply chains.<br />\nOman Air Cargo this week launche\u2026",
       "is_signal": true
     },
     {
@@ -954,10 +943,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Sticky port congestion drives intra-Asia freight rates higher",
-      "link": "https://theloadstar.com/sticky-port-congestion-drives-intra-asia-freight-rates-higher/",
-      "published": "Thu, 18 Jun 2026 10:46:45 +0000",
-      "summary": "<p>Intra-Asia rates continue to rise year-on-year, as major ports are congested amid the early peak season, and there is a slow return of empty containers.<br />\nOn 12 June, the Shanghai Containerised Freight Index showed the Shanghai-Southeast Asia rate went up by 5% from 5 June, to $682 per teu. T\u2026",
+      "title": "Forwarders face profitability test as freight markets\u00a0look set to stabilise",
+      "link": "https://theloadstar.com/forwarders-face-profitability-test-as-freight-markets-look-set-to-stabilise/",
+      "published": "Fri, 19 Jun 2026 11:32:20 +0000",
+      "summary": "<p>As global freight markets begin\u00a0to show\u00a0signs of\u00a0stabilisation\u00a0after months of disruption, the industry&#8217;s largest forwarders\u00a0have shown that\u00a0recovering markets are not automatically translating into easier profits.\u00a0<br />\nThe warning, highlighted this week by profitability software provider\u2026",
       "is_signal": false
     },
     {
@@ -965,11 +954,22 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "CargoWise\u00a0outage reignites debate over software quality,\u00a0support\u00a0and updates",
-      "link": "https://theloadstar.com/cargowise-outage-reignites-debate-over-software-quality-support-and-updates/",
-      "published": "Thu, 18 Jun 2026 09:24:05 +0000",
-      "summary": "<p>WiseTech Global has attributed Tuesday&#8217;s CargoWise outage to a faulty data update, but the incident has reopened the wider debate among customers over software quality, support responsiveness and the company&#8217;s approach to product releases.\u00a0<br />\nIn a statement provided to\u00a0The Loadsta\u2026",
-      "is_signal": false
+      "title": "Regional trade boom could reshape container shipping for a \u2018golden decade\u2019",
+      "link": "https://theloadstar.com/regional-trade-boom-could-reshape-container-shipping-for-a-golden-decade/",
+      "published": "Fri, 19 Jun 2026 11:30:47 +0000",
+      "summary": "<p>The gradual regionalisation of global supply chains is becoming one of the most important trends shaping container shipping, according to Braemar, as new trade agreements and shifting geopolitical dynamics redraw cargo flows.\u00a0<br />\nAnalysing the World Bank\u2019s latest global outlook, consultancy Br\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Loadstar",
+      "category": "sector",
+      "title": "Analysis: DSV CEO Jens Lund at a crossroads \u2013 next deal, please!",
+      "link": "https://theloadstar.com/analysis-dsv-ceo-jens-lund-at-a-crossroads-next-deal-please/",
+      "published": "Fri, 19 Jun 2026 11:12:33 +0000",
+      "summary": "<p>The forward-looking view on Danish forwarder DSV is always fascinating.<br />\nThat&#8217;s simply explained.<br />\nThe company \u2013 often promising to be better and more profitable than at any time previously thanks to deal-making \u2013 is widely regarded as the best asset-light transport and logistics \u2026",
+      "is_signal": true
     },
     {
       "ticker": null,
@@ -1058,6 +1058,28 @@
       "published": "2026-06-10T06:28:22Z",
       "summary": "New Khalapur facility to power expansion of the company\u2019s \u20b91,000 crore material handling business to meet the rising demand from India\u2019s fast-growing online retail ecosystem",
       "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Biztoc.com",
+      "category": "broad",
+      "title": "Fremont emerges as AI manufacturing hub amid severe power infrastructure shortage",
+      "link": "https://biztoc.com/x/f9672c6132d3890a",
+      "published": "2026-06-18T22:17:10Z",
+      "summary": "Two new 75-megawatt transformers are expected within a year. But demand for high-power industrial space far exceeds what's available today.",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Crypto Briefing",
+      "category": "broad",
+      "title": "Boston Dynamics\u2019 Atlas robot lifts and carries full fridge autonomously",
+      "link": "https://cryptobriefing.com/boston-dynamics-atlas-robot-carries-fridge/",
+      "published": "2026-06-18T22:08:43Z",
+      "summary": "Atlas's autonomous capabilities could revolutionize industrial automation, enhancing efficiency and safety in handling heavy objects.\nThe post Boston Dynamics\u2019 Atlas robot lifts and carries full fridge autonomously appeared first on Crypto Briefing.",
+      "is_signal": false
     }
   ],
   "weekly_report": null,
