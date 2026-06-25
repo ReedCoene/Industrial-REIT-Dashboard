@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T22:54:30.926710+00:00",
+  "last_updated": "2026-06-25T22:57:49.673867+00:00",
   "market_date": "June 25, 2026",
   "stocks": {
     "PLD": {
@@ -105,7 +105,7 @@
       "prev_close": 61.08,
       "pct_change": 0.13,
       "market_cap": 1773356288,
-      "dividend_yield": 12.53,
+      "dividend_yield": 12.44,
       "fifty_two_week_high": 62.3,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-05-04"
