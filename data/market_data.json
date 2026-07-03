@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T22:39:24.572292+00:00",
-  "market_date": "July 02, 2026",
+  "last_updated": "2026-07-03T22:32:04.038289+00:00",
+  "market_date": "July 03, 2026",
   "stocks": {
     "PLD": {
       "name": "Prologis",
@@ -8,8 +8,8 @@
       "price": 139.43,
       "prev_close": 136.8,
       "pct_change": 1.92,
-      "market_cap": 130652037120,
-      "dividend_yield": 3.13,
+      "market_cap": 133029601280,
+      "dividend_yield": 3.07,
       "fifty_two_week_high": 150.18,
       "fifty_two_week_low": 103.41,
       "next_earnings": "2026-07-16"
@@ -21,8 +21,8 @@
       "prev_close": 205.46,
       "pct_change": 2.86,
       "market_cap": 11360092160,
-      "dividend_yield": 0,
-      "fifty_two_week_high": 211.33,
+      "dividend_yield": 2.93,
+      "fifty_two_week_high": 211.34,
       "fifty_two_week_low": 159.37,
       "next_earnings": "2026-07-22"
     },
@@ -33,7 +33,7 @@
       "prev_close": 61.61,
       "pct_change": 1.28,
       "market_cap": 8549826560,
-      "dividend_yield": 3.07,
+      "dividend_yield": 3.03,
       "fifty_two_week_high": 64.66,
       "fifty_two_week_low": 47.38,
       "next_earnings": "2026-07-22"
@@ -45,7 +45,7 @@
       "prev_close": 33.72,
       "pct_change": 1.45,
       "market_cap": 7914978304,
-      "dividend_yield": 0,
+      "dividend_yield": 5.06,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 32.14,
       "next_earnings": "2026-07-23"
@@ -57,7 +57,7 @@
       "prev_close": 38.34,
       "pct_change": 2.14,
       "market_cap": 7644205056,
-      "dividend_yield": 4.04,
+      "dividend_yield": 3.96,
       "fifty_two_week_high": 39.99,
       "fifty_two_week_low": 33.72,
       "next_earnings": "2026-07-28"
@@ -69,7 +69,7 @@
       "prev_close": 54.56,
       "pct_change": 1.83,
       "market_cap": 3275401728,
-      "dividend_yield": 0,
+      "dividend_yield": 5.04,
       "fifty_two_week_high": 55.62,
       "fifty_two_week_low": 38.2,
       "next_earnings": "2026-07-29"
@@ -81,7 +81,7 @@
       "prev_close": 16.02,
       "pct_change": 1.37,
       "market_cap": 4655559680,
-      "dividend_yield": 5.74,
+      "dividend_yield": 5.67,
       "fifty_two_week_high": 17.12,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-08-06"
@@ -93,7 +93,7 @@
       "prev_close": 66.01,
       "pct_change": 2.0,
       "market_cap": 7117951488,
-      "dividend_yield": 0,
+      "dividend_yield": 3.09,
       "fifty_two_week_high": 67.83,
       "fifty_two_week_low": 53.0,
       "next_earnings": "2026-08-05"
@@ -105,7 +105,7 @@
       "prev_close": 62.7,
       "pct_change": 1.05,
       "market_cap": 1837146112,
-      "dividend_yield": 12.12,
+      "dividend_yield": 11.99,
       "fifty_two_week_high": 63.64,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-05-04"
@@ -117,7 +117,7 @@
       "prev_close": 9.0,
       "pct_change": -0.56,
       "market_cap": 596655936,
-      "dividend_yield": 0,
+      "dividend_yield": 2.23,
       "fifty_two_week_high": 9.37,
       "fifty_two_week_low": 4.495,
       "next_earnings": "2026-07-29"
@@ -129,7 +129,7 @@
       "prev_close": 17.4,
       "pct_change": 2.82,
       "market_cap": 184690448,
-      "dividend_yield": 0,
+      "dividend_yield": 6.71,
       "fifty_two_week_high": 18.83,
       "fifty_two_week_low": 13.8,
       "next_earnings": "2026-08-06"
@@ -143,8 +143,8 @@
       "prev_close": 205.46,
       "pct_change": 2.86,
       "market_cap": 11360092160,
-      "dividend_yield": 0,
-      "fifty_two_week_high": 211.33,
+      "dividend_yield": 2.93,
+      "fifty_two_week_high": 211.34,
       "fifty_two_week_low": 159.37,
       "next_earnings": "2026-07-22"
     },
@@ -155,7 +155,7 @@
       "prev_close": 17.4,
       "pct_change": 2.82,
       "market_cap": 184690448,
-      "dividend_yield": 0,
+      "dividend_yield": 6.71,
       "fifty_two_week_high": 18.83,
       "fifty_two_week_low": 13.8,
       "next_earnings": "2026-08-06"
@@ -167,7 +167,7 @@
       "prev_close": 38.34,
       "pct_change": 2.14,
       "market_cap": 7644205056,
-      "dividend_yield": 4.04,
+      "dividend_yield": 3.96,
       "fifty_two_week_high": 39.99,
       "fifty_two_week_low": 33.72,
       "next_earnings": "2026-07-28"
@@ -181,7 +181,7 @@
       "prev_close": 61.61,
       "pct_change": 1.28,
       "market_cap": 8549826560,
-      "dividend_yield": 3.07,
+      "dividend_yield": 3.03,
       "fifty_two_week_high": 64.66,
       "fifty_two_week_low": 47.38,
       "next_earnings": "2026-07-22"
@@ -193,7 +193,7 @@
       "prev_close": 62.7,
       "pct_change": 1.05,
       "market_cap": 1837146112,
-      "dividend_yield": 12.12,
+      "dividend_yield": 11.99,
       "fifty_two_week_high": 63.64,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-05-04"
@@ -205,7 +205,7 @@
       "prev_close": 9.0,
       "pct_change": -0.56,
       "market_cap": 596655936,
-      "dividend_yield": 0,
+      "dividend_yield": 2.23,
       "fifty_two_week_high": 9.37,
       "fifty_two_week_low": 4.495,
       "next_earnings": "2026-07-29"
@@ -217,21 +217,10 @@
       "company": "Prologis",
       "source": "PLD",
       "category": "reit",
-      "title": "What Does Gladstone Commercial's New Ohio Lease Mean for Investors?",
-      "link": "https://finance.yahoo.com/real-estate/articles/does-gladstone-commercials-ohio-lease-170000195.html?.tsrc=rss",
-      "published": "Thu, 02 Jul 2026 17:00:00 +0000",
-      "summary": "GOOD's new Ohio lease lifts its New Albany office and R&amp;D property to full occupancy, supporting steadier rents. Meanwhile, revenue and FFO pressures linger.",
-      "is_signal": true
-    },
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
       "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-154400354.html?.tsrc=rss",
-      "published": "Thu, 02 Jul 2026 15:44:00 +0000",
-      "summary": "LONDON, July 02, 2026-- FORM 8.3",
+      "link": "https://finance.yahoo.com/news/form-8-3-135000291.html?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 13:50:00 +0000",
+      "summary": "LONDON, July 03, 2026-- FORM 8.3",
       "is_signal": false
     },
     {
@@ -240,10 +229,21 @@
       "source": "PLD",
       "category": "reit",
       "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-111900487.html?.tsrc=rss",
-      "published": "Thu, 02 Jul 2026 11:19:00 +0000",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-075800561.html?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 07:58:00 +0000",
       "summary": "FORM 8.3 PUBLIC OPENING POSITION DISCLOSURE/DEALING DISCLOSURE BYA PERSON WITH INTERESTS IN RELEVANT SECURITIES REPRESENTING 1% OR MORERule 8.3 of the Takeover Code (the \u201cCode\u201d) 1.KEY INFORMATION (a)Full name of discloser:Dimensional Fund Advisors Ltd. whose parent is Dimensional Fund Advisors LP, a\u2026",
       "is_signal": false
+    },
+    {
+      "ticker": "PLD",
+      "company": "Prologis",
+      "source": "PLD",
+      "category": "reit",
+      "title": "What Does Gladstone Commercial's New Ohio Lease Mean for Investors?",
+      "link": "https://finance.yahoo.com/real-estate/articles/does-gladstone-commercials-ohio-lease-170000195.html?.tsrc=rss",
+      "published": "Thu, 02 Jul 2026 17:00:00 +0000",
+      "summary": "GOOD's new Ohio lease lifts its New Albany office and R&amp;D property to full occupancy, supporting steadier rents. Meanwhile, revenue and FFO pressures linger.",
+      "is_signal": true
     },
     {
       "ticker": "PLD",
@@ -393,43 +393,43 @@
       "company": "STAG Industrial",
       "source": "STAG",
       "category": "reit",
+      "title": "STAG Industrial (STAG) Stock Still Looks Undervalued Following A 25% Five Year Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stag-industrial-stag-stock-still-201017074.html?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 20:10:17 +0000",
+      "summary": "STAG Industrial stock has delivered a 25.4% total return over the past 5 years, and today the Discounted Cash Flow (DCF) intrinsic value estimate points to a meaningful discount while market based multiples suggest the shares are closer to fairly valued. Together with a mixed overall value score, th\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "STAG",
+      "company": "STAG Industrial",
+      "source": "STAG",
+      "category": "reit",
+      "title": "Terreno Realty's Latest Leasing Moves: What Investors Need to Know Now",
+      "link": "https://finance.yahoo.com/real-estate/articles/terreno-realtys-latest-leasing-moves-152900832.html?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 15:29:00 +0000",
+      "summary": "Terreno Realty's leasing wins in Florida, California and New Jersey boost occupancy, extend cash flow visibility and highlight demand in core logistics markets.",
+      "is_signal": true
+    },
+    {
+      "ticker": "STAG",
+      "company": "STAG Industrial",
+      "source": "STAG",
+      "category": "reit",
+      "title": "3 REITs to Buy for Passive Income in July",
+      "link": "https://247wallst.com/investing/2026/07/03/3-reits-to-buy-for-passive-income-in-july/?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 13:15:30 +0000",
+      "summary": "Income investors entering July 2026 are getting a friendlier setup than they had six months ago. The 10-year Treasury yield sits at 4%, down from its May 19 peak of 5%, and the Fed Funds upper bound has held at 4% for six months after two cuts in late 2025. Falling rates lower refinancing pressure .\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "STAG",
+      "company": "STAG Industrial",
+      "source": "STAG",
+      "category": "reit",
       "title": "What Does Gladstone Commercial's New Ohio Lease Mean for Investors?",
       "link": "https://finance.yahoo.com/real-estate/articles/does-gladstone-commercials-ohio-lease-170000195.html?.tsrc=rss",
       "published": "Thu, 02 Jul 2026 17:00:00 +0000",
       "summary": "GOOD's new Ohio lease lifts its New Albany office and R&amp;D property to full occupancy, supporting steadier rents. Meanwhile, revenue and FFO pressures linger.",
-      "is_signal": true
-    },
-    {
-      "ticker": "STAG",
-      "company": "STAG Industrial",
-      "source": "STAG",
-      "category": "reit",
-      "title": "STAG INDUSTRIAL TO REPORT SECOND QUARTER 2026 RESULTS JULY 28, 2026",
-      "link": "https://finance.yahoo.com/real-estate/articles/stag-industrial-report-second-quarter-200600435.html?.tsrc=rss",
-      "published": "Wed, 01 Jul 2026 20:06:00 +0000",
-      "summary": "STAG Industrial, Inc. (the \"Company\") (NYSE: STAG) today announced that the Company will release its second quarter 2026 operating and financial results after market close on Tuesday, July 28, 2026. The Company will host its quarterly earnings conference call on Wednesday, July 29, 2026, at 10:00 a.\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "STAG",
-      "company": "STAG Industrial",
-      "source": "STAG",
-      "category": "reit",
-      "title": "Want $1,500 a Month in Rent Without a Single 2 a.m. Phone Call? These 3 ETFs Pay You Like a Landlord",
-      "link": "https://247wallst.com/investing/etf/2026/06/30/want-1500-a-month-in-rent-without-a-single-2-a-m-phone-call-these-3-etfs-pay-you-like-a-landlord/?.tsrc=rss",
-      "published": "Wed, 01 Jul 2026 00:14:50 +0000",
-      "summary": "You like the idea of rental income, but you hate the idea of a tenant calling you at 2 a.m. about a broken water heater. That is the exact gap these three real estate names fill. Realty Income (NYSE:O), STAG Industrial (NYSE:STAG), and American Homes 4 Rent (NYSE:AMH) collect rent from thousands of \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "STAG",
-      "company": "STAG Industrial",
-      "source": "STAG",
-      "category": "reit",
-      "title": "Stag Industrial (STAG) Could Be a Great Choice",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stag-industrial-stag-could-great-154505443.html?.tsrc=rss",
-      "published": "Fri, 26 Jun 2026 15:45:05 +0000",
-      "summary": "Dividends are one of the best benefits to being a shareholder, but finding a great dividend stock is no easy task. Does Stag (STAG) have what it takes? Let's find out.",
       "is_signal": true
     },
     {
@@ -525,6 +525,17 @@
       "company": "Terreno Realty",
       "source": "TRNO",
       "category": "reit",
+      "title": "Terreno Realty's Latest Leasing Moves: What Investors Need to Know Now",
+      "link": "https://finance.yahoo.com/real-estate/articles/terreno-realtys-latest-leasing-moves-152900832.html?.tsrc=rss",
+      "published": "Fri, 03 Jul 2026 15:29:00 +0000",
+      "summary": "Terreno Realty's leasing wins in Florida, California and New Jersey boost occupancy, extend cash flow visibility and highlight demand in core logistics markets.",
+      "is_signal": true
+    },
+    {
+      "ticker": "TRNO",
+      "company": "Terreno Realty",
+      "source": "TRNO",
+      "category": "reit",
       "title": "Terreno Realty Corporation Announces Leases in Doral, FL",
       "link": "https://finance.yahoo.com/real-estate/articles/terreno-realty-corporation-announces-leases-131500016.html?.tsrc=rss",
       "published": "Thu, 02 Jul 2026 13:15:00 +0000",
@@ -552,17 +563,6 @@
       "published": "Tue, 30 Jun 2026 13:15:00 +0000",
       "summary": "BELLEVUE, Wash., June 30, 2026--Terreno Realty Corporation Announces Lease in Union City, CA",
       "is_signal": false
-    },
-    {
-      "ticker": "TRNO",
-      "company": "Terreno Realty",
-      "source": "TRNO",
-      "category": "reit",
-      "title": "Coastal Industrial Acquisitions and Leases Might Change The Case For Investing In Terreno Realty (TRNO)",
-      "link": "https://finance.yahoo.com/real-estate/articles/coastal-industrial-acquisitions-leases-might-080514620.html?.tsrc=rss",
-      "published": "Sun, 28 Jun 2026 08:05:14 +0000",
-      "summary": "Terreno Realty Corporation recently renewed a 102,000-square-foot lease early in Hayward, California and signed a new 92,000-square-foot lease in Kearny, New Jersey, alongside acquiring three industrial properties in Florida, Maryland and Virginia for about US$146.40 million. Together, these fully a\u2026",
-      "is_signal": true
     },
     {
       "ticker": "IIPR",
@@ -921,10 +921,21 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Oman Air Cargo to boost regional services and widen global horizons",
-      "link": "https://theloadstar.com/oman-air-cargo-to-boost-regional-services-and-widen-global-horizons/",
-      "published": "Thu, 02 Jul 2026 12:08:56 +0000",
-      "summary": "<p>Increased exposure from the Hormuz crisis has upped Oman Air Cargo\u2019s growth trajectory for the coming years, leaving the carrier looking to bolster not only its regional services, but its capacity into Asia and Europe, with Africa also on the cards.<br />\nSpeaking to The Loadstar on the sidelines\u2026",
+      "title": "New Ceva CEO denies \u2018unfounded rumor\u2019: CFO Dorin-Blanchard \u2018remains fully committed to Ceva\u2019",
+      "link": "https://theloadstar.com/new-ceva-ceo-denies-unfounded-rumor-cfo-dorin-blanchard-remains-fully-committed-to-ceva/",
+      "published": "Fri, 03 Jul 2026 14:43:08 +0000",
+      "summary": "<p>Ceva Logistics CFO Sandrine Dorin-Blanchard &#8220;has never planned to leave, and she remains fully committed to Ceva&#8221;, new Ceva Logistics CEO Patrick Moebel told staff today \u2013 &#8220;I want to directly address an unfounded rumor circulating both inside and outside our company: Sandrine Do\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Loadstar",
+      "category": "sector",
+      "title": "Cargo chaos in the Gulf as congestion at Jeddah hobbles land bridge",
+      "link": "https://theloadstar.com/cargo-chaos-in-the-gulf-as-congestion-at-jeddah-hobbles-land-bridge/",
+      "published": "Fri, 03 Jul 2026 12:22:35 +0000",
+      "summary": "<p>Hapag-Lloyd has suspended bookings into Jeddah, amid surging congestion brought on by a shift to Gulf land bridge routings, with forwarders telling The Loadstar that 5km truck queues to the port have developed.<br />\nSeen as something of a regional saviour, demand for land bridge connections has \u2026",
       "is_signal": false
     },
     {
@@ -932,10 +943,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Dover warns EES passport chaos will disrupt UK-EU freight traffic",
-      "link": "https://theloadstar.com/dover-warns-ees-passport-chaos-will-disrupt-uk-eu-freight-traffic/",
-      "published": "Thu, 02 Jul 2026 11:58:37 +0000",
-      "summary": "<p>Pictures of enormous queues of British tourists waiting at continental European passport controls are normally the stuff of tabloid newspapers, but the mounting chaos over the EU\u2019s new Entry Exit Scheme is now threatening to cut-off a major UK-Europe freight artery.<br />\nAs the summer holiday pe\u2026",
+      "title": "Carriers \u2018test the markets\u2019 with rate hikes, but has the peak hit its peak?",
+      "link": "https://theloadstar.com/carriers-test-the-markets-with-rate-hikes-but-has-the-peak-hit-its-peak/",
+      "published": "Fri, 03 Jul 2026 11:56:55 +0000",
+      "summary": "<p>With shipping\u2019s peak season now well under way, container freight spot rates resumed their steep upward trajectory this week on the main east-west trades, following a series of carrier price hikes introduced on 1 July.<br />\nHowever, compared with the double-digit increases seen a fortnight ago, \u2026",
       "is_signal": false
     },
     {
@@ -943,10 +954,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Projectile-hit HMM boxship set to leave Hormuz",
-      "link": "https://theloadstar.com/projectile-hit-hmm-boxship-set-to-leave-hormuz/",
-      "published": "Thu, 02 Jul 2026 11:50:00 +0000",
-      "summary": "<p>HMM Namu, the box ship reportedly damaged in a projectile attack in the Strait of Hormuz, is expected to be cleared to leave the waterway this month, after repairs.<br />\nSouth Korea&#8217;s vice-minister of oceans and fisheries, Nam Jae-heon, said yesterday: &#8220;There&#8217;re still two South\u2026",
+      "title": "Why Hapag-Lloyd\u2019s Eurogate Hamburg stake matters & what\u2019s next",
+      "link": "https://theloadstar.com/why-hapag-lloyds-eurogate-hamburg-stake-matters-whats-next/",
+      "published": "Fri, 03 Jul 2026 11:42:52 +0000",
+      "summary": "<p>The news that German terminal operator Eurogate has agreed to sell 20% of its flagship Hamburg terminal CTH is significant on a variety of fronts, including paving the way for a possible future takeover of Eurogate by its new partner.<br />\nUnder the terms of deal disclosed this week, Hapag-Lloyd\u2026",
       "is_signal": false
     },
     {
@@ -954,21 +965,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Chinese exports continue to drive trade and support intra-Asia rates",
-      "link": "https://theloadstar.com/chinese-exports-continue-to-drive-trade-and-support-intra-asia-rates/",
-      "published": "Thu, 02 Jul 2026 11:31:53 +0000",
-      "summary": "<p>Intra-Asia rates continue to be held up by Chinese exports.<br />\nWhile a correction in Shanghai-South-east Asia rates was seen last week, other lanes, such as China-Taiwan, have seen a pick-up.<br />\nThe Shanghai Containerised Freight Index on 26 June showed the Shanghai-Singapore rate corrected\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Loadstar",
-      "category": "sector",
-      "title": "Maersk profit update sparks claims carriers are exploiting disruption",
-      "link": "https://theloadstar.com/maersk-profit-update-sparks-claims-carriers-are-exploiting-disruption/",
-      "published": "Thu, 02 Jul 2026 10:52:38 +0000",
-      "summary": "<p>Shippers have accused ocean carriers of exploiting the market disruption through &#8220;opaque surcharges&#8221; and reduced contract allocations, following Maersk\u2019s upgraded financial guidance for 2026.\u00a0<br />\nThe Danish carrier yesterday raised its full-year EBITDA guidance to $8bn-$10bn, up fr\u2026",
+      "title": "India\u2019s exporters to LatAm struggle with lack of space and rising rates",
+      "link": "https://theloadstar.com/indias-exporters-to-latam-struggle-with-lack-of-space-and-rising-rates/",
+      "published": "Fri, 03 Jul 2026 11:28:55 +0000",
+      "summary": "<p>Indian exporters and forwarders moving freight to Latin America are grappling with major supply chain disruption amid a sharp drop in ship space availability.<br />\nAccording to market sources, loading allocations for India have been drastically reduced in recent weeks, as carriers recalibrated t\u2026",
       "is_signal": true
     },
     {
@@ -1007,12 +1007,23 @@
     {
       "ticker": null,
       "company": null,
-      "source": "The Straits Times",
+      "source": "GlobeNewswire",
       "category": "broad",
-      "title": "Mapletree bets big on warehouses, logistics parks across Asia to boost growth",
-      "link": "https://www.straitstimes.com/business/companies-markets/mapletree-bets-big-on-warehouses-logistics-parks-across-asia-to-boost-growth",
-      "published": "2026-06-02T11:23:30Z",
-      "summary": "Discover how Mapletree is expanding its warehouse and logistics facilities across Asia to capitalise on rising e-commerce demand and shifting supply chains. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "title": "AI in Inventory Management Market Report 2026",
+      "link": "https://www.globenewswire.com/news-release/2026/07/02/3321190/28124/en/AI-in-Inventory-Management-Market-Report-2026.html",
+      "published": "2026-07-02T09:34:00Z",
+      "summary": "Key opportunities in AI inventory management include benefits from e-commerce growth, demand for warehouse automation, ERP adoption, and retail expansion. Key trends are AI forecasting, smart warehouses, automated replenishment, and fleet optimization. North \u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "GlobeNewswire",
+      "category": "broad",
+      "title": "Symbotic Announces Acquisition of ARMS Innovations, Advancing a New Era of Warehouse Operations Optimization",
+      "link": "https://www.globenewswire.com/news-release/2026/07/02/3321112/0/en/Symbotic-Announces-Acquisition-of-ARMS-Innovations-Advancing-a-New-Era-of-Warehouse-Operations-Optimization.html",
+      "published": "2026-07-02T07:00:00Z",
+      "summary": "Transaction expands Symbotic\u2019s solution from automation execution to full-scale, AI-powered operational intelligence across the entire warehouse ecosystem ...",
       "is_signal": true
     },
     {
@@ -1073,57 +1084,24 @@
     {
       "ticker": null,
       "company": null,
-      "source": "Ibtimes.com.au",
+      "source": "Econbrowser.com",
       "category": "broad",
-      "title": "Costco Shares Gain Ground as Warehouse Club Operator Reports Strong Sales Momentum and Membership Growth",
-      "link": "https://www.ibtimes.com.au/costco-sales-growth-renewal-rates-stock-surge-1871199",
-      "published": "2026-06-23T15:17:36Z",
-      "summary": "Costco's shares rose as the retailer reported strong sales growth and high membership renewal rates, driven by its value-focused business model and international expansion.",
+      "title": "Business Cycle Indicators \u2013 Key NBER and Alternatives",
+      "link": "https://econbrowser.com/archives/2026/07/business-cycle-indicators-key-nber-and-alternatives",
+      "published": "2026-07-02T22:23:30Z",
+      "summary": "NFP underwhelms and prior months revised downward, civilian employment and civilian employment adjusted to NFP concept moving downward. Figure 1:\u00a0NFP employment (bold blue), civilian employment with smoothed population controls (bold orange), industrial produ\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Exystence.net",
+      "category": "broad",
+      "title": "Kik\u00f9 Hibino & Merzbow \u2013 Rococo \u221e Echomatter (2026)",
+      "link": "https://exystence.net/blog/2026/07/03/kiku-hibino-merzbow-rococo-%e2%88%9e-echomatter-2026/",
+      "published": "2026-07-02T22:08:00Z",
+      "summary": "Chicago-based sound artist Kik\u00f9 Hibino collaborates with Japanese noise pioneer Merzbow (Masami Akita) on Rococo \u221e Echomatter, released by Superpang. Exchanging material between Chicago and Tokyo, the duo cuts spoken voice and instruments into dense noise fie\u2026",
       "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Yahoo Entertainment",
-      "category": "broad",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed in countdown to June jobs report",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-2-223136955.html",
-      "published": "2026-07-01T22:31:36Z",
-      "summary": "Techs retreated as Wall Street braced for the release of the jobs data, key to bets on rate hikes.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "DW (English)",
-      "category": "broad",
-      "title": "US declines to renew USMCA trade pact with Mexico, Canada",
-      "link": "https://www.dw.com/en/us-declines-to-renew-usmca-trade-pact-with-mexico-canada/a-77793686",
-      "published": "2026-07-01T22:13:00Z",
-      "summary": "Lengthy negotiations are expected as the Trump administration seeks changes to a trade deal with Mexico and Canada that has streamlined supply chains across North America.",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "CNBC",
-      "category": "broad",
-      "title": "Stock market today: Live updates",
-      "link": "https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html",
-      "published": "2026-07-01T22:04:15Z",
-      "summary": "The Dow Jones Industrial Average scaled to record highs on Thursday as investors reacted to a weaker-than-expected nonfarm payrolls report for June.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "IndieWire",
-      "category": "broad",
-      "title": "How the Australian Gothic Costumes of \u2018Leviticus\u2019 Deliver Yearning as Vast as the Outback",
-      "link": "https://www.indiewire.com/features/craft/leviticus-costume-design-australian-gothic-interview-1235203204/",
-      "published": "2026-07-01T22:00:00Z",
-      "summary": "Costume designer Zohie Castellano tells IndieWire about hiding monsters in plain sight for the Neon release now in theaters \u2014 and one of the best horror movies of the summer.",
-      "is_signal": false
     }
   ],
   "weekly_report": null,
