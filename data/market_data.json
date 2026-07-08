@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T22:31:19.826998+00:00",
+  "last_updated": "2026-07-08T22:34:32.792364+00:00",
   "market_date": "July 08, 2026",
   "stocks": {
     "PLD": {
@@ -389,50 +389,6 @@
       "is_signal": false
     },
     {
-      "ticker": "STAG",
-      "company": "STAG Industrial",
-      "source": "STAG",
-      "category": "reit",
-      "title": "The Best REITs to Buy",
-      "link": "https://www.kiplinger.com/investing/reits/best-reits-to-buy?.tsrc=rss",
-      "published": "Tue, 07 Jul 2026 13:54:41 +0000",
-      "summary": "Real estate investment trusts, or REITs, are a special class of stocks known for their high dividend yields. Here's how to find the best ones to buy.",
-      "is_signal": true
-    },
-    {
-      "ticker": "STAG",
-      "company": "STAG Industrial",
-      "source": "STAG",
-      "category": "reit",
-      "title": "Zacks Industry Outlook Highlights Pebblebrook Hotel, Hudson Pacific and STAG Industrial",
-      "link": "https://finance.yahoo.com/real-estate/articles/zacks-industry-outlook-highlights-pebblebrook-095000513.html?.tsrc=rss",
-      "published": "Tue, 07 Jul 2026 09:50:00 +0000",
-      "summary": "HPP, PEB and STAG are highlighted as REIT picks positioned to benefit from demand for AI-ready, industrial, lodging and modern office properties.",
-      "is_signal": true
-    },
-    {
-      "ticker": "STAG",
-      "company": "STAG Industrial",
-      "source": "STAG",
-      "category": "reit",
-      "title": "3 Equity REIT Stocks to Watch Amid Rising Demand Trends",
-      "link": "https://finance.yahoo.com/real-estate/articles/3-equity-reit-stocks-watch-141400184.html?.tsrc=rss",
-      "published": "Mon, 06 Jul 2026 14:14:00 +0000",
-      "summary": "PEB, HPP and STAG benefit as REIT demand rises for AI-ready infrastructure, industrial assets, lodging properties and modern offices.",
-      "is_signal": false
-    },
-    {
-      "ticker": "STAG",
-      "company": "STAG Industrial",
-      "source": "STAG",
-      "category": "reit",
-      "title": "The Dividend Portfolio That Pays More Than The Average Rent In America",
-      "link": "https://247wallst.com/personal-finance/2026/07/06/the-dividend-portfolio-that-pays-more-than-the-average-rent-in-america/?.tsrc=rss",
-      "published": "Mon, 06 Jul 2026 10:43:10 +0000",
-      "summary": "Average rent in the United States is roughly $2,000 a month in 2026, putting the annual tab near $24,000. Replace that bill with dividend income and the tenant becomes the owner of the income stream rather than the landlord\u2019s customer. The interesting question is how much capital it takes, and what \u2026",
-      "is_signal": true
-    },
-    {
       "ticker": "LXP",
       "company": "LXP Industrial Trust",
       "source": "LXP",
@@ -606,94 +562,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-declares-second-105500616.html?.tsrc=rss",
       "published": "Mon, 15 Jun 2026 10:55:00 +0000",
       "summary": "SAN DIEGO, June 15, 2026--Innovative Industrial Properties, Inc. (NYSE: IIPR) (\"IIP\" or the \"Company\") announced today that its board of directors has declared a second quarter 2026 dividend of $1.90 per share of common stock, representing an annualized dividend of $7.60 per common share. Since its \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "ILPT",
-      "company": "Industrial Logistics Properties Trust",
-      "source": "ILPT",
-      "category": "reit",
-      "title": "Industrial Logistics Properties Trust Second Quarter 2026 Conference Call Scheduled for Thursday, July 30th",
-      "link": "https://finance.yahoo.com/real-estate/articles/industrial-logistics-properties-trust-second-201500179.html?.tsrc=rss",
-      "published": "Wed, 01 Jul 2026 20:15:00 +0000",
-      "summary": "NEWTON, Mass., July 01, 2026--Industrial Logistics Properties Trust (Nasdaq: ILPT) today announced that it will issue a press release containing its second quarter 2026 financial results after the Nasdaq closes on Wednesday, July 29, 2026. On Thursday, July 30, 2026 at 10:00 a.m. Eastern Time, Presi\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "ILPT",
-      "company": "Industrial Logistics Properties Trust",
-      "source": "ILPT",
-      "category": "reit",
-      "title": "Best Value Stocks to Buy for July 1st",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-july-070200340.html?.tsrc=rss",
-      "published": "Wed, 01 Jul 2026 07:02:00 +0000",
-      "summary": "ILPT, CVE and DK made it to the Zacks Rank #1 (Strong Buy) value stocks list on July 1, 2026.",
-      "is_signal": false
-    },
-    {
-      "ticker": "ILPT",
-      "company": "Industrial Logistics Properties Trust",
-      "source": "ILPT",
-      "category": "reit",
-      "title": "Industrial Logistics Properties Trust (ILPT) Soars 5.7%: Is Further Upside Left in the Stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/industrial-logistics-properties-trust-ilpt-134200970.html?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 13:42:00 +0000",
-      "summary": "Industrial Logistics Properties Trust (ILPT) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term.",
-      "is_signal": true
-    },
-    {
-      "ticker": "ILPT",
-      "company": "Industrial Logistics Properties Trust",
-      "source": "ILPT",
-      "category": "reit",
-      "title": "Are Investors Undervaluing Industrial Logistics Properties Trust (ILPT) Right Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-undervaluing-industrial-logistics-properties-134007527.html?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 13:40:07 +0000",
-      "summary": "Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.",
-      "is_signal": true
-    },
-    {
-      "ticker": "MDV",
-      "company": "Modiv Industrial",
-      "source": "MDV",
-      "category": "reit",
-      "title": "Global Net Lease Closes $74 Million of Dispositions Since First Quarter 2026, Achieving a 7.2% Cash Cap Rate on Occupied Sales",
-      "link": "https://finance.yahoo.com/real-estate/articles/global-net-lease-closes-74-100000947.html?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 10:00:00 +0000",
-      "summary": "Sold $66 Million of Occupied Properties, Including $61 Million of Office Assets at a 7.2% Cash Cap Rate Office Assets Accounted for 93% of Occupied Sales Disposition Activity Reduces Office Exposure and Supports Continued Focus on Leverage ReductionPending Acquisition of Modiv Industrial Remains on \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "MDV",
-      "company": "Modiv Industrial",
-      "source": "MDV",
-      "category": "reit",
-      "title": "Modiv Industrial Declares Quarterly Dividends for Preferred Shareholders and Monthly Distributions for Common Shareholders",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/modiv-industrial-declares-quarterly-dividends-100000808.html?.tsrc=rss",
-      "published": "Thu, 11 Jun 2026 10:00:00 +0000",
-      "summary": "DENVER, June 11, 2026--Modiv Industrial, Inc. (\"Modiv Industrial,\" \"Modiv\" or the \"Company\") (NYSE:MDV), the only public REIT exclusively focused on acquiring industrial manufacturing real estate properties, announced the declaration of a regular quarterly cash dividend of $0.4609375 per share on th\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "MDV",
-      "company": "Modiv Industrial",
-      "source": "MDV",
-      "category": "reit",
-      "title": "Freedom Broker Downgrades Modiv Industrial (MDV) After GNL Merger Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/freedom-broker-downgrades-modiv-industrial-054505659.html?.tsrc=rss",
-      "published": "Thu, 14 May 2026 05:45:05 +0000",
-      "summary": "Modiv Industrial, Inc. (NYSE:MDV) is included among the 12 Best Micro-Cap Dividend Stocks to Buy Now. On May 4, Freedom Broker downgraded Modiv Industrial, Inc. (NYSE:MDV) to Hold from Buy and raised its price target to $19 from $18 after the company announced an all-stock merger agreement with Glob\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "MDV",
-      "company": "Modiv Industrial",
-      "source": "MDV",
-      "category": "reit",
-      "title": "Global Net Lease Q1 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/global-net-lease-q1-earnings-call-highlights-2026-05-10/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "published": "Sun, 10 May 2026 15:11:39 +0000",
-      "summary": "Global Net Lease (NYSE:GNL) reported first-quarter 2026 results and outlined a strategic shift toward growth through industrial acquisitions and office dispositions, highlighted by its planned all-stock acquisition of Modiv Industrial. Chief Executive Officer Michael Weil said the Modiv transaction",
       "is_signal": true
     },
     {
