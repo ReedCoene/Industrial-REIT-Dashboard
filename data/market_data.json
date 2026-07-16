@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T22:27:44.001200+00:00",
+  "last_updated": "2026-07-16T22:30:55.388725+00:00",
   "market_date": "July 16, 2026",
   "stocks": {
     "PLD": {
@@ -57,7 +57,7 @@
       "prev_close": 39.92,
       "pct_change": 5.31,
       "market_cap": 8206393856,
-      "dividend_yield": 3.88,
+      "dividend_yield": 0,
       "fifty_two_week_high": 42.09,
       "fifty_two_week_low": 33.72,
       "next_earnings": "2026-07-28"
@@ -81,7 +81,7 @@
       "prev_close": 15.78,
       "pct_change": 0.82,
       "market_cap": 4560957440,
-      "dividend_yield": 5.83,
+      "dividend_yield": 0,
       "fifty_two_week_high": 17.12,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-08-06"
@@ -167,7 +167,7 @@
       "prev_close": 39.92,
       "pct_change": 5.31,
       "market_cap": 8206393856,
-      "dividend_yield": 3.88,
+      "dividend_yield": 0,
       "fifty_two_week_high": 42.09,
       "fifty_two_week_low": 33.72,
       "next_earnings": "2026-07-28"
@@ -205,7 +205,7 @@
       "prev_close": 15.78,
       "pct_change": 0.82,
       "market_cap": 4560957440,
-      "dividend_yield": 5.83,
+      "dividend_yield": 0,
       "fifty_two_week_high": 17.12,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-08-06"
