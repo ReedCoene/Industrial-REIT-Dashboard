@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T22:12:48.626662+00:00",
+  "last_updated": "2026-07-17T22:25:01.661120+00:00",
   "market_date": "July 17, 2026",
   "stocks": {
     "PLD": {
@@ -1112,17 +1112,6 @@
       "link": "https://biztoc.com/x/8b8879041522b174",
       "published": "2026-07-16T21:50:37Z",
       "summary": "The Nasdaq Composite (NASDAQINDEX:^IXIC) fell 1.47% to 25,882, the S&P 500 (SNPINDEX:^GSPC) slipped 0.51% to 7,534, and the Dow Jones Industrial Average (DJINDICES:^DJI) edged 0.20% lower to 52,553 as global technology stocks extended yesterday's sell-off.\nGo\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Synthtopia.com",
-      "category": "broad",
-      "title": "Free Audio Effect, COGG, Makes Every Sound Industrial",
-      "link": "https://www.synthtopia.com/content/2026/07/16/free-audio-effect-cogg-makes-every-sound-industrial/",
-      "published": "2026-07-16T21:40:39Z",
-      "summary": "COGG is available as a free download for Mac & Windows. Just \"download and destroy\"!\u2026 Read More Free Audio Effect, COGG, Makes Every Sound Industrial",
       "is_signal": false
     }
   ],
