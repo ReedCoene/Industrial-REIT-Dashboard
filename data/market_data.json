@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T22:32:18.078872+00:00",
+  "last_updated": "2026-07-22T22:35:03.420813+00:00",
   "market_date": "July 22, 2026",
   "stocks": {
     "PLD": {
@@ -261,6 +261,17 @@
       "company": "EastGroup Properties",
       "source": "EGP",
       "category": "reit",
+      "title": "EastGroup Properties (EGP) Q2 FFO and Revenues Lag Estimates",
+      "link": "https://finance.yahoo.com/real-estate/articles/eastgroup-properties-egp-q2-ffo-211503573.html?.tsrc=rss",
+      "published": "Wed, 22 Jul 2026 21:15:03 +0000",
+      "summary": "EastGroup Properties (EGP) delivered FFO and revenue surprises of -0.42% and -0.26%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "is_signal": true
+    },
+    {
+      "ticker": "EGP",
+      "company": "EastGroup Properties",
+      "source": "EGP",
+      "category": "reit",
       "title": "EastGroup Properties Announces Second Quarter 2026 Results",
       "link": "https://finance.yahoo.com/real-estate/articles/eastgroup-properties-announces-second-quarter-200500649.html?.tsrc=rss",
       "published": "Wed, 22 Jul 2026 20:05:00 +0000",
@@ -288,17 +299,6 @@
       "published": "Mon, 22 Jun 2026 15:40:04 +0000",
       "summary": "CUZ vs. EGP: Which Stock Is the Better Value Option?",
       "is_signal": false
-    },
-    {
-      "ticker": "EGP",
-      "company": "EastGroup Properties",
-      "source": "EGP",
-      "category": "reit",
-      "title": "Is Prologis Stock a Buy After the Fed's Hawkish Rate Stance Now?",
-      "link": "https://finance.yahoo.com/real-estate/articles/prologis-stock-buy-feds-hawkish-150700455.html?.tsrc=rss",
-      "published": "Thu, 18 Jun 2026 15:07:00 +0000",
-      "summary": "Prologis looks compelling despite the Fed's hawkish tone, backed by record leasing, rent growth, balance sheet strength and data center opportunities.",
-      "is_signal": true
     },
     {
       "ticker": "FR",
