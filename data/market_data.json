@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T22:34:47.740307+00:00",
+  "last_updated": "2026-08-04T22:37:47.029145+00:00",
   "market_date": "August 04, 2026",
   "stocks": {
     "PLD": {
@@ -404,17 +404,6 @@
       "company": "STAG Industrial",
       "source": "STAG",
       "category": "reit",
-      "title": "Does STAG Industrial (STAG) Pairing Dividend Support With New Deals Reveal Its Real Capital Priorities?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-stag-industrial-stag-pairing-070855528.html?.tsrc=rss",
-      "published": "Thu, 30 Jul 2026 07:08:55 +0000",
-      "summary": "STAG Industrial, Inc. reported its second-quarter 2026 results, with revenue rising to US$224.37 million and net income to US$52.92 million, and its board authorized a third-quarter cash dividend of US$0.3875 per share payable on October 15, 2026. Alongside the earnings release, STAG expanded its in\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "STAG",
-      "company": "STAG Industrial",
-      "source": "STAG",
-      "category": "reit",
       "title": "Stag Industrial Inc (STAG) Q2 2026 Earnings Call Highlights: Strong Leasing Spreads and Robust ...",
       "link": "https://finance.yahoo.com/markets/stocks/articles/stag-industrial-inc-stag-q2-210445410.html?.tsrc=rss",
       "published": "Wed, 29 Jul 2026 21:04:45 +0000",
@@ -430,6 +419,17 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/stag-industrial-stag-q2-results-200924907.html?.tsrc=rss",
       "published": "Wed, 29 Jul 2026 20:09:24 +0000",
       "summary": "STAG Industrial (STAG) drew fresh attention after reporting second quarter 2026 results, with quarterly revenue and net income above the prior year period, along with a new dividend declaration and updates on acquisitions and refinancing. See our latest analysis for STAG Industrial. At a share price\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "STAG",
+      "company": "STAG Industrial",
+      "source": "STAG",
+      "category": "reit",
+      "title": "Stag Industrial (STAG) Q2 FFO Meet Estimates",
+      "link": "https://finance.yahoo.com/real-estate/articles/stag-industrial-stag-q2-ffo-220011504.html?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 22:00:11 +0000",
+      "summary": "Stag (STAG) delivered FFO and revenue surprises of 0.00% and -0.08%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
       "is_signal": true
     },
     {
@@ -481,28 +481,6 @@
       "company": "Americold Realty Trust",
       "source": "COLD",
       "category": "reit",
-      "title": "Alexandria Real Estate Equities (ARE) Q2 FFO and Revenues Top Estimates",
-      "link": "https://finance.yahoo.com/real-estate/articles/alexandria-real-estate-equities-q2-214502012.html?.tsrc=rss",
-      "published": "Mon, 03 Aug 2026 21:45:02 +0000",
-      "summary": "Alexandria Real Estate Equities (ARE) delivered FFO and revenue surprises of +4.85% and +2.12%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "is_signal": true
-    },
-    {
-      "ticker": "COLD",
-      "company": "Americold Realty Trust",
-      "source": "COLD",
-      "category": "reit",
-      "title": "Americold and Feed the Children Celebrate 10 Years of Helping Families Access Food and Essential Resources",
-      "link": "https://finance.yahoo.com/small-business/articles/americold-feed-children-celebrate-10-110000358.html?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 11:00:00 +0000",
-      "summary": "Partnership has provided more than 2.1 million pounds of food and essentials to support children and families across the United States A Media Snippet accompanying this announcement is available by clicking on this link. ATLANTA, July 27, 2026 (GLOBE NEWSWIRE) -- Americold, a global leader in temper\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": "COLD",
-      "company": "Americold Realty Trust",
-      "source": "COLD",
-      "category": "reit",
       "title": "Americold Realty Trust, Inc. Sets Date for Second Quarter 2026 Earnings Release and Conference Call",
       "link": "https://finance.yahoo.com/real-estate/articles/americold-realty-trust-inc-sets-110000484.html?.tsrc=rss",
       "published": "Wed, 08 Jul 2026 11:00:00 +0000",
@@ -519,6 +497,28 @@
       "published": "Tue, 23 Jun 2026 20:37:30 +0000",
       "summary": "U.S.-based Americold plants a flag in Canada as part of a rail-maritime cold chain integration with CPKC and DP World. The post Rail, ocean access backs new Americold cold chain facility at eastern Canada port appeared first on FreightWaves.",
       "is_signal": false
+    },
+    {
+      "ticker": "COLD",
+      "company": "Americold Realty Trust",
+      "source": "COLD",
+      "category": "reit",
+      "title": "Americold opens new cold storage facility at Saint John, New Brunswick",
+      "link": "https://www.trains.com/pro/freight/americold-opens-new-cold-storage-facility-at-saint-john-new-brunswick/?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 10:00:29 +0000",
+      "summary": "SAINT JOHN, New Brunswick \u2014 Americold, the global operator of temperature-controlled warehouses, has opened a new facility at Port Saint John, the latest in its collaboration with CPKC to locate facilities along the railroad\u2019s network. The new facility opened Thursday, June 18, as part of Port Days \u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "COLD",
+      "company": "Americold Realty Trust",
+      "source": "COLD",
+      "category": "reit",
+      "title": "DP World, Americold Unveil New Cold Storage Facility at Port Saint John",
+      "link": "https://finance.yahoo.com/economy/articles/dp-world-americold-unveil-cold-130000161.html?.tsrc=rss",
+      "published": "Thu, 18 Jun 2026 13:00:00 +0000",
+      "summary": "New facility integrates cold chain, port and rail capabilities, strengthening Eastern Canada\u2019s role in global food logistics Americold Cold Storage Facility at Port Saint John Americold\u2019s new temperature-controlled logistics facility at Port Saint John, adjacent to DP World\u2019s terminal and connected \u2026",
+      "is_signal": true
     },
     {
       "ticker": "TRNO",
