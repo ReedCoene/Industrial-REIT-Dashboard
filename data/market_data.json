@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T01:03:13.680764+00:00",
+  "last_updated": "2026-08-07T01:04:26.499357+00:00",
   "market_date": "August 07, 2026",
   "stocks": {
     "PLD": {
@@ -360,17 +360,6 @@
       "company": "Rexford Industrial",
       "source": "REXR",
       "category": "reit",
-      "title": "Rexford Industrial Realty Inc (REXR) Q2 2026 Earnings Call Highlights: Strong Leasing Volume ...",
-      "link": "https://finance.yahoo.com/real-estate/articles/rexford-industrial-realty-inc-rexr-230027519.html?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 23:00:27 +0000",
-      "summary": "Rexford Industrial Realty Inc (REXR) reports a 50% increase in leasing volume and unveils a $1 billion share repurchase program amid strategic asset dispositions.",
-      "is_signal": true
-    },
-    {
-      "ticker": "REXR",
-      "company": "Rexford Industrial",
-      "source": "REXR",
-      "category": "reit",
       "title": "How Rexford\u2019s Portfolio Reset and US$1 Billion Buyback Will Impact Rexford Industrial Realty (REXR) Investors",
       "link": "https://finance.yahoo.com/real-estate/articles/rexford-portfolio-reset-us-1-200844085.html?.tsrc=rss",
       "published": "Fri, 24 Jul 2026 20:08:44 +0000",
@@ -382,10 +371,21 @@
       "company": "Rexford Industrial",
       "source": "REXR",
       "category": "reit",
-      "title": "Rexford Industrial Realty Q2 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/rexford-industrial-realty-q2-earnings-call-highlights-2026-07-24/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 17:03:50 +0000",
-      "summary": "Rexford Industrial Realty (NYSE:REXR) said it is pursuing a broad portfolio realignment, planning to sell approximately $2 billion of non-core industrial assets while using a substantial portion of the proceeds to reduce debt, repurchase shares and selectively fund higher-return investments. Chief",
+      "title": "Strength Seen in Rexford Industrial (REXR): Can Its 7.1% Jump Turn into More Strength?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-rexford-industrial-rexr-150200687.html?.tsrc=rss",
+      "published": "Fri, 17 Jul 2026 15:02:00 +0000",
+      "summary": "Rexford Industrial (REXR) witnessed a jump in share price last session on above-average trading volume. The latest trend in FFO estimate revisions for the stock doesn't suggest further strength down the road.",
+      "is_signal": true
+    },
+    {
+      "ticker": "REXR",
+      "company": "Rexford Industrial",
+      "source": "REXR",
+      "category": "reit",
+      "title": "Scotiabank Upgrades Rexford Industrial Realty (REXR), Trims Price Target",
+      "link": "https://finance.yahoo.com/real-estate/articles/scotiabank-upgrades-rexford-industrial-realty-002301545.html?.tsrc=rss",
+      "published": "Wed, 15 Jul 2026 00:23:01 +0000",
+      "summary": "Rexford Industrial Realty, Inc. (NYSE:REXR) is one of the top beaten-down REITs ready for a rotation rally. On June 18, Scotiabank analyst Greg McGinniss upgraded Rexford Industrial Realty, Inc. (NYSE:REXR) to Outperform from Sector Perform, while trimming the price target to $36 from $38. On why he\u2026",
       "is_signal": true
     },
     {
@@ -657,43 +657,43 @@
       "company": "Modiv Industrial",
       "source": "MDV",
       "category": "reit",
-      "title": "Global Net Lease Reports Second Quarter 2026 Results",
-      "link": "https://finance.yahoo.com/real-estate/articles/global-net-lease-reports-second-201500134.html?.tsrc=rss",
-      "published": "Wed, 05 Aug 2026 20:15:00 +0000",
-      "summary": "\u2013 Reports Q2\u201926 AFFO Per Share of $0.22; Raises Full-Year AFFO Per Share Guidance to $0.82 \u2013 $0.85 and Increases Gross Transaction Volume to $700 Million \u2013 $800 Million\u2013 Closed Plus Disposition Pipeline Totals $263 Million, with Office Sales Representing 78%, Further Advancing Strategic Reduction in\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "MDV",
-      "company": "Modiv Industrial",
-      "source": "MDV",
-      "category": "reit",
-      "title": "Modiv Industrial Inc's Dividend Analysis",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/modiv-industrial-incs-dividend-analysis-112442037.html?.tsrc=rss",
-      "published": "Mon, 03 Aug 2026 11:24:42 +0000",
-      "summary": "Modiv Industrial Inc (NYSE:MDV) recently announced a total dividend of $0.1 per share, with the ex-dividend date set for 2026-08-03.  This upcoming payment includes a cash dividend of $0.1 per share, payable on 2026-08-10.  As investors look forward to this upcoming payment, the spotlight also shine\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "MDV",
-      "company": "Modiv Industrial",
-      "source": "MDV",
-      "category": "reit",
-      "title": "Global Net Lease Closes $74 Million of Dispositions Since First Quarter 2026, Achieving a 7.2% Cash Cap Rate on Occupied Sales",
-      "link": "https://finance.yahoo.com/real-estate/articles/global-net-lease-closes-74-100000947.html?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 10:00:00 +0000",
-      "summary": "Sold $66 Million of Occupied Properties, Including $61 Million of Office Assets at a 7.2% Cash Cap Rate Office Assets Accounted for 93% of Occupied Sales Disposition Activity Reduces Office Exposure and Supports Continued Focus on Leverage ReductionPending Acquisition of Modiv Industrial Remains on \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "MDV",
-      "company": "Modiv Industrial",
-      "source": "MDV",
-      "category": "reit",
       "title": "Freedom Broker Downgrades Modiv Industrial (MDV) After GNL Merger Deal",
       "link": "https://finance.yahoo.com/markets/stocks/articles/freedom-broker-downgrades-modiv-industrial-054505659.html?.tsrc=rss",
       "published": "Thu, 14 May 2026 05:45:05 +0000",
       "summary": "Modiv Industrial, Inc. (NYSE:MDV) is included among the 12 Best Micro-Cap Dividend Stocks to Buy Now. On May 4, Freedom Broker downgraded Modiv Industrial, Inc. (NYSE:MDV) to Hold from Buy and raised its price target to $19 from $18 after the company announced an all-stock merger agreement with Glob\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "MDV",
+      "company": "Modiv Industrial",
+      "source": "MDV",
+      "category": "reit",
+      "title": "Global Net Lease Buys Modiv In $535 Million All-Stock Deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/global-net-lease-buys-modiv-175830032.html?.tsrc=rss",
+      "published": "Mon, 04 May 2026 17:58:30 +0000",
+      "summary": "Modiv shareholders will receive a 17% premium, with the deal expected to close in the third quarter of 2026.",
+      "is_signal": true
+    },
+    {
+      "ticker": "MDV",
+      "company": "Modiv Industrial",
+      "source": "MDV",
+      "category": "reit",
+      "title": "Global Net Lease Lands Modiv In $535 Million Buyout, Bets Big On Industrial Boom",
+      "link": "https://www.benzinga.com/news/26/05/52248363/global-net-lease-lands-modiv-in-535-million-buyout-bets-big-on-industrial-boom?utm_source=aol&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "published": "Mon, 04 May 2026 15:46:08 +0000",
+      "summary": "Global Net Lease, Inc. shares fell while Modiv Industrial, Inc. surged in premarket trading Monday after the companies announced a $535 million all-stock merger aimed at expanding GNL's industrial real estate portfolio. Global Net Lease dropped 4.30% to $9.11, while Modiv climbed 7.58% to $17.30. Ac\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "MDV",
+      "company": "Modiv Industrial",
+      "source": "MDV",
+      "category": "reit",
+      "title": "Global Net Lease Reports Second Quarter 2026 Results",
+      "link": "https://finance.yahoo.com/real-estate/articles/global-net-lease-reports-second-201500134.html?.tsrc=rss",
+      "published": "Wed, 05 Aug 2026 20:15:00 +0000",
+      "summary": "\u2013 Reports Q2\u201926 AFFO Per Share of $0.22; Raises Full-Year AFFO Per Share Guidance to $0.82 \u2013 $0.85 and Increases Gross Transaction Volume to $700 Million \u2013 $800 Million\u2013 Closed Plus Disposition Pipeline Totals $263 Million, with Office Sales Representing 78%, Further Advancing Strategic Reduction in\u2026",
       "is_signal": true
     },
     {
