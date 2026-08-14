@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T21:48:40.374909+00:00",
+  "last_updated": "2026-08-14T21:51:39.473624+00:00",
   "market_date": "August 14, 2026",
   "stocks": {
     "PLD": {
@@ -32,7 +32,7 @@
       "price": 62.87,
       "prev_close": 63.33,
       "pct_change": -0.73,
-      "market_cap": 8614223872,
+      "market_cap": 8614382592,
       "dividend_yield": 2.98,
       "fifty_two_week_high": 69.88,
       "fifty_two_week_low": 48.38,
@@ -44,7 +44,7 @@
       "price": 36.23,
       "prev_close": 36.42,
       "pct_change": -0.52,
-      "market_cap": 8283460096,
+      "market_cap": 8283426304,
       "dividend_yield": 4.78,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 32.14,
@@ -56,8 +56,8 @@
       "price": 36.75,
       "prev_close": 36.95,
       "pct_change": -0.54,
-      "market_cap": 7232496640,
-      "dividend_yield": 4.2,
+      "market_cap": 7232681984,
+      "dividend_yield": 4.19,
       "fifty_two_week_high": 42.61,
       "fifty_two_week_low": 34.33,
       "next_earnings": "2026-10-28"
@@ -81,7 +81,7 @@
       "prev_close": 15.12,
       "pct_change": -1.59,
       "market_cap": 4268281600,
-      "dividend_yield": 6.3,
+      "dividend_yield": 6.08,
       "fifty_two_week_high": 16.88,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-11-05"
@@ -105,7 +105,7 @@
       "prev_close": 57.53,
       "pct_change": -2.68,
       "market_cap": 1623450368,
-      "dividend_yield": 13.17,
+      "dividend_yield": 13.21,
       "fifty_two_week_high": 65.38,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-11-02"
@@ -181,7 +181,7 @@
       "prev_close": 15.12,
       "pct_change": -1.59,
       "market_cap": 4268281600,
-      "dividend_yield": 6.3,
+      "dividend_yield": 6.08,
       "fifty_two_week_high": 16.88,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-11-05"
@@ -205,24 +205,13 @@
       "prev_close": 57.53,
       "pct_change": -2.68,
       "market_cap": 1623450368,
-      "dividend_yield": 13.17,
+      "dividend_yield": 13.21,
       "fifty_two_week_high": 65.38,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-11-02"
     }
   ],
   "news": [
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-152200914.html?.tsrc=rss",
-      "published": "Fri, 14 Aug 2026 15:22:00 +0000",
-      "summary": "LONDON, August 14, 2026-- FORM 8.3",
-      "is_signal": false
-    },
     {
       "ticker": "PLD",
       "company": "Prologis",
@@ -243,6 +232,17 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/prologis-pld-stock-outpacing-finance-134003158.html?.tsrc=rss",
       "published": "Thu, 13 Aug 2026 13:40:03 +0000",
       "summary": "Here is how Prologis (PLD) and ACNB (ACNB) have performed compared to their sector so far this year.",
+      "is_signal": false
+    },
+    {
+      "ticker": "PLD",
+      "company": "Prologis",
+      "source": "PLD",
+      "category": "reit",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-122600088.html?.tsrc=rss",
+      "published": "Fri, 14 Aug 2026 12:26:00 +0000",
+      "summary": "LONDON, August 14, 2026-- FORM 8.3",
       "is_signal": false
     },
     {
@@ -569,44 +569,44 @@
       "company": "Innovative Industrial Properties",
       "source": "IIPR",
       "category": "reit",
+      "title": "Is Innovative Industrial Properties (IIPR) Undervalued After Higher Net Income And Its 5% Buyback?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-iipr-undervalued-021558806.html?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 02:15:58 +0000",
+      "summary": "Why Innovative Industrial Properties Stock Is In Focus Now Innovative Industrial Properties (IIPR) has drawn fresh attention after reporting second quarter 2026 earnings with higher net income on largely steady revenue, along with completing a share repurchase of just over 5% of its stock. See our l\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "IIPR",
+      "company": "Innovative Industrial Properties",
+      "source": "IIPR",
+      "category": "reit",
+      "title": "Innovative Industrial Properties Q2 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/innovative-industrial-properties-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Wed, 05 Aug 2026 07:04:21 +0000",
+      "summary": "Innovative Industrial Properties (NYSE:IIPR) reported second-quarter revenue of $63.3 million and adjusted funds from operations of $53 million, or $1.83 per diluted share, as the cannabis-focused real estate investment trust advanced leasing efforts, completed a major life sciences investment commi",
+      "is_signal": true
+    },
+    {
+      "ticker": "IIPR",
+      "company": "Innovative Industrial Properties",
+      "source": "IIPR",
+      "category": "reit",
+      "title": "Innovative Industrial Properties Inc (IIPR) (Q2 2026) Earnings Call Highlights: Strategic ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-inc-iipr-230230180.html?.tsrc=rss",
+      "published": "Tue, 04 Aug 2026 23:02:30 +0000",
+      "summary": "IIPR navigates tenant defaults while advancing life sciences expansion and capital recycling initiatives.",
+      "is_signal": true
+    },
+    {
+      "ticker": "IIPR",
+      "company": "Innovative Industrial Properties",
+      "source": "IIPR",
+      "category": "reit",
       "title": "Innovative Industrial Properties (IIPR) Q2 FFO Surpass Estimates",
       "link": "https://finance.yahoo.com/real-estate/articles/innovative-industrial-properties-iipr-q2-224507398.html?.tsrc=rss",
       "published": "Mon, 03 Aug 2026 22:45:07 +0000",
       "summary": "Innovative Industrial Properties (IIPR) delivered FFO and revenue surprises of +2.81% and -4.75%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
       "is_signal": true
-    },
-    {
-      "ticker": "IIPR",
-      "company": "Innovative Industrial Properties",
-      "source": "IIPR",
-      "category": "reit",
-      "title": "Innovative Industrial Properties (IIPR) Stock Dips While Market Gains: Key Facts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-iipr-stock-221503496.html?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 22:15:03 +0000",
-      "summary": "In the latest trading session, Innovative Industrial Properties (IIPR) closed at $60.57, marking a -1.38% move from the previous day.",
-      "is_signal": false
-    },
-    {
-      "ticker": "IIPR",
-      "company": "Innovative Industrial Properties",
-      "source": "IIPR",
-      "category": "reit",
-      "title": "Innovative Industrial Properties Announces Second Quarter 2026 Earnings Release Date and Conference Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-announces-second-105500290.html?.tsrc=rss",
-      "published": "Mon, 20 Jul 2026 10:55:00 +0000",
-      "summary": "SAN DIEGO, July 20, 2026--Innovative Industrial Properties, Inc. (IIP) (NYSE: IIPR) announced today it will report its second quarter 2026 results after the close of trading on the New York Stock Exchange on Monday, August 3, 2026.",
-      "is_signal": true
-    },
-    {
-      "ticker": "IIPR",
-      "company": "Innovative Industrial Properties",
-      "source": "IIPR",
-      "category": "reit",
-      "title": "Innovative Industrial Properties (IIPR) Increases Despite Market Slip: Here's What You Need to Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-iipr-increases-221501237.html?.tsrc=rss",
-      "published": "Fri, 26 Jun 2026 22:15:01 +0000",
-      "summary": "Innovative Industrial Properties (IIPR) reached $62.93 at the closing of the latest trading day, reflecting a +2.89% change compared to its last close.",
-      "is_signal": false
     },
     {
       "ticker": "ILPT",
@@ -657,6 +657,17 @@
       "company": "Modiv Industrial",
       "source": "MDV",
       "category": "reit",
+      "title": "Global Net Lease (GNL) Stock Looks Reasonable On Sales While Cash Flow Stays Strong",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/global-net-lease-gnl-stock-190949454.html?.tsrc=rss",
+      "published": "Fri, 14 Aug 2026 19:09:49 +0000",
+      "summary": "Global Net Lease stock has delivered a 30.2% return over the past year, and both the market multiples and a Discounted Cash Flow (DCF) intrinsic value estimate currently point to the shares trading below their assessed value. For investors, the issue is whether that apparent discount still offers a \u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "MDV",
+      "company": "Modiv Industrial",
+      "source": "MDV",
+      "category": "reit",
       "title": "Global Net Lease Completes Acquisition of Modiv Industrial",
       "link": "https://finance.yahoo.com/real-estate/articles/global-net-lease-completes-acquisition-100000993.html?.tsrc=rss",
       "published": "Thu, 13 Aug 2026 10:00:00 +0000",
@@ -683,17 +694,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/modiv-industrial-stockholders-approve-merger-225200279.html?.tsrc=rss",
       "published": "Mon, 10 Aug 2026 22:52:00 +0000",
       "summary": "DENVER, August 10, 2026--Modiv Industrial, Inc. (\"Modiv Industrial,\" \"Modiv\" or the \"Company\") (NYSE:MDV) announced today that Modiv's common stockholders have approved the previously announced acquisition of Modiv Industrial by Global Net Lease, Inc. (NYSE:GNL) (the \"Transaction\") at the special me\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "MDV",
-      "company": "Modiv Industrial",
-      "source": "MDV",
-      "category": "reit",
-      "title": "Modiv Industrial Declares Quarterly Dividends for Preferred Shareholders and Monthly Distributions for Common Shareholders",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/modiv-industrial-declares-quarterly-dividends-100000808.html?.tsrc=rss",
-      "published": "Thu, 11 Jun 2026 10:00:00 +0000",
-      "summary": "DENVER, June 11, 2026--Modiv Industrial, Inc. (\"Modiv Industrial,\" \"Modiv\" or the \"Company\") (NYSE:MDV), the only public REIT exclusively focused on acquiring industrial manufacturing real estate properties, announced the declaration of a regular quarterly cash dividend of $0.4609375 per share on th\u2026",
       "is_signal": true
     },
     {
