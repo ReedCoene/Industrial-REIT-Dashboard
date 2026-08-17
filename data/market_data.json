@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T21:48:46.560261+00:00",
+  "last_updated": "2026-08-17T21:52:36.914702+00:00",
   "market_date": "August 17, 2026",
   "stocks": {
     "PLD": {
@@ -32,7 +32,7 @@
       "price": 62.9,
       "prev_close": 62.87,
       "pct_change": 0.05,
-      "market_cap": 8618493952,
+      "market_cap": 8618335232,
       "dividend_yield": 3.18,
       "fifty_two_week_high": 69.88,
       "fifty_two_week_low": 48.42,
@@ -44,7 +44,7 @@
       "price": 35.86,
       "prev_close": 36.23,
       "pct_change": -1.02,
-      "market_cap": 8198832128,
+      "market_cap": 8198865408,
       "dividend_yield": 4.8,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 32.14,
@@ -56,7 +56,7 @@
       "price": 36.8,
       "prev_close": 36.75,
       "pct_change": 0.14,
-      "market_cap": 7242522624,
+      "market_cap": 7242336256,
       "dividend_yield": 4.22,
       "fifty_two_week_high": 42.61,
       "fifty_two_week_low": 34.33,
@@ -81,7 +81,7 @@
       "prev_close": 14.88,
       "pct_change": -2.55,
       "market_cap": 4159279872,
-      "dividend_yield": 6.08,
+      "dividend_yield": 6.18,
       "fifty_two_week_high": 16.88,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-11-05"
@@ -105,7 +105,7 @@
       "prev_close": 55.99,
       "pct_change": -0.34,
       "market_cap": 1617941120,
-      "dividend_yield": 13.21,
+      "dividend_yield": 13.57,
       "fifty_two_week_high": 65.38,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-11-02"
@@ -166,7 +166,7 @@
       "price": 36.8,
       "prev_close": 36.75,
       "pct_change": 0.14,
-      "market_cap": 7242522624,
+      "market_cap": 7242336256,
       "dividend_yield": 4.22,
       "fifty_two_week_high": 42.61,
       "fifty_two_week_low": 34.33,
@@ -180,7 +180,7 @@
       "price": 35.86,
       "prev_close": 36.23,
       "pct_change": -1.02,
-      "market_cap": 8198832128,
+      "market_cap": 8198865408,
       "dividend_yield": 4.8,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 32.14,
@@ -193,7 +193,7 @@
       "prev_close": 14.88,
       "pct_change": -2.55,
       "market_cap": 4159279872,
-      "dividend_yield": 6.08,
+      "dividend_yield": 6.18,
       "fifty_two_week_high": 16.88,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-11-05"
@@ -217,17 +217,6 @@
       "company": "Prologis",
       "source": "PLD",
       "category": "reit",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-142500528.html?.tsrc=rss",
-      "published": "Mon, 17 Aug 2026 14:25:00 +0000",
-      "summary": "LONDON, August 17, 2026-- FORM 8.3",
-      "is_signal": false
-    },
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
       "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
       "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-095600504.html?.tsrc=rss",
       "published": "Mon, 17 Aug 2026 09:56:00 +0000",
@@ -243,6 +232,17 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/prologis-pld-stock-outpacing-finance-134003158.html?.tsrc=rss",
       "published": "Thu, 13 Aug 2026 13:40:03 +0000",
       "summary": "Here is how Prologis (PLD) and ACNB (ACNB) have performed compared to their sector so far this year.",
+      "is_signal": false
+    },
+    {
+      "ticker": "PLD",
+      "company": "Prologis",
+      "source": "PLD",
+      "category": "reit",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-122600088.html?.tsrc=rss",
+      "published": "Fri, 14 Aug 2026 12:26:00 +0000",
+      "summary": "LONDON, August 14, 2026-- FORM 8.3",
       "is_signal": false
     },
     {
@@ -360,17 +360,6 @@
       "company": "Rexford Industrial",
       "source": "REXR",
       "category": "reit",
-      "title": "Rexford Industrial Realty Inc (REXR) Q2 2026 Earnings Call Highlights: Strong Leasing Volume ...",
-      "link": "https://finance.yahoo.com/real-estate/articles/rexford-industrial-realty-inc-rexr-230027519.html?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 23:00:27 +0000",
-      "summary": "Rexford Industrial Realty Inc (REXR) reports a 50% increase in leasing volume and unveils a $1 billion share repurchase program amid strategic asset dispositions.",
-      "is_signal": true
-    },
-    {
-      "ticker": "REXR",
-      "company": "Rexford Industrial",
-      "source": "REXR",
-      "category": "reit",
       "title": "How Rexford\u2019s Portfolio Reset and US$1 Billion Buyback Will Impact Rexford Industrial Realty (REXR) Investors",
       "link": "https://finance.yahoo.com/real-estate/articles/rexford-portfolio-reset-us-1-200844085.html?.tsrc=rss",
       "published": "Fri, 24 Jul 2026 20:08:44 +0000",
@@ -382,10 +371,21 @@
       "company": "Rexford Industrial",
       "source": "REXR",
       "category": "reit",
-      "title": "Rexford Industrial Realty Q2 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/rexford-industrial-realty-q2-earnings-call-highlights-2026-07-24/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 17:03:50 +0000",
-      "summary": "Rexford Industrial Realty (NYSE:REXR) said it is pursuing a broad portfolio realignment, planning to sell approximately $2 billion of non-core industrial assets while using a substantial portion of the proceeds to reduce debt, repurchase shares and selectively fund higher-return investments. Chief",
+      "title": "Strength Seen in Rexford Industrial (REXR): Can Its 7.1% Jump Turn into More Strength?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-rexford-industrial-rexr-150200687.html?.tsrc=rss",
+      "published": "Fri, 17 Jul 2026 15:02:00 +0000",
+      "summary": "Rexford Industrial (REXR) witnessed a jump in share price last session on above-average trading volume. The latest trend in FFO estimate revisions for the stock doesn't suggest further strength down the road.",
+      "is_signal": true
+    },
+    {
+      "ticker": "REXR",
+      "company": "Rexford Industrial",
+      "source": "REXR",
+      "category": "reit",
+      "title": "Scotiabank Upgrades Rexford Industrial Realty (REXR), Trims Price Target",
+      "link": "https://finance.yahoo.com/real-estate/articles/scotiabank-upgrades-rexford-industrial-realty-002301545.html?.tsrc=rss",
+      "published": "Wed, 15 Jul 2026 00:23:01 +0000",
+      "summary": "Rexford Industrial Realty, Inc. (NYSE:REXR) is one of the top beaten-down REITs ready for a rotation rally. On June 18, Scotiabank analyst Greg McGinniss upgraded Rexford Industrial Realty, Inc. (NYSE:REXR) to Outperform from Sector Perform, while trimming the price target to $36 from $38. On why he\u2026",
       "is_signal": true
     },
     {
