@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T00:42:42.429989+00:00",
+  "last_updated": "2026-09-01T00:45:40.500171+00:00",
   "market_date": "September 01, 2026",
   "stocks": {
     "PLD": {
@@ -32,8 +32,8 @@
       "price": 61.88,
       "prev_close": 61.94,
       "pct_change": -0.1,
-      "market_cap": 8478578176,
-      "dividend_yield": 3.23,
+      "market_cap": 8478734336,
+      "dividend_yield": 3.21,
       "fifty_two_week_high": 69.88,
       "fifty_two_week_low": 50.24,
       "next_earnings": "2026-10-21"
@@ -44,7 +44,7 @@
       "price": 37.04,
       "prev_close": 37.13,
       "pct_change": -0.24,
-      "market_cap": 8468655104,
+      "market_cap": 8468620800,
       "dividend_yield": 4.69,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 32.14,
@@ -56,7 +56,7 @@
       "price": 37.25,
       "prev_close": 37.18,
       "pct_change": 0.19,
-      "market_cap": 7330897920,
+      "market_cap": 7331086336,
       "dividend_yield": 4.17,
       "fifty_two_week_high": 42.61,
       "fifty_two_week_low": 34.4,
@@ -81,7 +81,7 @@
       "prev_close": 15.01,
       "pct_change": -0.4,
       "market_cap": 4288360704,
-      "dividend_yield": 6.13,
+      "dividend_yield": 6.12,
       "fifty_two_week_high": 16.88,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-11-05"
@@ -105,7 +105,7 @@
       "prev_close": 56.31,
       "pct_change": 1.08,
       "market_cap": 1569361024,
-      "dividend_yield": 13.47,
+      "dividend_yield": 13.5,
       "fifty_two_week_high": 65.38,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-11-02"
@@ -131,7 +131,7 @@
       "prev_close": 56.31,
       "pct_change": 1.08,
       "market_cap": 1569361024,
-      "dividend_yield": 13.47,
+      "dividend_yield": 13.5,
       "fifty_two_week_high": 65.38,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-11-02"
@@ -142,7 +142,7 @@
       "price": 37.25,
       "prev_close": 37.18,
       "pct_change": 0.19,
-      "market_cap": 7330897920,
+      "market_cap": 7331086336,
       "dividend_yield": 4.17,
       "fifty_two_week_high": 42.61,
       "fifty_two_week_low": 34.4,
