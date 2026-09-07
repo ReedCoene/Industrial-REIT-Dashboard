@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T23:13:09.283139+00:00",
-  "market_date": "September 04, 2026",
+  "last_updated": "2026-09-07T23:38:24.824224+00:00",
+  "market_date": "September 07, 2026",
   "stocks": {
     "PLD": {
       "name": "Prologis",
@@ -9,7 +9,7 @@
       "prev_close": 138.35,
       "pct_change": -0.73,
       "market_cap": 133507031040,
-      "dividend_yield": 3.09,
+      "dividend_yield": 3.12,
       "fifty_two_week_high": 153.35,
       "fifty_two_week_low": 110.6,
       "next_earnings": "2026-10-15"
@@ -21,7 +21,7 @@
       "prev_close": 198.47,
       "pct_change": 0.08,
       "market_cap": 10680456192,
-      "dividend_yield": 3.53,
+      "dividend_yield": 3.52,
       "fifty_two_week_high": 226.71,
       "fifty_two_week_low": 163.1,
       "next_earnings": "2026-10-22"
@@ -32,8 +32,8 @@
       "price": 61.85,
       "prev_close": 61.71,
       "pct_change": 0.23,
-      "market_cap": 8474623488,
-      "dividend_yield": 3.24,
+      "market_cap": 8474467328,
+      "dividend_yield": 3.23,
       "fifty_two_week_high": 69.88,
       "fifty_two_week_low": 50.24,
       "next_earnings": "2026-10-21"
@@ -44,8 +44,8 @@
       "price": 36.79,
       "prev_close": 37.01,
       "pct_change": -0.59,
-      "market_cap": 8411462144,
-      "dividend_yield": 4.7,
+      "market_cap": 8411496448,
+      "dividend_yield": 4.73,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 32.14,
       "next_earnings": "2026-10-14"
@@ -56,7 +56,7 @@
       "price": 37.68,
       "prev_close": 37.7,
       "pct_change": -0.05,
-      "market_cap": 7415713280,
+      "market_cap": 7415522816,
       "dividend_yield": 4.11,
       "fifty_two_week_high": 42.61,
       "fifty_two_week_low": 34.4,
@@ -81,7 +81,7 @@
       "prev_close": 14.11,
       "pct_change": 0.78,
       "market_cap": 4078962688,
-      "dividend_yield": 6.52,
+      "dividend_yield": 6.47,
       "fifty_two_week_high": 16.88,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-11-05"
@@ -105,7 +105,7 @@
       "prev_close": 56.8,
       "pct_change": 0.7,
       "market_cap": 1577081088,
-      "dividend_yield": 13.38,
+      "dividend_yield": 13.29,
       "fifty_two_week_high": 65.38,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-11-02"
@@ -117,7 +117,7 @@
       "prev_close": 8.24,
       "pct_change": -0.12,
       "market_cap": 549318592,
-      "dividend_yield": 3.03,
+      "dividend_yield": 3.04,
       "fifty_two_week_high": 9.43,
       "fifty_two_week_low": 4.92,
       "next_earnings": "2026-10-27"
@@ -131,7 +131,7 @@
       "prev_close": 14.11,
       "pct_change": 0.78,
       "market_cap": 4078962688,
-      "dividend_yield": 6.52,
+      "dividend_yield": 6.47,
       "fifty_two_week_high": 16.88,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-11-05"
@@ -143,7 +143,7 @@
       "prev_close": 56.8,
       "pct_change": 0.7,
       "market_cap": 1577081088,
-      "dividend_yield": 13.38,
+      "dividend_yield": 13.29,
       "fifty_two_week_high": 65.38,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-11-02"
@@ -154,8 +154,8 @@
       "price": 61.85,
       "prev_close": 61.71,
       "pct_change": 0.23,
-      "market_cap": 8474623488,
-      "dividend_yield": 3.24,
+      "market_cap": 8474467328,
+      "dividend_yield": 3.23,
       "fifty_two_week_high": 69.88,
       "fifty_two_week_low": 50.24,
       "next_earnings": "2026-10-21"
@@ -180,8 +180,8 @@
       "price": 36.79,
       "prev_close": 37.01,
       "pct_change": -0.59,
-      "market_cap": 8411462144,
-      "dividend_yield": 4.7,
+      "market_cap": 8411496448,
+      "dividend_yield": 4.73,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 32.14,
       "next_earnings": "2026-10-14"
@@ -193,7 +193,7 @@
       "prev_close": 138.35,
       "pct_change": -0.73,
       "market_cap": 133507031040,
-      "dividend_yield": 3.09,
+      "dividend_yield": 3.12,
       "fifty_two_week_high": 153.35,
       "fifty_two_week_low": 110.6,
       "next_earnings": "2026-10-15"
@@ -205,10 +205,10 @@
       "company": "Prologis",
       "source": "PLD",
       "category": "reit",
-      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-121900785.html?.tsrc=rss",
-      "published": "Fri, 04 Sep 2026 12:19:00 +0000",
-      "summary": "FORM 8.3 PUBLIC OPENING POSITION DISCLOSURE/DEALING DISCLOSURE BYA PERSON WITH INTERESTS IN RELEVANT SECURITIES REPRESENTING 1% OR MORERule 8.3 of the Takeover Code (the \u201cCode\u201d) 1.KEY INFORMATION (a)Full name of discloser:Dimensional Fund Advisors Ltd. whose parent is Dimensional Fund Advisors LP, a\u2026",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-115900405.html?.tsrc=rss",
+      "published": "Mon, 07 Sep 2026 11:59:00 +0000",
+      "summary": "LONDON, September 07, 2026-- FORM 8.3",
       "is_signal": false
     },
     {
@@ -216,10 +216,10 @@
       "company": "Prologis",
       "source": "PLD",
       "category": "reit",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-093900262.html?.tsrc=rss",
-      "published": "Fri, 04 Sep 2026 09:39:00 +0000",
-      "summary": "LONDON, September 04, 2026-- FORM 8.3",
+      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-121900785.html?.tsrc=rss",
+      "published": "Fri, 04 Sep 2026 12:19:00 +0000",
+      "summary": "FORM 8.3 PUBLIC OPENING POSITION DISCLOSURE/DEALING DISCLOSURE BYA PERSON WITH INTERESTS IN RELEVANT SECURITIES REPRESENTING 1% OR MORERule 8.3 of the Takeover Code (the \u201cCode\u201d) 1.KEY INFORMATION (a)Full name of discloser:Dimensional Fund Advisors Ltd. whose parent is Dimensional Fund Advisors LP, a\u2026",
       "is_signal": false
     },
     {
@@ -381,6 +381,17 @@
       "company": "STAG Industrial",
       "source": "STAG",
       "category": "reit",
+      "title": "Where You Hold SPYI and STAG Matters More Than You Think: The Taxable vs. IRA Math",
+      "link": "https://247wallst.com/personal-finance/2026/09/06/where-you-hold-spyi-and-stag-matters-more-than-you-think-the-taxable-vs-ira-math/?.tsrc=rss",
+      "published": "Sun, 06 Sep 2026 20:07:25 +0000",
+      "summary": "SPYI and STAG both drop cash into your account every month, but the account you choose determines whether the IRS takes a cut now, later, or never. The right placement for one of these holdings will surprise most income investors.",
+      "is_signal": false
+    },
+    {
+      "ticker": "STAG",
+      "company": "STAG Industrial",
+      "source": "STAG",
+      "category": "reit",
       "title": "5 Monthly Pay REITs for Dependable Retirement Cash Flow",
       "link": "https://247wallst.com/investing/2026/08/27/5-monthly-pay-reits-for-dependable-retirement-cash-flow/?.tsrc=rss",
       "published": "Thu, 27 Aug 2026 11:00:14 +0000",
@@ -407,17 +418,6 @@
       "link": "https://www.marketbeat.com/instant-alerts/stag-industrial-q2-earnings-call-highlights-2026-07-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "published": "Thu, 30 Jul 2026 12:03:51 +0000",
       "summary": "Stag Industrial (NYSE:STAG) said industrial real estate fundamentals continued to stabilize during the second quarter of 2026, citing stronger absorption, a reduced development pipeline and demand from e-commerce, manufacturing and data center-related users. Chief Executive Officer Bill Crooker sai",
-      "is_signal": true
-    },
-    {
-      "ticker": "STAG",
-      "company": "STAG Industrial",
-      "source": "STAG",
-      "category": "reit",
-      "title": "Stag Industrial Inc (STAG) Q2 2026 Earnings Call Highlights: Strong Leasing Spreads and Robust ...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stag-industrial-inc-stag-q2-210445410.html?.tsrc=rss",
-      "published": "Wed, 29 Jul 2026 21:04:45 +0000",
-      "summary": "Stag Industrial Inc (STAG) reports a 3.2% increase in core FFO per share and significant leasing activity, despite facing acquisition challenges.",
       "is_signal": true
     },
     {
@@ -747,7 +747,7 @@
       "title": "GE Appliances to expand Kentucky washer and drier factory in $1 billion plan",
       "link": "https://www.dcvelocity.com/logistics/manufacturing/ge-appliances-to-expand-kentucky-washer-and-drier-factory-in-1-billion-plan",
       "published": "Thu, 03 Sep 2026 18:33:17 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/diagram-of-factory-plan.jpg?id=67725380&amp;width=1200&amp;height=400&amp;coordinates=0%2C220%2C0%2C220\" /><br /><br /><h3></h3><br /><p><a href=\"https://pressroom.geappliances.com/news/ge-appliances-and-iue-cwa-announce-1-billion-investment-in-loui\u2026",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/diagram-of-factory-plan.jpg?id=67725380&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><h3></h3><br /><p><a href=\"https://pressroom.geappliances.com/news/ge-appliances-and-iue-cwa-announce-1-billion-investment-in-louisvil\u2026",
       "is_signal": true
     },
     {
@@ -909,10 +909,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Samsung looks to FMC for record-breaking $186m from CMA CGM",
-      "link": "https://theloadstar.com/samsung-seeks-record-breaking-186m-from-fmc-over-cma-dd-practices/",
-      "published": "Fri, 04 Sep 2026 16:25:22 +0000",
-      "summary": "<p>South Korean consumer electronics giant Samsung has lodged the largest claim to be put before US maritime regulators at the FMC and is seeking $186m in damages from French carrier CMA CGM over erroneous detention and demurrage charges.<br />\nThe size of the claim surpasses the $161m in damages so\u2026",
+      "title": "Africa\u2013Far East growth stalls as Asia exports surge",
+      "link": "https://theloadstar.com/africa-far-east-growth-stalls-as-asia-exports-surge/",
+      "published": "Mon, 07 Sep 2026 15:13:27 +0000",
+      "summary": "<p>Data and sentiment finally appear to be aligning on the Africa-Far East tradelane, with growth stalling on goods headed to Asia, just as forwarders had been predicting, but for those shipping out of Asia, the picture is markedly healthier.<br />\nThe most recent release from Container Trades Stati\u2026",
       "is_signal": false
     },
     {
@@ -920,10 +920,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Capacity fears as US drayage rates are buoyed by converging trends",
-      "link": "https://theloadstar.com/capacity-fears-as-us-drayage-rates-are-buoyed-by-converging-trends/",
-      "published": "Fri, 04 Sep 2026 14:00:51 +0000",
-      "summary": "<p>Concerns are rising in the US about drayage capacity and pricing, as a convergence of factors is producing signs of mounting strain.<br />\nThe situation has come to the fore in recent earnings calls of trucking and intermodal service providers. Jim filter, president and CEO of Schneider, claimed \u2026",
+      "title": "ACS Germany brings in Timo Kaden to drive cargo growth",
+      "link": "https://theloadstar.com/acs-germany-brings-in-timo-kaden-to-drive-cargo-growth/",
+      "published": "Mon, 07 Sep 2026 12:07:05 +0000",
+      "summary": "<p>Air Charter Service (ACS) Germany has appointed veteran air cargo executive Timo Kaden as cargo business development director, based at its Frankfurt office.<br />\nMr Kaden brings almost three decades of logistics experience to the aircraft charter broker, including nearly 19 years with KN Airlif\u2026",
       "is_signal": true
     },
     {
@@ -931,10 +931,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Late peak demand sees container spot rates to the US surge",
-      "link": "https://theloadstar.com/late-peak-demand-sees-container-spot-rates-to-the-us-surge/",
-      "published": "Fri, 04 Sep 2026 12:23:38 +0000",
-      "summary": "<p>Container spot freight rates on the transpacific and Asia-Europe trades completely diverged this week, with a late peak season demand surge prompting freight prices to both east and west US coasts to spike.<br />\nThis week\u2019s World Container Index (WCI) from Drewry saw its Shanghai-New York leg ri\u2026",
+      "title": "Gemini partners to omit Shanghai call in Asia shuttle shake-up",
+      "link": "https://theloadstar.com/gemini-partners-to-omit-shanghai-call-in-asia-shuttle-shake-up/",
+      "published": "Mon, 07 Sep 2026 12:02:50 +0000",
+      "summary": "<p>The Gemini Cooperation is to merge two of its Asia shuttle services into one string, thereby dropping a call at the world\u2019s largest container port and key partnership hub, Shanghai.<br />\nThe change will lead to the end of the intra-Asia A04 shuttle and an expanded A14 service.<br />\n\u201cTo enhance \u2026",
       "is_signal": false
     },
     {
@@ -942,21 +942,21 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Congestion and ship delays take 2.3m teu capacity off the market",
-      "link": "https://theloadstar.com/congestion-and-ship-delays-take-2-3m-teu-capacity-off-the-market/",
-      "published": "Fri, 04 Sep 2026 11:30:34 +0000",
-      "summary": "<p>Container\u00a0shipping\u2019s\u00a0deteriorating schedule reliability has effectively taken 2.3m\u00a0teu\u00a0of vessel capacity out of the market.<br />\nAccording to\u00a0Sea-Intelligence\u2019s latest Global Liner Performance data, schedule reliability fell to 56.4% in July, its lowest level since February 2025 and the weakest\u2026",
-      "is_signal": true
+      "title": "Miami operations back to normal after tragic Amazon freighter crash",
+      "link": "https://theloadstar.com/miami-operations-back-to-normal-after-tragic-amazon-freighter-crash/",
+      "published": "Mon, 07 Sep 2026 11:35:55 +0000",
+      "summary": "<p>Cargo operations at Miami International Airport appeared to be running broadly normally this morning, less than 24 hours after a fatal Amazon freighter crash brought flights to a halt and caused widespread disruption.<br />\nFreighters were again arriving and departing the major US cargo gateway, \u2026",
+      "is_signal": false
     },
     {
       "ticker": null,
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "CargoWise is becoming the AI that runs freight \u2013 so what happens to the TMS?",
-      "link": "https://theloadstar.com/cargowise-is-becoming-the-ai-that-runs-freight-so-what-happens-to-the-tms/",
-      "published": "Fri, 04 Sep 2026 10:53:47 +0000",
-      "summary": "<p>In the second of a two-part interview with WiseTech CEO Zubin Appoo, The Loadstar examines WiseTech\u2019s plans to turn CargoWise into an AI \u2018system of execution\u2019 \u2013 and what that could mean for the future of the TMS. Yesterday: DSV\u2019s evolving relationship with CargoWise, the impact of its new pricing\u2026",
+      "title": "Major carriers carving out designer networks to avoid competing on routes",
+      "link": "https://theloadstar.com/major-carriers-carving-out-designer-networks-to-avoid-competing-on-routes/",
+      "published": "Mon, 07 Sep 2026 11:19:34 +0000",
+      "summary": "<p>Container shipping alliances are increasingly carving out distinct network niches, rather than competing head-to-head on the same port pairs, according to new analysis from Sea-Intelligence.<br />\nIt examined direct port-pair connections operated in July by the Gemini Cooperation, MSC, and the Oc\u2026",
       "is_signal": false
     },
     {
@@ -1017,24 +1017,24 @@
     {
       "ticker": null,
       "company": null,
-      "source": "Breitbart News",
+      "source": "Fortune",
       "category": "broad",
-      "title": "Breitbart Business Digest: Welcome to the Hard-Hat Goldilocks Economy",
-      "link": "https://www.breitbart.com/economy/2026/09/03/breitbart-business-digest-welcome-to-the-hard-hat-goldilocks-economy/",
-      "published": "2026-09-03T22:00:20Z",
-      "summary": "America appears to be building its way to disinflation.\nThe post Breitbart Business Digest: Welcome to the Hard-Hat Goldilocks Economy appeared first on Breitbart.",
+      "title": "China\u2019s export shock is pushing the global economy to a breaking point, and the U.S. may have to clean up the mess, former trade official says",
+      "link": "https://fortune.com/2026/09/06/china-export-shock-global-economic-crisis-overcapacity-growth-model/",
+      "published": "2026-09-06T23:04:53Z",
+      "summary": "\"The result is an industrial machine that cannot stop and cannot slow down\u2014but that, owing to the limits of demand, cannot keep going.\"",
       "is_signal": false
     },
     {
       "ticker": null,
       "company": null,
-      "source": "CNA",
+      "source": "Yahoo Entertainment",
       "category": "broad",
-      "title": "Commentary: China\u2019s real robot revolution is not about humanoids",
-      "link": "https://www.channelnewsasia.com/commentary/china-humanoid-robot-revolution-6360141",
-      "published": "2026-09-03T21:58:00Z",
-      "summary": "The country is using its superpower of scaling and building supply chains to challenge the global industry, says Zijing Wu for the Financial Times.",
-      "is_signal": true
+      "title": "China\u2019s export shock is pushing the global economy to a breaking point, and the U.S. may have to clean up the mess, former trade official says",
+      "link": "https://finance.yahoo.com/economy/policy/articles/china-export-shock-pushing-global-230453384.html",
+      "published": "2026-09-06T23:04:53Z",
+      "summary": "\"The result is an industrial machine that cannot stop and cannot slow down\u2014but that, owing to the limits of demand, cannot keep going.\"",
+      "is_signal": false
     }
   ],
   "weekly_report": null,
