@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T23:38:24.824224+00:00",
+  "last_updated": "2026-09-07T23:42:37.529621+00:00",
   "market_date": "September 07, 2026",
   "stocks": {
     "PLD": {
@@ -32,7 +32,7 @@
       "price": 61.85,
       "prev_close": 61.71,
       "pct_change": 0.23,
-      "market_cap": 8474467328,
+      "market_cap": 8474623488,
       "dividend_yield": 3.23,
       "fifty_two_week_high": 69.88,
       "fifty_two_week_low": 50.24,
@@ -44,8 +44,8 @@
       "price": 36.79,
       "prev_close": 37.01,
       "pct_change": -0.59,
-      "market_cap": 8411496448,
-      "dividend_yield": 4.73,
+      "market_cap": 8411462144,
+      "dividend_yield": 4.7,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 32.14,
       "next_earnings": "2026-10-14"
@@ -56,7 +56,7 @@
       "price": 37.68,
       "prev_close": 37.7,
       "pct_change": -0.05,
-      "market_cap": 7415522816,
+      "market_cap": 7415713280,
       "dividend_yield": 4.11,
       "fifty_two_week_high": 42.61,
       "fifty_two_week_low": 34.4,
@@ -154,7 +154,7 @@
       "price": 61.85,
       "prev_close": 61.71,
       "pct_change": 0.23,
-      "market_cap": 8474467328,
+      "market_cap": 8474623488,
       "dividend_yield": 3.23,
       "fifty_two_week_high": 69.88,
       "fifty_two_week_low": 50.24,
@@ -180,8 +180,8 @@
       "price": 36.79,
       "prev_close": 37.01,
       "pct_change": -0.59,
-      "market_cap": 8411496448,
-      "dividend_yield": 4.73,
+      "market_cap": 8411462144,
+      "dividend_yield": 4.7,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 32.14,
       "next_earnings": "2026-10-14"
@@ -747,7 +747,7 @@
       "title": "GE Appliances to expand Kentucky washer and drier factory in $1 billion plan",
       "link": "https://www.dcvelocity.com/logistics/manufacturing/ge-appliances-to-expand-kentucky-washer-and-drier-factory-in-1-billion-plan",
       "published": "Thu, 03 Sep 2026 18:33:17 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/diagram-of-factory-plan.jpg?id=67725380&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><h3></h3><br /><p><a href=\"https://pressroom.geappliances.com/news/ge-appliances-and-iue-cwa-announce-1-billion-investment-in-louisvil\u2026",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/diagram-of-factory-plan.jpg?id=67725380&amp;width=1200&amp;height=400&amp;coordinates=0%2C220%2C0%2C220\" /><br /><br /><h3></h3><br /><p><a href=\"https://pressroom.geappliances.com/news/ge-appliances-and-iue-cwa-announce-1-billion-investment-in-loui\u2026",
       "is_signal": true
     },
     {
