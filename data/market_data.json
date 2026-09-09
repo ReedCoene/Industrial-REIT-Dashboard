@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T23:24:35.177629+00:00",
+  "last_updated": "2026-09-09T23:28:26.824073+00:00",
   "market_date": "September 09, 2026",
   "stocks": {
     "PLD": {
@@ -32,7 +32,7 @@
       "price": 60.97,
       "prev_close": 61.73,
       "pct_change": -1.23,
-      "market_cap": 8354046976,
+      "market_cap": 8353892864,
       "dividend_yield": 3.24,
       "fifty_two_week_high": 69.88,
       "fifty_two_week_low": 50.24,
@@ -44,7 +44,7 @@
       "price": 37.07,
       "prev_close": 37.43,
       "pct_change": -0.96,
-      "market_cap": 8475479552,
+      "market_cap": 8475513856,
       "dividend_yield": 4.65,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 32.14,
@@ -56,7 +56,7 @@
       "price": 37.18,
       "prev_close": 37.56,
       "pct_change": -1.01,
-      "market_cap": 7317309440,
+      "market_cap": 7317121536,
       "dividend_yield": 4.13,
       "fifty_two_week_high": 42.61,
       "fifty_two_week_low": 34.4,
@@ -154,7 +154,7 @@
       "price": 37.07,
       "prev_close": 37.43,
       "pct_change": -0.96,
-      "market_cap": 8475479552,
+      "market_cap": 8475513856,
       "dividend_yield": 4.65,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 32.14,
@@ -200,50 +200,6 @@
     }
   ],
   "news": [
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
-      "title": "Prologis (PLD) Falls More Steeply Than Broader Market: What Investors Need to Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prologis-pld-falls-more-steeply-220003795.html?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 22:00:03 +0000",
-      "summary": "Prologis (PLD) reached $135.66 at the closing of the latest trading day, reflecting a -2.04% change compared to its last close.",
-      "is_signal": false
-    },
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-094200414.html?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 09:42:00 +0000",
-      "summary": "LONDON, September 09, 2026-- FORM 8.3",
-      "is_signal": false
-    },
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
-      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-073900448.html?.tsrc=rss",
-      "published": "Wed, 09 Sep 2026 07:39:00 +0000",
-      "summary": "FORM 8.3 PUBLIC OPENING POSITION DISCLOSURE/DEALING DISCLOSURE BYA PERSON WITH INTERESTS IN RELEVANT SECURITIES REPRESENTING 1% OR MORERule 8.3 of the Takeover Code (the \u201cCode\u201d) 1.KEY INFORMATION (a)Full name of discloser:Dimensional Fund Advisors Ltd. whose parent is Dimensional Fund Advisors LP, a\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
-      "title": "How Prologis Conquered The World",
-      "link": "https://www.bisnow.com/news/national/industrial/how-prologis-conquered-the-world?.tsrc=rss",
-      "published": "Tue, 08 Sep 2026 22:34:10 +0000",
-      "summary": "Prologis' rise in real estate showcases strategy, innovation and key acquisitions.",
-      "is_signal": true
-    },
     {
       "ticker": "EGP",
       "company": "EastGroup Properties",
