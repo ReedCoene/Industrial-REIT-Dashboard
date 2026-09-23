@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T23:49:40.702814+00:00",
+  "last_updated": "2026-09-23T23:55:04.063135+00:00",
   "market_date": "September 23, 2026",
   "stocks": {
     "PLD": {
@@ -32,7 +32,7 @@
       "price": 61.07,
       "prev_close": 62.0,
       "pct_change": -1.5,
-      "market_cap": 8367748608,
+      "market_cap": 8367594496,
       "dividend_yield": 3.23,
       "fifty_two_week_high": 69.88,
       "fifty_two_week_low": 50.24,
@@ -44,7 +44,7 @@
       "price": 38.15,
       "prev_close": 38.72,
       "pct_change": -1.47,
-      "market_cap": 8722405376,
+      "market_cap": 8722440192,
       "dividend_yield": 4.55,
       "fifty_two_week_high": 44.38,
       "fifty_two_week_low": 32.14,
@@ -56,7 +56,7 @@
       "price": 36.83,
       "prev_close": 37.51,
       "pct_change": -1.81,
-      "market_cap": 7248427008,
+      "market_cap": 7248241152,
       "dividend_yield": 4.15,
       "fifty_two_week_high": 42.61,
       "fifty_two_week_low": 34.4,
@@ -168,7 +168,7 @@
       "price": 36.83,
       "prev_close": 37.51,
       "pct_change": -1.81,
-      "market_cap": 7248427008,
+      "market_cap": 7248241152,
       "dividend_yield": 4.15,
       "fifty_two_week_high": 42.61,
       "fifty_two_week_low": 34.4,
