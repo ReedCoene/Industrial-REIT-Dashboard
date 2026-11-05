@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T01:35:40.307342+00:00",
+  "last_updated": "2026-11-05T01:43:55.054197+00:00",
   "market_date": "November 05, 2026",
   "stocks": {
     "PLD": {
@@ -1127,6 +1127,17 @@
     {
       "ticker": null,
       "company": null,
+      "source": "Biztoc.com",
+      "category": "broad",
+      "title": "Fed Chair Kevin Warsh Just Drove a Dagger Through Wall Street's AI-Driven Rally With 6 Blunt Words",
+      "link": "https://biztoc.com/x/7b5343e6ca107b5d",
+      "published": "2026-11-04T01:37:35Z",
+      "summary": "For the better part of the last four years, the Dow Jones Industrial Average (^DJI -0.38%), S&P 500 (^GSPC +0.36%), and Nasdaq Composite (^IXIC +0.83%) have been virtually unstoppable, thanks in large part to the evolution of artificial intelligence (AI).\nEmp\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
       "source": "OilPrice.com",
       "category": "broad",
       "title": "Pentagon Eyes Unprecedented 75-Year Deal to End China's Rare Earth Stranglehold",
@@ -1144,17 +1155,6 @@
       "link": "https://www.pymnts.com/transportation/2026/manufacturing-data-is-valuable-gms-220-million-privacy-settlement-shows-its-also-costly/",
       "published": "2026-11-04T00:26:22Z",
       "summary": "Somewhere around the turn of the century, and the decades following, the smokestack economy become the connected economy. Connected vehicles, industrial equipment and warehouse devices today generate continuous streams of behavioral, operational and location \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "CBC News",
-      "category": "broad",
-      "title": "Edmonton mayor, council give initial nod to city\u2019s four-year budget plan, including 4.9% property tax hike",
-      "link": "https://www.cbc.ca/news/canada/edmonton/edmonton-mayor-council-give-initial-nod-to-citys-four-year-budget-plan-including-4-9-property-tax-hike-9.7408051",
-      "published": "2026-11-04T00:10:46Z",
-      "summary": "The day after Edmonton city administration released the 2027-2030 operating and capital budgets, which managers describe as back-to-basic blueprints, Mayor Andrew Knack said he\u2019s generally OK with the proposed 4.9 per cent property tax increase for 2027.",
       "is_signal": true
     }
   ],
