@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-11-06T01:45:02.138848+00:00",
-  "market_date": "November 06, 2026",
+  "last_updated": "2026-11-07T01:01:24.561595+00:00",
+  "market_date": "November 07, 2026",
   "stocks": {
     "PLD": {
       "name": "Prologis",
       "ticker": "PLD",
-      "price": 131.36,
-      "prev_close": 129.08,
-      "pct_change": 1.77,
-      "market_cap": 124962349056,
-      "dividend_yield": 3.26,
+      "price": 128.55,
+      "prev_close": 131.36,
+      "pct_change": -2.14,
+      "market_cap": 123439521792,
+      "dividend_yield": 3.33,
       "fifty_two_week_high": 153.35,
       "fifty_two_week_low": 121.4,
       "next_earnings": "2027-01-20"
@@ -17,35 +17,35 @@
     "EGP": {
       "name": "EastGroup Properties",
       "ticker": "EGP",
-      "price": 201.0,
-      "prev_close": 200.22,
-      "pct_change": 0.39,
-      "market_cap": 10424512512,
-      "dividend_yield": 3.48,
+      "price": 193.86,
+      "prev_close": 201.0,
+      "pct_change": -3.55,
+      "market_cap": 10421823488,
+      "dividend_yield": 3.61,
       "fifty_two_week_high": 226.71,
-      "fifty_two_week_low": 174.21,
+      "fifty_two_week_low": 174.57,
       "next_earnings": "2026-10-21"
     },
     "FR": {
       "name": "First Industrial Realty Trust",
       "ticker": "FR",
-      "price": 55.51,
-      "prev_close": 54.9,
-      "pct_change": 1.11,
-      "market_cap": 7387926528,
-      "dividend_yield": 3.6,
+      "price": 53.92,
+      "prev_close": 55.51,
+      "pct_change": -2.86,
+      "market_cap": 7366398976,
+      "dividend_yield": 3.71,
       "fifty_two_week_high": 69.88,
-      "fifty_two_week_low": 53.77,
+      "fifty_two_week_low": 53.27,
       "next_earnings": "2026-10-21"
     },
     "REXR": {
       "name": "Rexford Industrial",
       "ticker": "REXR",
-      "price": 39.25,
-      "prev_close": 38.28,
-      "pct_change": 2.53,
-      "market_cap": 8722440192,
-      "dividend_yield": 4.43,
+      "price": 38.15,
+      "prev_close": 39.25,
+      "pct_change": -2.8,
+      "market_cap": 8231373312,
+      "dividend_yield": 4.56,
       "fifty_two_week_high": 42.41,
       "fifty_two_week_low": 32.14,
       "next_earnings": "2026-10-22"
@@ -53,11 +53,11 @@
     "STAG": {
       "name": "STAG Industrial",
       "ticker": "STAG",
-      "price": 37.85,
-      "prev_close": 37.38,
-      "pct_change": 1.26,
-      "market_cap": 7263984640,
-      "dividend_yield": 4.1,
+      "price": 36.91,
+      "prev_close": 37.85,
+      "pct_change": -2.48,
+      "market_cap": 7201581568,
+      "dividend_yield": 4.2,
       "fifty_two_week_high": 42.61,
       "fifty_two_week_low": 35.14,
       "next_earnings": "2026-10-27"
@@ -77,11 +77,11 @@
     "COLD": {
       "name": "Americold Realty Trust",
       "ticker": "COLD",
-      "price": 15.19,
-      "prev_close": 14.56,
-      "pct_change": 4.33,
-      "market_cap": 4535049216,
-      "dividend_yield": 6.06,
+      "price": 15.81,
+      "prev_close": 15.19,
+      "pct_change": 4.08,
+      "market_cap": 4592418816,
+      "dividend_yield": 5.82,
       "fifty_two_week_high": 16.88,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-11-05"
@@ -89,11 +89,11 @@
     "TRNO": {
       "name": "Terreno Realty",
       "ticker": "TRNO",
-      "price": 67.99,
-      "prev_close": 66.66,
-      "pct_change": 2.0,
-      "market_cap": 7310817792,
-      "dividend_yield": 3.35,
+      "price": 67.09,
+      "prev_close": 67.99,
+      "pct_change": -1.32,
+      "market_cap": 7288297472,
+      "dividend_yield": 3.4,
       "fifty_two_week_high": 78.94,
       "fifty_two_week_low": 57.95,
       "next_earnings": "2027-02-03"
@@ -101,11 +101,11 @@
     "IIPR": {
       "name": "Innovative Industrial Properties",
       "ticker": "IIPR",
-      "price": 56.33,
-      "prev_close": 55.0,
-      "pct_change": 2.42,
-      "market_cap": 1524695552,
-      "dividend_yield": 13.49,
+      "price": 55.3,
+      "prev_close": 56.33,
+      "pct_change": -1.83,
+      "market_cap": 1511737088,
+      "dividend_yield": 13.74,
       "fifty_two_week_high": 65.38,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-11-02"
@@ -113,11 +113,11 @@
     "ILPT": {
       "name": "Industrial Logistics Properties Trust",
       "ticker": "ILPT",
-      "price": 6.44,
+      "price": 6.03,
       "prev_close": 6.44,
-      "pct_change": 0.0,
-      "market_cap": 403906496,
-      "dividend_yield": 4.66,
+      "pct_change": -6.37,
+      "market_cap": 397208192,
+      "dividend_yield": 4.98,
       "fifty_two_week_high": 9.43,
       "fifty_two_week_low": 5.01,
       "next_earnings": "2026-10-28"
@@ -127,52 +127,14 @@
     {
       "name": "Americold Realty Trust",
       "ticker": "COLD",
-      "price": 15.19,
-      "prev_close": 14.56,
-      "pct_change": 4.33,
-      "market_cap": 4535049216,
-      "dividend_yield": 6.06,
+      "price": 15.81,
+      "prev_close": 15.19,
+      "pct_change": 4.08,
+      "market_cap": 4592418816,
+      "dividend_yield": 5.82,
       "fifty_two_week_high": 16.88,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-11-05"
-    },
-    {
-      "name": "Rexford Industrial",
-      "ticker": "REXR",
-      "price": 39.25,
-      "prev_close": 38.28,
-      "pct_change": 2.53,
-      "market_cap": 8722440192,
-      "dividend_yield": 4.43,
-      "fifty_two_week_high": 42.41,
-      "fifty_two_week_low": 32.14,
-      "next_earnings": "2026-10-22"
-    },
-    {
-      "name": "Innovative Industrial Properties",
-      "ticker": "IIPR",
-      "price": 56.33,
-      "prev_close": 55.0,
-      "pct_change": 2.42,
-      "market_cap": 1524695552,
-      "dividend_yield": 13.49,
-      "fifty_two_week_high": 65.38,
-      "fifty_two_week_low": 44.58,
-      "next_earnings": "2026-11-02"
-    }
-  ],
-  "top_losers": [
-    {
-      "name": "EastGroup Properties",
-      "ticker": "EGP",
-      "price": 201.0,
-      "prev_close": 200.22,
-      "pct_change": 0.39,
-      "market_cap": 10424512512,
-      "dividend_yield": 3.48,
-      "fifty_two_week_high": 226.71,
-      "fifty_two_week_low": 174.21,
-      "next_earnings": "2026-10-21"
     },
     {
       "name": "LXP Industrial Trust",
@@ -187,13 +149,51 @@
       "next_earnings": "2026-10-27"
     },
     {
+      "name": "Terreno Realty",
+      "ticker": "TRNO",
+      "price": 67.09,
+      "prev_close": 67.99,
+      "pct_change": -1.32,
+      "market_cap": 7288297472,
+      "dividend_yield": 3.4,
+      "fifty_two_week_high": 78.94,
+      "fifty_two_week_low": 57.95,
+      "next_earnings": "2027-02-03"
+    }
+  ],
+  "top_losers": [
+    {
+      "name": "First Industrial Realty Trust",
+      "ticker": "FR",
+      "price": 53.92,
+      "prev_close": 55.51,
+      "pct_change": -2.86,
+      "market_cap": 7366398976,
+      "dividend_yield": 3.71,
+      "fifty_two_week_high": 69.88,
+      "fifty_two_week_low": 53.27,
+      "next_earnings": "2026-10-21"
+    },
+    {
+      "name": "EastGroup Properties",
+      "ticker": "EGP",
+      "price": 193.86,
+      "prev_close": 201.0,
+      "pct_change": -3.55,
+      "market_cap": 10421823488,
+      "dividend_yield": 3.61,
+      "fifty_two_week_high": 226.71,
+      "fifty_two_week_low": 174.57,
+      "next_earnings": "2026-10-21"
+    },
+    {
       "name": "Industrial Logistics Properties Trust",
       "ticker": "ILPT",
-      "price": 6.44,
+      "price": 6.03,
       "prev_close": 6.44,
-      "pct_change": 0.0,
-      "market_cap": 403906496,
-      "dividend_yield": 4.66,
+      "pct_change": -6.37,
+      "market_cap": 397208192,
+      "dividend_yield": 4.98,
       "fifty_two_week_high": 9.43,
       "fifty_two_week_low": 5.01,
       "next_earnings": "2026-10-28"
@@ -205,21 +205,10 @@
       "company": "Prologis",
       "source": "PLD",
       "category": "reit",
-      "title": "Prologis Survey: 91% Want Decentralized Fulfillment Networks",
-      "link": "https://www.credaily.com/briefs/prologis-survey-91-want-decentralized-fulfillment-networks/?.tsrc=rss",
-      "published": "Thu, 05 Nov 2026 18:11:20 +0000",
-      "summary": "91% of business leaders say logistics needs decentralized fulfillment networks, with delivery speed outweighing price.",
-      "is_signal": true
-    },
-    {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "source": "PLD",
-      "category": "reit",
       "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-132700476.html?.tsrc=rss",
-      "published": "Thu, 05 Nov 2026 13:27:00 +0000",
-      "summary": "LONDON, November 05, 2026-- FORM 8.3",
+      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-152500625.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 15:25:00 +0000",
+      "summary": "LONDON, November 06, 2026-- FORM 8.3",
       "is_signal": false
     },
     {
@@ -228,9 +217,9 @@
       "source": "PLD",
       "category": "reit",
       "title": "Form 8.3 Prologis, Inc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-prologis-inc-132600444.html?.tsrc=rss",
-      "published": "Thu, 05 Nov 2026 13:26:00 +0000",
-      "summary": "LONDON, November 05, 2026-- FORM 8.3",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-prologis-inc-130200354.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 13:02:00 +0000",
+      "summary": "LONDON, November 06, 2026-- FORM 8.3",
       "is_signal": false
     },
     {
@@ -238,10 +227,21 @@
       "company": "Prologis",
       "source": "PLD",
       "category": "reit",
-      "title": "'It's Hand-To-Hand Combat': Prologis Exec On Chicago Industrial Strategy",
-      "link": "https://www.bisnow.com/news/chicago/industrial/hand-to-hand-combat-prologis-exec-chicago-industrial-strategy?.tsrc=rss",
-      "published": "Wed, 04 Nov 2026 20:09:11 +0000",
-      "summary": "The company is betting on infill development in submarkets where barriers to entry are high and building large properties that have few alternatives.",
+      "title": "These Warehouse REITs Are Riding the E-Commerce Boom. Which Pays the Safest Dividend?",
+      "link": "https://247wallst.com/investing/2026/11/06/these-warehouse-reits-are-riding-the-e-commerce-boom-which-pays-the-safest-dividend/?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 12:17:09 +0000",
+      "summary": "Four warehouse landlords are collecting record rent, but a fat yield can hide a shaky foundation. We checked each payout against actual cash earnings, and the highest yielder may not deserve a place in a retiree's portfolio.",
+      "is_signal": true
+    },
+    {
+      "ticker": "PLD",
+      "company": "Prologis",
+      "source": "PLD",
+      "category": "reit",
+      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-111000456.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 11:10:00 +0000",
+      "summary": "FORM 8.3 PUBLIC OPENING POSITION DISCLOSURE/DEALING DISCLOSURE BYA PERSON WITH INTERESTS IN RELEVANT SECURITIES REPRESENTING 1% OR MORERule 8.3 of the Takeover Code (the \u201cCode\u201d) 1.KEY INFORMATION (a)Full name of discloser:Dimensional Fund Advisors Ltd. whose parent is Dimensional Fund Advisors LP, a\u2026",
       "is_signal": false
     },
     {
@@ -469,6 +469,17 @@
       "company": "Americold Realty Trust",
       "source": "COLD",
       "category": "reit",
+      "title": "Americold Realty Trust Inc (COLD) (Q3 2026) Earnings Call Highlights: Record Handling Margins, ...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/americold-realty-trust-inc-cold-051338382.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 05:13:38 +0000",
+      "summary": "Americold Realty Trust Inc (COLD) beat AFFO expectations for a fifth straight quarter, lifted full-year 2026 guidance, and cut leverage by a full turn after closing its $1.3 billion EQT joint venture.",
+      "is_signal": true
+    },
+    {
+      "ticker": "COLD",
+      "company": "Americold Realty Trust",
+      "source": "COLD",
+      "category": "reit",
       "title": "Americold Realty Trust, Inc. Q3 2026 Earnings Call Summary",
       "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-americold-realty-trust-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
       "published": "Thu, 05 Nov 2026 22:02:27 +0000",
@@ -498,15 +509,15 @@
       "is_signal": true
     },
     {
-      "ticker": "COLD",
-      "company": "Americold Realty Trust",
-      "source": "COLD",
+      "ticker": "TRNO",
+      "company": "Terreno Realty",
+      "source": "TRNO",
       "category": "reit",
-      "title": "Americold raises full-year outlook as warehouse performance improves",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/americold-raises-full-outlook-warehouse-130000796.html?.tsrc=rss",
-      "published": "Thu, 05 Nov 2026 13:00:00 +0000",
-      "summary": "Americold Realty Trust raised its full-year earnings outlook Thursday after reporting higher third-quarter revenue. The post Americold raises full-year outlook as warehouse performance improves appeared first on FreightWaves.",
-      "is_signal": true
+      "title": "Terreno Realty Corporation Acquires Property in Hyattsville, MD for $23.1 Million",
+      "link": "https://finance.yahoo.com/real-estate/articles/terreno-realty-corporation-acquires-property-141500840.html?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 14:15:00 +0000",
+      "summary": "BELLEVUE, Wash., November 06, 2026--Terreno Realty Corporation Acquires Property in Hyattsville, MD for $23.1 Million",
+      "is_signal": false
     },
     {
       "ticker": "TRNO",
@@ -540,17 +551,6 @@
       "published": "Wed, 04 Nov 2026 21:10:00 +0000",
       "summary": "BELLEVUE, Wash., November 04, 2026--Terreno Realty Corporation Declares Quarterly Dividend and Files Third Quarter 2026 Financial Statements",
       "is_signal": true
-    },
-    {
-      "ticker": "TRNO",
-      "company": "Terreno Realty",
-      "source": "TRNO",
-      "category": "reit",
-      "title": "Terreno Realty Corporation Announces Lease in Avenel, NJ",
-      "link": "https://finance.yahoo.com/real-estate/articles/terreno-realty-corporation-announces-lease-141500223.html?.tsrc=rss",
-      "published": "Wed, 04 Nov 2026 14:15:00 +0000",
-      "summary": "BELLEVUE, Wash., November 04, 2026--Terreno Realty Corporation Announces Lease in Avenel, NJ",
-      "is_signal": false
     },
     {
       "ticker": "IIPR",
@@ -733,10 +733,21 @@
       "company": null,
       "source": "Supply Chain Dive",
       "category": "sector",
-      "title": "Unilever ramps up pricing to offset higher commodity costs",
-      "link": "https://www.supplychaindive.com/news/unilever-ramps-up-pricing-to-offset-higher-commodity-costs/873793/",
-      "published": "Thu, 05 Nov 2026 15:09:00 -0500",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/x_VUUVh_zafozKx9yAGGvCHZFjjxDZ-s7VyNBogAjdg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VbmlsZXZlci1Ib21lLUNhcmUucG5n.webp\" /></div></figure><p>Improved visibility over supply of key inputs gave the CPG clarity to implement h\u2026",
+      "title": "UP CEO\u2019s rate threat adds wrinkle to Norfolk Southern merger process",
+      "link": "https://www.supplychaindive.com/news/up-ceos-rate-threat-adds-wrinkle-to-norfolk-southern-merger-process/874006/",
+      "published": "Fri, 06 Nov 2026 14:49:00 -0500",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ZPSG2232KRqHQ5pnNRsOCIIAWWOYUW77fnkMKGoq-mo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAyOTQ2ODg0LmpwZw==.webp\" /></div></figure><p>The railroad said Jim Vena&rsquo;s remarks that he would raise rates on s\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Supply Chain Dive",
+      "category": "sector",
+      "title": "Aurora\u2019s truck production schedule delayed by supply, quality issues",
+      "link": "https://www.supplychaindive.com/news/auroras-truck-production-schedule-delayed-by-supply-quality-issues/873995/",
+      "published": "Fri, 06 Nov 2026 10:54:00 -0500",
+      "summary": "<p>The autonomous trucking company is working with Roush to upfit trucks, and despite the delay, still expects to have more than 1,000 trucks ready by the end of 2027.</p>",
       "is_signal": false
     },
     {
@@ -744,10 +755,10 @@
       "company": null,
       "source": "Supply Chain Dive",
       "category": "sector",
-      "title": "Schneider National says rail partner shift offers network boost",
-      "link": "https://www.supplychaindive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873847/",
-      "published": "Thu, 05 Nov 2026 10:08:00 -0500",
-      "summary": "<p>CEO Jim Filter said the company brings 35 years of intermodal service experience to its new partnership with Norfolk Southern.&nbsp;</p>",
+      "title": "Lear to open automated factory as \u2018blueprint\u2019 for global network",
+      "link": "https://www.supplychaindive.com/news/lear-to-open-automated-factory-as-blueprint-for-global-network/873888/",
+      "published": "Fri, 06 Nov 2026 09:43:00 -0500",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/sqHcsuWhTPKu0DByEMQH_-Qsy4Ph2VgHA2EbEd8hbBw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MzI3NTc2NC5qcGc=.webp\" /></div></figure><p>The Michigan facility is expected to go live next year and be equipped with a\u2026",
       "is_signal": false
     },
     {
@@ -755,10 +766,10 @@
       "company": null,
       "source": "Supply Chain Dive",
       "category": "sector",
-      "title": "Urban Outfitters seeks material cost visibility from expanded technology suite",
-      "link": "https://www.supplychaindive.com/news/urban-outfitters-seeks-material-cost-visibility-from-expanded-technology-su/873642/",
-      "published": "Thu, 05 Nov 2026 10:00:00 -0500",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/OIevACgdusuA2fZQvSw0ZAl4pck_qZg1WnZdK_G6ols/g:nowe:0:43/c:640:361/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iZW5kX3JldGFpbF8tXzguanBlZw==.webp\" /></div></figure><p>The parent of several retail brands&nbsp;is tacking on additiona\u2026",
+      "title": "Apple boosts purchase commitments by $33B amid memory crunch",
+      "link": "https://www.supplychaindive.com/news/apple-boosts-purchase-commitments-by-33b-amid-memory-crunch/873936/",
+      "published": "Fri, 06 Nov 2026 08:51:00 -0500",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/v1XyV7mk7yZ8gFrvII4swkx5jlgtUt3jly98UG_HWXE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjczOTI5OTA0LmpwZw==.webp\" /></div></figure><p>The iPhone maker mitigated some of the higher memory costs in Q4 with pri\u2026",
       "is_signal": false
     },
     {
@@ -766,21 +777,32 @@
       "company": null,
       "source": "Supply Chain Dive",
       "category": "sector",
-      "title": "EBay trims Depop shipping rates, bolsters delivery features",
-      "link": "https://www.supplychaindive.com/news/ebay-trims-depop-shipping-rates-bolsters-delivery-features/873710/",
-      "published": "Thu, 05 Nov 2026 09:38:18 -0500",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/vVY8IGbjpmghIzg8WQCPrsacS0EfnYQLReunOtS8y2A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NjQzOTk1ODMuanBn.webp\" /></div></figure><p>The company is using AI to enable fast-but-reliable delivery promises and hel\u2026",
+      "title": "Tilray Brands targets $20M in cost savings after craft brewery closures",
+      "link": "https://www.supplychaindive.com/news/tilray-brands-targets-20m-in-cost-savings-after-craft-brewery-closures/873848/",
+      "published": "Fri, 06 Nov 2026 07:15:00 -0500",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/XYqWKTWZpZEX4JW9k5Jk8HPNpQfYhABZO9tcrjZSlX4/g:nowe:2:0/c:2497:1411/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjE2NjA3ODg3LmpwZw==.webp\" /></div></figure><p>The Shock Top owner has reduced its SKU count and close\u2026",
       "is_signal": false
     },
     {
       "ticker": null,
       "company": null,
-      "source": "Supply Chain Dive",
+      "source": "DC Velocity",
       "category": "sector",
-      "title": "Logitech launches supply chain decarbonization program",
-      "link": "https://www.supplychaindive.com/news/logitech-launches-supply-chain-decarbonization-program/873778/",
-      "published": "Thu, 05 Nov 2026 07:44:00 -0500",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/V_hB4XM60R5nLkmD_1ydkbPMLCklbaSCj7bIFkEVYb8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODE0NTUxNjMuanBn.webp\" /></div></figure><p>The computer peripheral manufacturer&rsquo;s Chain Reaction initiative will s\u2026",
+      "title": "Case Study: Partnering to Build L&M Fleet Supply's New Distribution Center",
+      "link": "https://www.dcvelocity.com/case-study-partnering-to-build-lm-fleet-supply-s-new-distribution-center",
+      "published": "Fri, 06 Nov 2026 21:27:54 +0000",
+      "summary": "<br /><p>L&amp;M Fleet Supply partnered with Storage Solutions to build a new distribution center designed to support continued growth. Despite a tight timeline and complex facility requirements, the project delivered more than 1,000 bays of pallet racking and 13,000 pallet positions.</p><p>Watch th\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "DC Velocity",
+      "category": "sector",
+      "title": "Researchers use satellite imagery to predict climate-related supply chain disruptions",
+      "link": "https://www.dcvelocity.com/technology/supply-chain-it/researchers-use-satellite-imagery-to-predict-climate-related-supply-chain-disruptions",
+      "published": "Thu, 05 Nov 2026 22:06:02 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-trade-show-floor.jpg?id=68607605&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><h3></h3><br /><p>A global research consortium slated to be held in Dubai this month will include research using satellite imagery t\u2026",
       "is_signal": true
     },
     {
@@ -791,7 +813,7 @@
       "title": "Analysts: Democratic midterm election sweep could shift permitting rules, but not tariffs",
       "link": "https://www.dcvelocity.com/transportation/regulation-government/analysts-democratic-midterm-election-sweep-could-shift-permitting-rules-but-not-tariffs",
       "published": "Thu, 05 Nov 2026 17:50:23 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-news-microphones-in-front-of-us-capitol.png?id=68604610&amp;width=1500&amp;height=2000&amp;coordinates=183%2C0%2C184%2C0\" /><br /><br /><h3></h3><br /><p>The U.S. midterm election sweep of the House and Senate by Democrats will doubtless ha\u2026",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-news-microphones-in-front-of-us-capitol.png?id=68604610&amp;width=1200&amp;height=800&amp;coordinates=34%2C0%2C35%2C0\" /><br /><br /><h3></h3><br /><p>The U.S. midterm election sweep of the House and Senate by Democrats will doubtless have \u2026",
       "is_signal": true
     },
     {
@@ -802,7 +824,7 @@
       "title": "Survey: Ports are slow to adopt Port Community System software",
       "link": "https://www.dcvelocity.com/technology/transportation-it/survey-ports-are-slow-to-adopt-port-community-system-software",
       "published": "Thu, 05 Nov 2026 17:42:53 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/drawing-of-a-cargo-ship.png?id=68604591&amp;width=1500&amp;height=2000&amp;coordinates=145%2C0%2C146%2C0\" /><br /><br /><h3></h3><br /><p>Only 5% of respondents said their port has fully implemented a <a href=\"https://globeinst.org/research/port-com\u2026",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/drawing-of-a-cargo-ship.png?id=68604591&amp;width=1200&amp;height=800&amp;coordinates=0%2C66%2C0%2C67\" /><br /><br /><h3></h3><br /><p>Only 5% of respondents said their port has fully implemented a <a href=\"https://globeinst.org/research/port-commun\u2026",
       "is_signal": false
     },
     {
@@ -813,29 +835,7 @@
       "title": "Humanoid robot manufacturer Agility goes public on NASDAQ",
       "link": "https://www.dcvelocity.com/material-handling/order-fulfillment-packing/robotic-picking-and-loading/humanoid-robot-manufacturer-agility-goes-public-on-nasdaq",
       "published": "Thu, 05 Nov 2026 17:35:25 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-humanoid-robot-in-a-warehouse.jpg?id=68604555&amp;width=1500&amp;height=2000&amp;coordinates=500%2C0%2C500%2C0\" /><br /><br /><h3></h3><br /><p>The Oregon-based humanoid robot manufacturer <a href=\"https://investors.agilityrobotics.com/news\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "DC Velocity",
-      "category": "sector",
-      "title": "Knapp opens U.S. \u201crobotics and AI innovation hub\u201d",
-      "link": "https://www.dcvelocity.com/material-handling/order-fulfillment-packing/robotic-picking-and-loading/knapp-opens-u-s-robotics-and-ai-innovation-hub",
-      "published": "Wed, 04 Nov 2026 22:03:10 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-knapp-shuttles.jpg?id=68597075&amp;width=1500&amp;height=2000&amp;coordinates=150%2C0%2C150%2C0\" /><br /><br /><h3></h3><br /><p>The Austrian warehouse automation and intelligent fulfillment systems provider <a href=\"https://www.knapp.com/e\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "DC Velocity",
-      "category": "sector",
-      "title": "Survey: one in six say an AI tool has exposed supplier or customer data",
-      "link": "https://www.dcvelocity.com/technology/artificial-intelligence/survey-one-in-six-say-an-ai-tool-has-exposed-supplier-or-customer-data",
-      "published": "Wed, 04 Nov 2026 21:39:20 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/diagram-of-a-warehouse.png?id=68597006&amp;width=1500&amp;height=2000&amp;coordinates=257%2C0%2C257%2C0\" /><br /><br /><h3></h3><br /><p>One in six supply chain, logistics, distribution, and wholesale leaders say their company had an incident in the\u2026",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-humanoid-robot-in-a-warehouse.jpg?id=68604555&amp;width=1200&amp;height=800&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><h3></h3><br /><p>The Oregon-based humanoid robot manufacturer <a href=\"https://investors.agilityrobotics.com/news-rele\u2026",
       "is_signal": true
     },
     {
@@ -953,10 +953,32 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "STB turns UP-NS merger fight into inquiry over shipper intimidation",
-      "link": "https://theloadstar.com/stb-turns-up-ns-merger-fight-into-inquiry-over-shipper-intimidation/",
-      "published": "Thu, 05 Nov 2026 21:47:01 +0000",
-      "summary": "<p>Union Pacific must disclose Jim Vena\u2019s conference video and produce records about possible retaliation. The railroad denies making threats, and regulators have yet to decide whether anyone was intimidated \u2013 or whether the merger review should continue.<br />\nFor a regulator assessing the largest \u2026",
+      "title": "Calmer waters for container spot rates, but \u2018fragile\u2019 Middle East a threat",
+      "link": "https://theloadstar.com/calmer-waters-for-container-spot-rates-but-fragile-middle-east-a-threat/",
+      "published": "Fri, 06 Nov 2026 13:13:01 +0000",
+      "summary": "<p>There was a certain sense of calm about the container spot freight rate market this week, with slight declines on both the transpacific and Asia-Europe trades as capacity constraints eased and demand remained seasonally subdued.<br />\nDrewry\u2019s World Container Index (WCI) recorded a 2% week-on-wee\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Loadstar",
+      "category": "sector",
+      "title": "Freighter capacity divides air cargo fortunes as rates climb",
+      "link": "https://theloadstar.com/freighter-capacity-divides-air-cargo-fortunes-as-rates-climb/",
+      "published": "Fri, 06 Nov 2026 12:58:22 +0000",
+      "summary": "<p>Access \u2013 or not \u2013 to freighter capacity is helping shape air cargo\u2019s fortunes. IAG Cargo, which shed its freighter operations more than a decade ago, lost traffic following cancelled services, while asset-heavy DHL reported double-digit volume growth.<br />\nBut rising rates do not necessarily sig\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Loadstar",
+      "category": "sector",
+      "title": "NYK \u2013 the argument now is over what a normal year looks like",
+      "link": "https://theloadstar.com/nyk-the-argument-now-is-over-what-a-normal-year-looks-like/",
+      "published": "Fri, 06 Nov 2026 12:36:01 +0000",
+      "summary": "<p>NYK has raised its dividend to \u00a5330 a share on a year swollen by the closure of the Strait of Hormuz and strong container rates, but its own guidance has second-half profit falling by more than 40%. Morgan Stanley values the company on a normal year worth less than half of this one and sees a ris\u2026",
       "is_signal": true
     },
     {
@@ -964,21 +986,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Nasdaq plunges into correction territory",
-      "link": "https://theloadstar.com/nasdaq-plunges-into-correction-territory/",
-      "published": "Thu, 05 Nov 2026 16:55:44 +0000",
-      "summary": "<p>CNBC reports:<br />\nThe Nasdaq Composite plummeted on Thursday, erasing the sharp gains from the previous session, as investors accelerated their move away from technology stocks in the wake of the U.S. midterm elections.<br />\nThe tech-heavy Nasdaq declined 3.9% and dipped into correction territ\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Loadstar",
-      "category": "sector",
-      "title": "Detention fees have a simple problem: a bigger bill cannot move a box that cannot move",
-      "link": "https://theloadstar.com/detention-fees-have-a-simple-problem-a-bigger-bill-cannot-move-a-box-that-cannot-move/",
-      "published": "Thu, 05 Nov 2026 16:45:38 +0000",
-      "summary": "<p>The US Federal Maritime Commission wants research into when charges above compensatory cost actually speed cargo movement. For shippers, the critical distinction is between a delay they can prevent and one they cannot.<br />\nA container is ready to leave a terminal, the trucker has an appointment\u2026",
+      "title": "\u2018Carrier selection matters\u2019 when it comes to getting your goods on time",
+      "link": "https://theloadstar.com/carrier-selection-matters-when-it-comes-to-getting-your-goods-on-time/",
+      "published": "Fri, 06 Nov 2026 12:12:10 +0000",
+      "summary": "<p>The Asia-North America tradelane is facing the highest ocean freight disruption risk over the coming weeks.<br />\nReduced carrier capacity and growing difficulty securing bookings threaten shipment reliability, according to WiseTech Global.<br />\nThe company\u2019s November Ocean Freight Risk Outlook,\u2026",
       "is_signal": true
     },
     {
@@ -986,22 +997,11 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Port of Long Beach set to handle record 10m teu this year",
-      "link": "https://theloadstar.com/port-of-long-beach-set-to-handle-record-10m-teu-this-year/",
-      "published": "Thu, 05 Nov 2026 13:18:29 +0000",
-      "summary": "<p>The Californian port of Long Beach is predicted to handle more than 10m teu this year, for the first time.<br />\n\u201cIt\u2019s been a peak year,\u201d Port of Long Beach CEO Noel Hacegaba told The Loadstar on the sidelines of the World Ports Conference in London this week.<br />\n&#8220;This could well be the \u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Loadstar",
-      "category": "sector",
-      "title": "US importers should reconsider farming out customs paperwork, warns CargoTrans",
-      "link": "https://theloadstar.com/us-importers-should-reconsider-farming-out-customs-paperwork-warns-cargotrans/",
-      "published": "Thu, 05 Nov 2026 12:52:09 +0000",
-      "summary": "<p>US importers using &#8216;delivered duty-paid&#8217; (DDP) shipping arrangements face increasing compliance and financial risks, as Customs and Border Protection (CBP) intensifies its scrutiny of foreign importers of record, according to CargoTrans.<br />\nNunzio De Filippis, co-CEO, and Rennie Al\u2026",
-      "is_signal": false
+      "title": "Forget about M\u00e6rsk as the integrator of container logistics",
+      "link": "https://theloadstar.com/forget-about-maersk-as-the-integrator-of-container-logistics/",
+      "published": "Fri, 06 Nov 2026 12:01:02 +0000",
+      "summary": "<p>Today we soft launch our &#8220;Top Analyst Question(s) Award&#8221; drawing from yesterday&#8217;s Q3 26 (YAWWWNNNN) earnings call with M\u00e6rsk, when CEO Vincent Clerc tried to explain why all units are firing on all cylinders, almost a decade after the carrier&#8217;s reorg was disclosed (our exc\u2026",
+      "is_signal": true
     },
     {
       "ticker": null,
@@ -1045,6 +1045,17 @@
       "link": "http://commercialobserver.com/2026/10/prologis-development-acquisitions-industrial-data-centers/",
       "published": "2026-10-15T19:20:59Z",
       "summary": "Prologis executives told investors Thursday the company anticipates putting more shovels in the ground and buying more property after the third quarter of 2026, but also warned that higher interest rates could slow transaction activity. The world\u2019s largest wa\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "PR Newswire UK",
+      "category": "broad",
+      "title": "Cainiao Launches AI and Embodied Intelligence Industry Partnership, Touts World's Largest Real-World Training Network",
+      "link": "https://www.prnewswire.co.uk/news-releases/cainiao-launches-ai-and-embodied-intelligence-industry-partnership-touts-worlds-largest-real-world-training-network-302929590.html",
+      "published": "2026-11-05T18:00:00Z",
+      "summary": "HONG KONG, Nov. 5, 2026 /PRNewswire/ -- Cainiao, a global leader in e-commerce logistics and technology, today launched a new industry partnership initiative for AI and embodied intelligence, opening its global warehouse network to partners to build the world\u2026",
       "is_signal": true
     },
     {
@@ -1116,35 +1127,24 @@
     {
       "ticker": null,
       "company": null,
-      "source": "WWD",
+      "source": "BleepingComputer",
       "category": "broad",
-      "title": "From Cost Center to Profit Defense: Rethinking Retail\u00a0Logistics",
-      "link": "http://wwd.com/sourcing-journal/industry-news/rethinking-retail-logistics-1239342773/",
-      "published": "2026-10-12T13:59:06Z",
-      "summary": "Discover how automated logistics and smart fulfillment can combat rising costs, improve margins, and enhance delivery speed.",
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "published": "2026-11-06T00:56:44Z",
+      "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Digitimes",
+      "category": "broad",
+      "title": "WT Microelectronics expects AI pull-in momentum to last through 2027",
+      "link": "https://www.digitimes.com/news/a20261105PD244/wt-2027-acquisition-electronics-2026.html",
+      "published": "2026-11-06T00:55:00Z",
+      "summary": "Semiconductor distributor WT Microelectronics expects pull-in momentum from the artificial intelligence (AI) supply chain to remain strong from the fourth quarter of 2026 through 2027. Meanwhile, inventory destocking in automotive and industrial chips, exclud\u2026",
       "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Biztoc.com",
-      "category": "broad",
-      "title": "Heartland Express, Inc. Announces Participation in Upcoming Conference",
-      "link": "https://biztoc.com/x/5e45bcfb1e79d4a4",
-      "published": "2026-11-05T01:00:43Z",
-      "summary": "NORTH LIBERTY, Iowa, Nov. 04, 2026 (GLOBE NEWSWIRE) -- Heartland Express, Inc. (Nasdaq: HTLD) announced that Chris Strain, Chief Financial Officer, will present and participate at Baird's 2026 Global Industrial Conference on Thursday, November 12, 2026.\nHeart\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Livemint",
-      "category": "broad",
-      "title": "From tunnel boring machines to rockets and pod taxis, L&T explores new manufacturing bets",
-      "link": "https://www.livemint.com/companies/news/larsen-toubro-new-manufacturing-plans-11793740590114.html",
-      "published": "2026-11-05T00:20:59Z",
-      "summary": "Larsen and Toubro is exploring at least half a dozen new businesses ranging from nuclear fuel rods and tunnel boring machines to rockets and drones and their components",
-      "is_signal": false
     }
   ],
   "weekly_report": null,
