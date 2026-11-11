@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T03:45:09.512023+00:00",
-  "market_date": "November 10, 2026",
+  "last_updated": "2026-11-11T01:20:59.003430+00:00",
+  "market_date": "November 11, 2026",
   "stocks": {
     "PLD": {
       "name": "Prologis",
@@ -8,8 +8,8 @@
       "price": 130.55,
       "prev_close": 126.96,
       "pct_change": 2.83,
-      "market_cap": 126929977344,
-      "dividend_yield": 3.37,
+      "market_cap": 126492459008,
+      "dividend_yield": 3.28,
       "fifty_two_week_high": 153.35,
       "fifty_two_week_low": 121.4,
       "next_earnings": "2027-01-20"
@@ -20,8 +20,8 @@
       "price": 199.26,
       "prev_close": 193.81,
       "pct_change": 2.81,
-      "market_cap": 10714888192,
-      "dividend_yield": 3.61,
+      "market_cap": 10678322176,
+      "dividend_yield": 3.51,
       "fifty_two_week_high": 226.71,
       "fifty_two_week_low": 174.89,
       "next_earnings": "2026-10-21"
@@ -32,8 +32,8 @@
       "price": 54.93,
       "prev_close": 53.76,
       "pct_change": 2.18,
-      "market_cap": 7526716928,
-      "dividend_yield": 3.72,
+      "market_cap": 7530827264,
+      "dividend_yield": 3.64,
       "fifty_two_week_high": 69.88,
       "fifty_two_week_low": 53.27,
       "next_earnings": "2026-10-21"
@@ -44,8 +44,8 @@
       "price": 38.7,
       "prev_close": 37.8,
       "pct_change": 2.38,
-      "market_cap": 8427358720,
-      "dividend_yield": 4.6,
+      "market_cap": 8264037888,
+      "dividend_yield": 4.5,
       "fifty_two_week_high": 42.41,
       "fifty_two_week_low": 32.14,
       "next_earnings": "2026-10-22"
@@ -56,22 +56,10 @@
       "price": 37.44,
       "prev_close": 36.6,
       "pct_change": 2.3,
-      "market_cap": 7366863872,
-      "dividend_yield": 4.23,
+      "market_cap": 7353090048,
+      "dividend_yield": 4.14,
       "fifty_two_week_high": 42.61,
       "fifty_two_week_low": 35.14,
-      "next_earnings": "2026-10-27"
-    },
-    "LXP": {
-      "name": "LXP Industrial Trust",
-      "ticker": "LXP",
-      "price": 61.18,
-      "prev_close": 61.18,
-      "pct_change": 0.0,
-      "market_cap": 3607254016,
-      "dividend_yield": 4.58,
-      "fifty_two_week_high": 61.61,
-      "fifty_two_week_low": 44.17,
       "next_earnings": "2026-10-27"
     },
     "COLD": {
@@ -80,8 +68,8 @@
       "price": 16.06,
       "prev_close": 16.01,
       "pct_change": 0.31,
-      "market_cap": 4607372288,
-      "dividend_yield": 5.75,
+      "market_cap": 4630323200,
+      "dividend_yield": 5.73,
       "fifty_two_week_high": 16.88,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-11-05"
@@ -92,8 +80,8 @@
       "price": 67.36,
       "prev_close": 66.41,
       "pct_change": 1.43,
-      "market_cap": 7392557056,
-      "dividend_yield": 3.43,
+      "market_cap": 7356340224,
+      "dividend_yield": 3.38,
       "fifty_two_week_high": 78.94,
       "fifty_two_week_low": 57.95,
       "next_earnings": "2027-02-03"
@@ -104,8 +92,8 @@
       "price": 55.54,
       "prev_close": 54.83,
       "pct_change": 1.29,
-      "market_cap": 1531312640,
-      "dividend_yield": 13.86,
+      "market_cap": 1518078464,
+      "dividend_yield": 13.68,
       "fifty_two_week_high": 65.38,
       "fifty_two_week_low": 44.58,
       "next_earnings": "2026-11-02"
@@ -116,8 +104,8 @@
       "price": 5.88,
       "prev_close": 5.93,
       "pct_change": -0.84,
-      "market_cap": 393859072,
-      "dividend_yield": 5.07,
+      "market_cap": 405246144,
+      "dividend_yield": 5.1,
       "fifty_two_week_high": 9.43,
       "fifty_two_week_low": 5.01,
       "next_earnings": "2026-10-28"
@@ -130,8 +118,8 @@
       "price": 130.55,
       "prev_close": 126.96,
       "pct_change": 2.83,
-      "market_cap": 126929977344,
-      "dividend_yield": 3.37,
+      "market_cap": 126492459008,
+      "dividend_yield": 3.28,
       "fifty_two_week_high": 153.35,
       "fifty_two_week_low": 121.4,
       "next_earnings": "2027-01-20"
@@ -142,8 +130,8 @@
       "price": 199.26,
       "prev_close": 193.81,
       "pct_change": 2.81,
-      "market_cap": 10714888192,
-      "dividend_yield": 3.61,
+      "market_cap": 10678322176,
+      "dividend_yield": 3.51,
       "fifty_two_week_high": 226.71,
       "fifty_two_week_low": 174.89,
       "next_earnings": "2026-10-21"
@@ -154,8 +142,8 @@
       "price": 38.7,
       "prev_close": 37.8,
       "pct_change": 2.38,
-      "market_cap": 8427358720,
-      "dividend_yield": 4.6,
+      "market_cap": 8264037888,
+      "dividend_yield": 4.5,
       "fifty_two_week_high": 42.41,
       "fifty_two_week_low": 32.14,
       "next_earnings": "2026-10-22"
@@ -163,28 +151,28 @@
   ],
   "top_losers": [
     {
+      "name": "Innovative Industrial Properties",
+      "ticker": "IIPR",
+      "price": 55.54,
+      "prev_close": 54.83,
+      "pct_change": 1.29,
+      "market_cap": 1518078464,
+      "dividend_yield": 13.68,
+      "fifty_two_week_high": 65.38,
+      "fifty_two_week_low": 44.58,
+      "next_earnings": "2026-11-02"
+    },
+    {
       "name": "Americold Realty Trust",
       "ticker": "COLD",
       "price": 16.06,
       "prev_close": 16.01,
       "pct_change": 0.31,
-      "market_cap": 4607372288,
-      "dividend_yield": 5.75,
+      "market_cap": 4630323200,
+      "dividend_yield": 5.73,
       "fifty_two_week_high": 16.88,
       "fifty_two_week_low": 10.1,
       "next_earnings": "2026-11-05"
-    },
-    {
-      "name": "LXP Industrial Trust",
-      "ticker": "LXP",
-      "price": 61.18,
-      "prev_close": 61.18,
-      "pct_change": 0.0,
-      "market_cap": 3607254016,
-      "dividend_yield": 4.58,
-      "fifty_two_week_high": 61.61,
-      "fifty_two_week_low": 44.17,
-      "next_earnings": "2026-10-27"
     },
     {
       "name": "Industrial Logistics Properties Trust",
@@ -192,8 +180,8 @@
       "price": 5.88,
       "prev_close": 5.93,
       "pct_change": -0.84,
-      "market_cap": 393859072,
-      "dividend_yield": 5.07,
+      "market_cap": 405246144,
+      "dividend_yield": 5.1,
       "fifty_two_week_high": 9.43,
       "fifty_two_week_low": 5.01,
       "next_earnings": "2026-10-28"
@@ -205,22 +193,22 @@
       "company": "Prologis",
       "source": "PLD",
       "category": "reit",
-      "title": "Form 8.3 Prologis, Inc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-prologis-inc-135200144.html?.tsrc=rss",
-      "published": "Mon, 09 Nov 2026 13:52:00 +0000",
-      "summary": "LONDON, November 09, 2026-- FORM 8.3",
-      "is_signal": false
+      "title": "Is Prologis (PLD) Below Fair Value After Its $5b ATM Offering?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prologis-pld-below-fair-value-200804760.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 20:08:04 +0000",
+      "summary": "Prologis (PLD) has moved back into the equity market, filing a US$5b at-the-market follow-on offering and immediately placing US$71.8m of common stock with investors. That equity raise drops into a stock that has been treading water in the shorter term, with a 1 month share price return of 0.82% and\u2026",
+      "is_signal": true
     },
     {
       "ticker": "PLD",
       "company": "Prologis",
       "source": "PLD",
       "category": "reit",
-      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-113500571.html?.tsrc=rss",
-      "published": "Mon, 09 Nov 2026 11:35:00 +0000",
-      "summary": "FORM 8.3 PUBLIC OPENING POSITION DISCLOSURE/DEALING DISCLOSURE BYA PERSON WITH INTERESTS IN RELEVANT SECURITIES REPRESENTING 1% OR MORERule 8.3 of the Takeover Code (the \u201cCode\u201d) 1.KEY INFORMATION (a)Full name of discloser:Dimensional Fund Advisors Ltd. whose parent is Dimensional Fund Advisors LP, a\u2026",
-      "is_signal": false
+      "title": "Prologis (PLD) Stock Appears Fairly Valued After A 40% Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prologis-pld-stock-appears-fairly-190924273.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:09:24 +0000",
+      "summary": "Prologis has quietly put up a 40.3% share price gain over the past three years, which naturally raises the question of whether the current US$130.55 level lines up with the cash that its properties are expected to generate. With fresh development projects and shifting logistics needs shaping expecta\u2026",
+      "is_signal": true
     },
     {
       "ticker": "PLD",
@@ -228,9 +216,9 @@
       "source": "PLD",
       "category": "reit",
       "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-070000311.html?.tsrc=rss",
-      "published": "Mon, 09 Nov 2026 07:00:00 +0000",
-      "summary": "LONDON, November 09, 2026-- FORM 8.3",
+      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-140200724.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 14:02:00 +0000",
+      "summary": "LONDON, November 10, 2026-- FORM 8.3",
       "is_signal": false
     },
     {
@@ -238,11 +226,22 @@
       "company": "Prologis",
       "source": "PLD",
       "category": "reit",
-      "title": "Prologis (PLD) Forms Joint Venture To Redevelop Former Joliet Casino Site",
-      "link": "https://finance.yahoo.com/real-estate/articles/prologis-pld-forms-joint-venture-021548301.html?.tsrc=rss",
-      "published": "Sun, 08 Nov 2026 02:15:48 +0000",
-      "summary": "Prologis (NYSE:PLD) has formed a joint venture with Gaming and Leisure Properties, Inc. to redevelop the former Hollywood Casino Joliet site. The partners plan to turn the Illinois property into a large-scale warehouse and distribution park aimed at modern logistics users. The project marks Gaming a\u2026",
-      "is_signal": true
+      "title": "Form 8.3 Prologis, Inc",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-prologis-inc-135100530.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 13:51:00 +0000",
+      "summary": "LONDON, November 10, 2026-- FORM 8.3",
+      "is_signal": false
+    },
+    {
+      "ticker": "EGP",
+      "company": "EastGroup Properties",
+      "source": "EGP",
+      "category": "reit",
+      "title": "SHO vs. EGP: Which Stock Is the Better Value Option?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sho-vs-egp-stock-better-193809062.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 19:38:09 +0000",
+      "summary": "SHO vs. EGP: Which Stock Is the Better Value Option?",
+      "is_signal": false
     },
     {
       "ticker": "EGP",
@@ -275,17 +274,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/eastgroup-properties-egp-stock-slips-201254126.html?.tsrc=rss",
       "published": "Fri, 23 Oct 2026 20:12:54 +0000",
       "summary": "EastGroup Properties stock slipped about 2% to US$199.09 by the close on Friday, even though its Q3 2026 release delivered another clean beat in the areas that are typically most important for a real estate investment trust. Funds From Operations per share came in at US$2.45 and management lifted fu\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "EGP",
-      "company": "EastGroup Properties",
-      "source": "EGP",
-      "category": "reit",
-      "title": "Warehouse Demand Is Heating Up. These 4 REITs Pay Investors to Own the Space",
-      "link": "https://247wallst.com/investing/2026/10/23/warehouse-demand-is-heating-up-these-4-reits-pay-investors-to-own-the-space/?.tsrc=rss",
-      "published": "Fri, 23 Oct 2026 11:45:54 +0000",
-      "summary": "Warehouse landlords are raising rents, cutting deals, and collecting checks while most investors overlook the industrial corner of the REIT market. Four names stand out, but one carries a risk hiding behind its highest yield.",
       "is_signal": true
     },
     {
@@ -469,6 +457,17 @@
       "company": "Americold Realty Trust",
       "source": "COLD",
       "category": "reit",
+      "title": "Lineage sees cold storage inventories stabilize after capacity reductions",
+      "link": "https://finance.yahoo.com/real-estate/articles/lineage-sees-cold-storage-inventories-154717662.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 15:47:17 +0000",
+      "summary": "Temperature-controlled warehouse operator Lineage reported on its third-quarter call Tuesday that customer inventories have stabilized at lower levels and that it continues shuttering underutilized facilities to tighten supply and reduce debt leverage. The post Lineage sees cold storage inventories \u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "COLD",
+      "company": "Americold Realty Trust",
+      "source": "COLD",
+      "category": "reit",
       "title": "What Americold Realty Trust (COLD) Said on Its Q3 Earnings Call",
       "link": "https://www.marketbeat.com/instant-alerts/transcript-what-americold-realty-trust-cold-said-on-its-q3-earnings-call-2026-11-06/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "published": "Sat, 07 Nov 2026 04:14:44 +0000",
@@ -498,15 +497,15 @@
       "is_signal": true
     },
     {
-      "ticker": "COLD",
-      "company": "Americold Realty Trust",
-      "source": "COLD",
+      "ticker": "TRNO",
+      "company": "Terreno Realty",
+      "source": "TRNO",
       "category": "reit",
-      "title": "Americold (COLD) Q3 2026 Earnings Call Transcript",
-      "link": "https://www.fool.com/earnings/call-transcripts/2026/11/05/americold-cold-q3-2026-earnings-call-transcript/?.tsrc=rss",
-      "published": "Thu, 05 Nov 2026 21:03:17 +0000",
-      "summary": "Record margins and a debt paydown, but management stays cautious on demand.",
-      "is_signal": true
+      "title": "Terreno Realty Corporation Acquires Property in South San Francisco, CA for $19.0 Million",
+      "link": "https://finance.yahoo.com/real-estate/articles/terreno-realty-corporation-acquires-property-141500874.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 14:15:00 +0000",
+      "summary": "BELLEVUE, Wash., November 10, 2026--Terreno Realty Corporation Acquires Property in South San Francisco, CA for $19.0 Million",
+      "is_signal": false
     },
     {
       "ticker": "TRNO",
@@ -542,15 +541,26 @@
       "is_signal": true
     },
     {
-      "ticker": "TRNO",
-      "company": "Terreno Realty",
-      "source": "TRNO",
+      "ticker": "IIPR",
+      "company": "Innovative Industrial Properties",
+      "source": "IIPR",
       "category": "reit",
-      "title": "Is Terreno Realty (TRNO) Fully Valued Following Its Buyback And Mixed Q3 Results?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/terreno-realty-trno-fully-valued-111034981.html?.tsrc=rss",
-      "published": "Sat, 07 Nov 2026 11:10:34 +0000",
-      "summary": "Terreno Realty (TRNO) is back in focus after management introduced a new share repurchase program of up to 3,000,000 shares through 2028 and reported mixed third quarter results, with higher sales but lower net income. Terreno Realty\u2019s latest moves come after a year in which the share price has rise\u2026",
+      "title": "Innovative Industrial: 3 Key Takeaways for Long-Term Investors",
+      "link": "https://www.fool.com/earnings/takeaways/2026/11/10/innovative-industrial-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 18:20:02 +0000",
+      "summary": "Re-tenanting six vacant properties expanded leasing momentum, while a shift toward life science real estate reshapes where future income will come from.",
       "is_signal": true
+    },
+    {
+      "ticker": "IIPR",
+      "company": "Innovative Industrial Properties",
+      "source": "IIPR",
+      "category": "reit",
+      "title": "Innovative Industrial Properties (IIPR) Just Overtook the 200-Day Moving Average",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-iipr-just-133002626.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 13:30:02 +0000",
+      "summary": "When a stock breaks out above the 200-day simple moving average, good things could be on the horizon. How should investors react?",
+      "is_signal": false
     },
     {
       "ticker": "IIPR",
@@ -572,28 +582,6 @@
       "link": "https://www.marketbeat.com/instant-alerts/transcript-innovative-industrial-properties-q3-earnings-call-highlights-2026-11-03/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "published": "Tue, 03 Nov 2026 23:14:05 +0000",
       "summary": "Innovative Industrial Properties (NYSE:IIPR) reported higher third-quarter revenue and adjusted funds from operations, supported by new leasing activity, rent recoveries and growing income from its life science investments. The cannabis-focused real estate investment trust also outlined further effo",
-      "is_signal": true
-    },
-    {
-      "ticker": "IIPR",
-      "company": "Innovative Industrial Properties",
-      "source": "IIPR",
-      "category": "reit",
-      "title": "Innovative Industrial (IIPR) Q3 2026 Earnings Call Transcript",
-      "link": "https://www.fool.com/earnings/call-transcripts/2026/11/03/innovative-industrial-iipr-q3-2026-earnings-call-transcript/?.tsrc=rss",
-      "published": "Tue, 03 Nov 2026 21:00:12 +0000",
-      "summary": "Life science bets and re-leasing lifted AFFO per share 7% sequentially",
-      "is_signal": true
-    },
-    {
-      "ticker": "IIPR",
-      "company": "Innovative Industrial Properties",
-      "source": "IIPR",
-      "category": "reit",
-      "title": "Innovative Industrial Properties: Q3 Earnings Snapshot",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/innovative-industrial-properties-q3-earnings-042716598.html?.tsrc=rss",
-      "published": "Tue, 03 Nov 2026 04:27:16 +0000",
-      "summary": "PARK CITY, Utah (AP) \u2014 PARK CITY, Utah (AP) \u2014 Innovative Industrial Properties, Inc. (IIPR) on Monday reported a key measure of profitability in its third quarter.",
       "is_signal": true
     },
     {
@@ -733,6 +721,50 @@
       "company": null,
       "source": "Supply Chain Dive",
       "category": "sector",
+      "title": "Canada Goose will revisit pricing to blunt tariffs next year, CFO says",
+      "link": "https://www.supplychaindive.com/news/canada-goose-will-revisit-pricing-to-blunt-tariffs-next-year-cfo-says/874196/",
+      "published": "Tue, 10 Nov 2026 10:11:00 -0500",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/IOsusJHuCnGwM6OBOcA3dl4kY4duo22-cnzY071OS2o/g:nowe:0:5/c:421:238/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MDg1MTMzMzRfMS5qcGc=.webp\" /></div></figure><p>The Toronto-based luxury apparel company worked hard to g\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Supply Chain Dive",
+      "category": "sector",
+      "title": "Apparel shipper expands US fulfillment operations to skirt de minimis\u2019 end",
+      "link": "https://www.supplychaindive.com/news/apparel-shipper-expands-us-fulfillment-operations-to-skirt-de-minimis-end/874073/",
+      "published": "Tue, 10 Nov 2026 09:54:00 -0500",
+      "summary": "<p>Australia-based OTAA, which makes ties and cufflinks, is fulfilling U.S. orders from a facility in Longview, Texas, through a partnership with Cart.com.</p>",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Supply Chain Dive",
+      "category": "sector",
+      "title": "Amazon, alternative carriers gained parcel volume in 2026\u2019s first half",
+      "link": "https://www.supplychaindive.com/news/amazon-alternative-carriers-gained-parcel-volume-in-2026s-first-half/873932/",
+      "published": "Tue, 10 Nov 2026 09:27:00 -0500",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/W8otGYCEhmqVZWYWnlWpCPOyS7hXi-N1JStferVYYdQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDMzMTAwNjA1LmpwZw==.webp\" /></div></figure><p>The e-commerce giant has continued to grab market share as it relies less\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Supply Chain Dive",
+      "category": "sector",
+      "title": "Deere to end production at 2 Iowa plants to align with demand",
+      "link": "https://www.supplychaindive.com/news/deere-to-end-production-at-2-iowa-plants-to-align-with-demand/874059/",
+      "published": "Tue, 10 Nov 2026 07:01:00 -0500",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/qv_-T_xtWWGxtclNaKZQeWzHZkMnFkTHByb7nfvAbdM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMyMjM2OTM2LmpwZw==.webp\" /></div></figure><p>The heavy equipment maker also plans to shift some production from factor\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Supply Chain Dive",
+      "category": "sector",
       "title": "Zipline raises $1.5B, plans US drone manufacturing expansion",
       "link": "https://www.supplychaindive.com/news/zipline-raises-15b-plans-us-drone-manufacturing-expansion/874009/",
       "published": "Mon, 09 Nov 2026 11:01:00 -0500",
@@ -742,46 +774,13 @@
     {
       "ticker": null,
       "company": null,
-      "source": "Supply Chain Dive",
+      "source": "DC Velocity",
       "category": "sector",
-      "title": "How Chili\u2019s supply chain improvements are helping menu consistency",
-      "link": "https://www.supplychaindive.com/news/how-chilis-supply-chain-improvements-are-helping-menu-consistency/874109/",
-      "published": "Mon, 09 Nov 2026 10:42:00 -0500",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/aZ3nAQuDgijApOeubmtGSFsNtmbS0gBdNlnnzHu7kJA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5ODE5MjY3LmpwZw==.webp\" /></div></figure><p>&nbsp;CSCO James Butler has reordered Chili&rsquo;s supply chain prioriti\u2026",
+      "title": "A unifying voice",
+      "link": "https://www.dcvelocity.com/technology/a-unifying-voice",
+      "published": "Tue, 10 Nov 2026 14:00:04 +0000",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/audio-wave-image.jpg?id=68635435&amp;width=1245&amp;height=700&amp;coordinates=2%2C0%2C2%2C0\" /><br /><br /><p>Warehouses are becoming more automated by the day, with many combining an ever-wider selection of material handling equipment and technolo\u2026",
       "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Supply Chain Dive",
-      "category": "sector",
-      "title": "UP CEO\u2019s rate threat adds wrinkle to Norfolk Southern merger process",
-      "link": "https://www.supplychaindive.com/news/up-ceos-rate-threat-adds-wrinkle-to-norfolk-southern-merger-process/874006/",
-      "published": "Fri, 06 Nov 2026 14:49:00 -0500",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ZPSG2232KRqHQ5pnNRsOCIIAWWOYUW77fnkMKGoq-mo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzAyOTQ2ODg0LmpwZw==.webp\" /></div></figure><p>The railroad said Jim Vena&rsquo;s remarks that he would raise rates on s\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Supply Chain Dive",
-      "category": "sector",
-      "title": "Aurora\u2019s truck production schedule delayed by supply, quality issues",
-      "link": "https://www.supplychaindive.com/news/auroras-truck-production-schedule-delayed-by-supply-quality-issues/873995/",
-      "published": "Fri, 06 Nov 2026 10:54:00 -0500",
-      "summary": "<p>The autonomous trucking company is working with Roush to upfit trucks, and despite the delay, still expects to have more than 1,000 trucks ready by the end of 2027.</p>",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Supply Chain Dive",
-      "category": "sector",
-      "title": "Lear to open automated factory as \u2018blueprint\u2019 for global network",
-      "link": "https://www.supplychaindive.com/news/lear-to-open-automated-factory-as-blueprint-for-global-network/873888/",
-      "published": "Fri, 06 Nov 2026 09:43:00 -0500",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/sqHcsuWhTPKu0DByEMQH_-Qsy4Ph2VgHA2EbEd8hbBw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MzI3NTc2NC5qcGc=.webp\" /></div></figure><p>The Michigan facility is expected to go live next year and be equipped with a\u2026",
-      "is_signal": false
     },
     {
       "ticker": null,
@@ -791,7 +790,7 @@
       "title": "Machine tool demand hits record high",
       "link": "https://www.dcvelocity.com/editorial/featured/machine-tool-demand-hits-record-high",
       "published": "Mon, 09 Nov 2026 20:59:08 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/image.jpg?id=68643039&amp;width=1200&amp;height=400&amp;coordinates=0%2C147%2C0%2C147\" /><br /><br /><h3></h3><br /><p>Manufacturers and machine shops booked more than $1 billion in new orders for metalworking machinery in September, setting a recor\u2026",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/image.jpg?id=68643039&amp;width=1245&amp;height=700&amp;coordinates=0%2C0%2C0%2C0\" /><br /><br /><h3></h3><br /><p>Manufacturers and machine shops booked more than $1 billion in new orders for metalworking machinery in September, setting a record fo\u2026",
       "is_signal": false
     },
     {
@@ -802,7 +801,7 @@
       "title": "NRF: Import cargo still strong at end of tariff-extended peak season",
       "link": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/nrf-import-cargo-still-strong-at-end-of-tariff-extended-peak-season",
       "published": "Mon, 09 Nov 2026 19:10:51 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/graph-of-imports.png?id=68642412&amp;width=1200&amp;height=400&amp;coordinates=0%2C256%2C0%2C257\" /><br /><br /><h3></h3><br /><p>Import volume at the nation\u2019s major container ports is expected to taper off for the remainder of the year following an\u2026",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/graph-of-imports.png?id=68642412&amp;width=1245&amp;height=700&amp;coordinates=0%2C70%2C0%2C71\" /><br /><br /><h3></h3><br /><p>Import volume at the nation\u2019s major container ports is expected to taper off for the remainder of the year following an e\u2026",
       "is_signal": true
     },
     {
@@ -813,7 +812,7 @@
       "title": "FTR: trucking market eased slightly in September, but future looks good",
       "link": "https://www.dcvelocity.com/transportation/trucking/ftr-trucking-market-eased-slightly-in-september-but-future-looks-good",
       "published": "Mon, 09 Nov 2026 19:08:50 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-trucks.png?id=68642410&amp;width=1200&amp;height=400&amp;coordinates=0%2C141%2C0%2C141\" /><br /><br /><h3></h3><br /><p>Business conditions in the trucking market eased slightly in September due to soaring diesel fuel prices, but remained s\u2026",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photo-of-trucks.png?id=68642410&amp;width=1245&amp;height=700&amp;coordinates=0%2C44%2C0%2C45\" /><br /><br /><h3></h3><br /><p>Business conditions in the trucking market eased slightly in September due to soaring diesel fuel prices, but remained sol\u2026",
       "is_signal": false
     },
     {
@@ -824,19 +823,8 @@
       "title": "AutoStore to acquire Dutch AS/RS company for $33 million",
       "link": "https://www.dcvelocity.com/material-handling/storage/as-rs-shuttles/autostore-to-acquire-dutch-as-rs-company-for-33-million",
       "published": "Mon, 09 Nov 2026 19:05:08 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photograph-of-as-rs-system.png?id=68642392&amp;width=1200&amp;height=400&amp;coordinates=0%2C367%2C0%2C368\" /><br /><br /><h3></h3><br /><p>The Norwegian warehouse automation vendor AutoStore <a href=\"https://www.autostoresystem.com/news/autostore-t\u2026",
+      "summary": "<img src=\"https://www.dcvelocity.com/media-library/photograph-of-as-rs-system.png?id=68642392&amp;width=1245&amp;height=700&amp;coordinates=0%2C210%2C0%2C211\" /><br /><br /><h3></h3><br /><p>The Norwegian warehouse automation vendor AutoStore <a href=\"https://www.autostoresystem.com/news/autostore-t\u2026",
       "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "DC Velocity",
-      "category": "sector",
-      "title": "Cargo theft drives need for \u201ccybershields\u201d",
-      "link": "https://www.dcvelocity.com/transportation/cargo-theft-drives-need-for-cybershields",
-      "published": "Mon, 09 Nov 2026 17:01:54 +0000",
-      "summary": "<img src=\"https://www.dcvelocity.com/media-library/cargo-theft-illustration.jpg?id=68635425&amp;width=1200&amp;height=400&amp;coordinates=0%2C57%2C0%2C58\" /><br /><br /><p>Cargo theft is on the rise, and we\u2019re not just talking about small-scale shoplifting. Across the globe, entire trailers and cont\u2026",
-      "is_signal": false
     },
     {
       "ticker": null,
@@ -953,32 +941,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "HMM Platinum general average adds to cargo woes, as search for refuge drags on",
-      "link": "https://theloadstar.com/hmm-platinum-general-average-adds-to-cargo-woes-as-search-for-refuge-drags-on/",
-      "published": "Mon, 09 Nov 2026 17:14:18 +0000",
-      "summary": "<p>HMM has declared general average following the fire aboard the HMM Platinum, generating a slew of new hurdles for cargo owners, with the carrier still seeking a port of refuge for the vessel, which has spent the past month anchored off the South African coast.<br />\nKorhi Average Adjusters &#38; \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Loadstar",
-      "category": "sector",
-      "title": "\u2018Multi-node supply chains\u2019 are the future, in a \u2018multi-polar pharma world\u2019",
-      "link": "https://theloadstar.com/multi-node-supply-chains-are-the-future-in-a-multi-polar-pharma-world/",
-      "published": "Mon, 09 Nov 2026 12:47:27 +0000",
-      "summary": "<p>China, India, and the Middle East are all playing their role in shifting the geographical centre of production and innovation, the three regions emerging as particularly important to the global pharmaceutical supply chain<br />\nFrank van Gelder, secretary general of Pharma.Aero, said a fracturing\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Loadstar",
-      "category": "sector",
-      "title": "Driverless trucking\u2019s carriers start to sign \u2013 next test: which signatures bind",
-      "link": "https://theloadstar.com/driverless-truckings-carriers-start-to-sign-next-test-which-signatures-bind/",
-      "published": "Mon, 09 Nov 2026 12:38:04 +0000",
-      "summary": "<p>A month after the debate started shifting from whether a truck can drive itself to whether the business can scale, carriers are committing to own driverless trucks themselves: Kodiak has a binding agreement for 75 trucks, Aurora non-binding plans covering 1,000. Turning those plans into trucks de\u2026",
+      "title": "Profit bonanza redux: is it time to kill the shipping tonnage tax?",
+      "link": "https://theloadstar.com/profit-bonanza-is-it-time-to-kill-the-shipping-tonnage-tax/",
+      "published": "Tue, 10 Nov 2026 22:26:05 +0000",
+      "summary": "<p>Container shipping lines have learned how to manage capacity, print billions, and pay single-digit tax rates \u2014 all under a regime originally designed to protect a fragmented, loss-making industry that has changed profoundly. Maersk&#8217;s Q3 interims released last week are the latest exhibit for\u2026",
       "is_signal": false
     },
     {
@@ -986,10 +952,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Bangkok cargo backlog spreads to exports as airlines restrict inbound freight",
-      "link": "https://theloadstar.com/bangkok-cargo-backlog-spreads-to-exports-as-airlines-restrict-inbound-freight/",
-      "published": "Mon, 09 Nov 2026 12:26:19 +0000",
-      "summary": "<p>A backlog at Thai Airways\u2019 cargo warehouse at Bangkok Suvarnabhumi is disrupting imports and exports, prompting airlines to restrict Bangkok-bound freight.<br />\nAirline accounts on Thursday reported more than 1,000 outstanding cargo lots and 700\u2013800 pallets awaiting breakdown. Neither Thai Airwa\u2026",
+      "title": "Aramex sets new quarterly revenue record led by growth in freight forwarding",
+      "link": "https://theloadstar.com/aramex-sets-new-quarterly-revenue-record-led-by-growth-in-freight-forwarding/",
+      "published": "Tue, 10 Nov 2026 20:00:26 +0000",
+      "summary": "<p>PRESS RELEASE\u00a0<br />\nAramex Sets New Quarterly Revenue Record for Second Consecutive Quarter at AED 1.98 Billion, Led by Freight Forwarding Growth<br />\n9 Nov 2026\u00a0<br />\n\u2013 Second consecutive quarter of record revenue: Aramex reported Group revenue of AED 1.98 billion in Q3 2026, up 24% year-on-y\u2026",
       "is_signal": true
     },
     {
@@ -997,10 +963,32 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Hapag\u2019s ASX will reverse December Asia-ECSA capacity squeeze",
-      "link": "https://theloadstar.com/hapags-asx-will-reverse-december-asia-ecsa-capacity-squeeze/",
-      "published": "Mon, 09 Nov 2026 12:15:28 +0000",
-      "summary": "<p>On the question of whether the ASX replaces the AS3, the rotations point the other way. Together they give Hapag-Lloyd two weekly sailings into the same four Brazilian gateways, each fed from a different Chinese catchment \u2013 imitating how CMA CGM and its Ocean Alliance partners pair SEAS 2 and SEA\u2026",
+      "title": "El Ni\u00f1o transport chaos hits LatAm perishables exports",
+      "link": "https://theloadstar.com/el-nino-transport-chaos-hits-latam-perishables-exports/",
+      "published": "Tue, 10 Nov 2026 17:00:31 +0000",
+      "summary": "<p>When it rains, it pours. Agriculture exporters in Latin America\u2019s southern cone have struggled with headwinds from weather hitting crops as well as transport routes, on top of gateway problems and high transport costs.<br />\nChile\u2019s cherry export season got off to a rocky start when truckers stag\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Loadstar",
+      "category": "sector",
+      "title": "Cargo surge and port congestion send Far East\u2013Middle East rates climbing",
+      "link": "https://theloadstar.com/cargo-surge-and-port-congestion-send-far-east-middle-east-rates-climbing/",
+      "published": "Tue, 10 Nov 2026 15:00:31 +0000",
+      "summary": "<p>Freight rates from Asia to Gulf economies trapped behind the straits of Hormuz hit unprecedented highs during this year\u2019s peak season as importers rushed to get cargo into the region, prompting another wave of port congestion.<br />\nAccording to new data from Container Trades Statistics (CTS), pr\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Loadstar",
+      "category": "sector",
+      "title": "Shenzhen belly cargo ban threatens peak-season squeeze at other gateways",
+      "link": "https://theloadstar.com/shenzhen-air-cargo-restrictions-ahead-of-apec-threaten-peak-shipments/",
+      "published": "Tue, 10 Nov 2026 12:56:37 +0000",
+      "summary": "<p>International belly-cargo operations at Shenzhen will be suspended during next week\u2019s APEC summit, while sharply reduced freighter slots threaten to divert peak-season shipments into neighbouring airports.<br />\nThe restrictions affect imports and exports through mainland China\u2019s third-largest ca\u2026",
       "is_signal": false
     },
     {
@@ -1127,23 +1115,23 @@
     {
       "ticker": null,
       "company": null,
-      "source": "Biztoc.com",
+      "source": "Digitimes",
       "category": "broad",
-      "title": "China CPI inflation misses forecasts in Oct; factory-gate prices accelerate",
-      "link": "https://biztoc.com/x/f6e59745fb68adaf",
-      "published": "2026-11-09T03:08:20Z",
-      "summary": "Investing.com-- China's consumer inflation slowed more than expected in October, while producer price inflation accelerated to its strongest pace in more than four years, highlighting the divergence between subdued domestic demand and rising industrial costs.\u2026",
+      "title": "Inside Huawei's 100% domestic desktop: How China is accelerating supply chain self-reliance",
+      "link": "https://www.digitimes.com/news/a20261109VL225/huawei-harmonyos-supply-chain-desktop-2026.html",
+      "published": "2026-11-10T01:19:05Z",
+      "summary": "At the HarmonyOS Office Industry Summit 2026, Huawei introduced the Qingyun HM650, its first HarmonyOS desktop PC built entirely with domestic components. The HM650 represents a major milestone for both Huawei and China's broader technology sector, demonstrat\u2026",
       "is_signal": true
     },
     {
       "ticker": null,
       "company": null,
-      "source": "PR Newswire UK",
+      "source": "The Punch",
       "category": "broad",
-      "title": "Xinhua Silk Road: Overseas media representatives visit Xiaomi's smart auto factory in Beijing",
-      "link": "https://www.prnewswire.co.uk/news-releases/xinhua-silk-road-overseas-media-representatives-visit-xiaomis-smart-auto-factory-in-beijing-302932854.html",
-      "published": "2026-11-09T02:47:00Z",
-      "summary": "BEIJING, Nov. 9, 2026 /PRNewswire/ -- On November 6, media representatives from various countries and regions visited Xiaomi's smart auto factory in southeast Beijing, exploring firsthand Xiaomi's achievements in NEV R&D, intelligent manufacturing and ecosyst\u2026",
+      "title": "Developer, residents propose industrial pump to tackle Lagos estate flooding",
+      "link": "https://punchng.com/developer-residents-propose-industrial-pump-to-tackle-lagos-estate-flooding/",
+      "published": "2026-11-10T00:55:38Z",
+      "summary": "A developer and residents of Osborne Foreshore Phase II Estate in Ikoyi, Lagos, have proposed an industrial pump and reservoir to tackle recurring flooding\n\nRead More: https://punchng.com/developer-residents-propose-industrial-pump-to-tackle-lagos-estate-floo\u2026",
       "is_signal": false
     },
     {
@@ -1151,11 +1139,22 @@
       "company": null,
       "source": "Biztoc.com",
       "category": "broad",
-      "title": "US Warns Of Ongoing Cyber Threat To Industrial Freezers And Cold Storage",
-      "link": "https://biztoc.com/x/ca3c2a904926007f",
-      "published": "2026-11-09T02:36:55Z",
-      "summary": "US Warns Of Ongoing Cyber Threat To Industrial Freezers And Cold Storage\n \nAuthored by Kimberly Hayek via The Epoch Times,\nFederal agencies warned Thursday that hackers are targeting refrigeration systems used to store food and medicine, urging businesses to \u2026",
+      "title": "ATS to Participate in the Baird 2026 Global Industrial Conference",
+      "link": "https://biztoc.com/x/4a61b726ac559180",
+      "published": "2026-11-10T00:51:35Z",
+      "summary": "CAMBRIDGE, Ontario, November 10, 2026--(BUSINESS WIRE)--ATS Corporation (TSX: ATS) (NYSE: ATS) (\"ATS\" or the \"Company\") today announced that Doug Wright, Chief Executive Officer, and Anne Cybulski, Interim Chief Financial Officer, will participate in the Bair\u2026",
       "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Punch",
+      "category": "broad",
+      "title": "Business leaders eye UAE investment in SMEs, others",
+      "link": "https://punchng.com/business-leaders-eye-uae-investment-in-smes-others/",
+      "published": "2026-11-10T00:39:54Z",
+      "summary": "Nigerian business leaders have identified manufacturing, renewable energy, and agriculture as key sectors for increased investment from the United Arab Emi\n\nRead More: https://punchng.com/business-leaders-eye-uae-investment-in-smes-others/",
+      "is_signal": true
     }
   ],
   "weekly_report": null,
