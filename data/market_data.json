@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-26T03:43:39.018077+00:00",
-  "market_date": "November 26, 2026",
+  "last_updated": "2026-11-27T03:42:14.494467+00:00",
+  "market_date": "November 27, 2026",
   "stocks": {
     "PLD": {
       "name": "Prologis",
@@ -9,7 +9,7 @@
       "prev_close": 127.32,
       "pct_change": -0.23,
       "market_cap": 123507580928,
-      "dividend_yield": 3.36,
+      "dividend_yield": 3.37,
       "fifty_two_week_high": 153.35,
       "fifty_two_week_low": 122.18,
       "next_earnings": "2027-01-20"
@@ -21,7 +21,7 @@
       "prev_close": 200.56,
       "pct_change": 0.19,
       "market_cap": 10805477376,
-      "dividend_yield": 3.49,
+      "dividend_yield": 3.48,
       "fifty_two_week_high": 226.71,
       "fifty_two_week_low": 176.7,
       "next_earnings": "2027-02-03"
@@ -33,7 +33,7 @@
       "prev_close": 55.15,
       "pct_change": 0.92,
       "market_cap": 7626744320,
-      "dividend_yield": 3.63,
+      "dividend_yield": 3.59,
       "fifty_two_week_high": 69.88,
       "fifty_two_week_low": 53.0,
       "next_earnings": "2027-02-10"
@@ -46,7 +46,7 @@
       "pct_change": -0.16,
       "market_cap": 8004901376,
       "dividend_yield": 4.73,
-      "fifty_two_week_high": 42.06,
+      "fifty_two_week_high": 41.96,
       "fifty_two_week_low": 32.14,
       "next_earnings": "2027-02-03"
     },
@@ -57,7 +57,7 @@
       "prev_close": 37.6,
       "pct_change": 0.93,
       "market_cap": 7467213824,
-      "dividend_yield": 4.12,
+      "dividend_yield": 4.08,
       "fifty_two_week_high": 42.61,
       "fifty_two_week_low": 35.14,
       "next_earnings": "2027-02-10"
@@ -69,9 +69,9 @@
       "prev_close": 16.09,
       "pct_change": 0.68,
       "market_cap": 4647753728,
-      "dividend_yield": 5.72,
+      "dividend_yield": 5.68,
       "fifty_two_week_high": 16.92,
-      "fifty_two_week_low": 10.49,
+      "fifty_two_week_low": 10.51,
       "next_earnings": "2027-02-18"
     },
     "TRNO": {
@@ -81,7 +81,7 @@
       "prev_close": 67.37,
       "pct_change": -0.45,
       "market_cap": 7360730112,
-      "dividend_yield": 3.38,
+      "dividend_yield": 3.4,
       "fifty_two_week_high": 78.94,
       "fifty_two_week_low": 57.95,
       "next_earnings": "2027-02-03"
@@ -93,7 +93,7 @@
       "prev_close": 47.62,
       "pct_change": -0.42,
       "market_cap": 1307410176,
-      "dividend_yield": 15.96,
+      "dividend_yield": 16.03,
       "fifty_two_week_high": 65.38,
       "fifty_two_week_low": 44.853,
       "next_earnings": "2027-02-22"
@@ -105,7 +105,7 @@
       "prev_close": 5.71,
       "pct_change": 0.88,
       "market_cap": 385821120,
-      "dividend_yield": 5.25,
+      "dividend_yield": 5.21,
       "fifty_two_week_high": 9.43,
       "fifty_two_week_low": 5.13,
       "next_earnings": "2027-02-17"
@@ -119,7 +119,7 @@
       "prev_close": 37.6,
       "pct_change": 0.93,
       "market_cap": 7467213824,
-      "dividend_yield": 4.12,
+      "dividend_yield": 4.08,
       "fifty_two_week_high": 42.61,
       "fifty_two_week_low": 35.14,
       "next_earnings": "2027-02-10"
@@ -131,7 +131,7 @@
       "prev_close": 55.15,
       "pct_change": 0.92,
       "market_cap": 7626744320,
-      "dividend_yield": 3.63,
+      "dividend_yield": 3.59,
       "fifty_two_week_high": 69.88,
       "fifty_two_week_low": 53.0,
       "next_earnings": "2027-02-10"
@@ -143,7 +143,7 @@
       "prev_close": 5.71,
       "pct_change": 0.88,
       "market_cap": 385821120,
-      "dividend_yield": 5.25,
+      "dividend_yield": 5.21,
       "fifty_two_week_high": 9.43,
       "fifty_two_week_low": 5.13,
       "next_earnings": "2027-02-17"
@@ -157,7 +157,7 @@
       "prev_close": 127.32,
       "pct_change": -0.23,
       "market_cap": 123507580928,
-      "dividend_yield": 3.36,
+      "dividend_yield": 3.37,
       "fifty_two_week_high": 153.35,
       "fifty_two_week_low": 122.18,
       "next_earnings": "2027-01-20"
@@ -169,7 +169,7 @@
       "prev_close": 47.62,
       "pct_change": -0.42,
       "market_cap": 1307410176,
-      "dividend_yield": 15.96,
+      "dividend_yield": 16.03,
       "fifty_two_week_high": 65.38,
       "fifty_two_week_low": 44.853,
       "next_earnings": "2027-02-22"
@@ -181,7 +181,7 @@
       "prev_close": 67.37,
       "pct_change": -0.45,
       "market_cap": 7360730112,
-      "dividend_yield": 3.38,
+      "dividend_yield": 3.4,
       "fifty_two_week_high": 78.94,
       "fifty_two_week_low": 57.95,
       "next_earnings": "2027-02-03"
@@ -194,9 +194,9 @@
       "source": "PLD",
       "category": "reit",
       "title": "Form 8.3 Prologis, Inc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-prologis-inc-155400900.html?.tsrc=rss",
-      "published": "Wed, 25 Nov 2026 15:54:00 +0000",
-      "summary": "LONDON, November 25, 2026-- FORM 8.3",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-prologis-inc-134000853.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 13:40:00 +0000",
+      "summary": "LONDON, November 26, 2026-- FORM 8.3",
       "is_signal": false
     },
     {
@@ -205,9 +205,9 @@
       "source": "PLD",
       "category": "reit",
       "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-121100999.html?.tsrc=rss",
-      "published": "Wed, 25 Nov 2026 12:11:00 +0000",
-      "summary": "LONDON, November 25, 2026-- FORM 8.3",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-115000679.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 11:50:00 +0000",
+      "summary": "LONDON, November 26, 2026-- FORM 8.3",
       "is_signal": false
     },
     {
@@ -216,8 +216,8 @@
       "source": "PLD",
       "category": "reit",
       "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-094400836.html?.tsrc=rss",
-      "published": "Wed, 25 Nov 2026 09:44:00 +0000",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-094800973.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 09:48:00 +0000",
       "summary": "FORM 8.3 PUBLIC OPENING POSITION DISCLOSURE/DEALING DISCLOSURE BYA PERSON WITH INTERESTS IN RELEVANT SECURITIES REPRESENTING 1% OR MORERule 8.3 of the Takeover Code (the \u201cCode\u201d) 1.KEY INFORMATION (a)Full name of discloser:Dimensional Fund Advisors Ltd. whose parent is Dimensional Fund Advisors LP, a\u2026",
       "is_signal": false
     },
@@ -230,6 +230,17 @@
       "link": "https://finance.yahoo.com/real-estate/articles/chiron-real-estate-appoints-philip-212100738.html?.tsrc=rss",
       "published": "Tue, 24 Nov 2026 21:21:00 +0000",
       "summary": "BETHESDA, Md., November 24, 2026--Chiron Real Estate Inc. (NYSE: XRN) (the \"Company\" or \"Chiron\") announced today the appointment of Philip L. Hawkins to its Board of Directors (the \"Board\"), effective immediately. Mr. Hawkins will serve as a member of the Board\u2019s Audit and Compensation Committees.",
+      "is_signal": false
+    },
+    {
+      "ticker": "EGP",
+      "company": "EastGroup Properties",
+      "source": "EGP",
+      "category": "reit",
+      "title": "SHO or EGP: Which Is the Better Value Stock Right Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sho-egp-better-value-stock-154003953.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 15:40:03 +0000",
+      "summary": "SHO vs. EGP: Which Stock Is the Better Value Option?",
       "is_signal": false
     },
     {
@@ -263,17 +274,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/pine-vs-egp-stock-better-154003901.html?.tsrc=rss",
       "published": "Mon, 09 Nov 2026 15:40:03 +0000",
       "summary": "PINE vs. EGP: Which Stock Is the Better Value Option?",
-      "is_signal": false
-    },
-    {
-      "ticker": "EGP",
-      "company": "EastGroup Properties",
-      "source": "EGP",
-      "category": "reit",
-      "title": "EastGroup Properties: 3 Key Takeaways for Long-Term Investors",
-      "link": "https://www.fool.com/earnings/takeaways/2026/10/30/eastgroup-properties-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
-      "published": "Fri, 30 Oct 2026 15:20:02 +0000",
-      "summary": "While competitors struggle with capital constraints, EastGroup's financial strength is reshaping its competitive position.",
       "is_signal": false
     },
     {
@@ -941,10 +941,21 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "APM Terminals plans 1.4m teu expansion at Rotterdam\u2019s Maasvlakte II",
-      "link": "https://theloadstar.com/apm-terminals-plans-1-4m-teu-expansion-at-rotterdams-maasvlakte-ii/",
-      "published": "Wed, 25 Nov 2026 12:43:26 +0000",
-      "summary": "<p>APM Terminals and the port of Rotterdam have unveiled plans to add a further 1.4m teu of capacity to the operator\u2019s flagship Maasvlakte II facility in the Dutch hub.<br />\nWith the terminal\u2019s first phase of expansion recently completed, the new second phase will see a further 711 metres of quay b\u2026",
+      "title": "Green shipping needs global, rather than costlier regional, rules",
+      "link": "https://theloadstar.com/green-shipping-needs-global-rather-than-costlier-regional-rules/",
+      "published": "Thu, 26 Nov 2026 13:15:58 +0000",
+      "summary": "<p>Surrendering the governance of maritime decarbonisation to fragmented and regional regulations could ultimately prove more expensive for the industry than a globally agreed framework, according to US Federal Maritime Commission chair Laura Di Bella.<br />\nSpeaking to The Loadstar on the sidelines\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Loadstar",
+      "category": "sector",
+      "title": "Nvidia halts server shipments to Asian markets as new US export rules bite",
+      "link": "https://theloadstar.com/nvidia-halts-server-shipments-to-asian-markets-as-new-us-export-rules-bite/",
+      "published": "Thu, 26 Nov 2026 12:56:46 +0000",
+      "summary": "<p>Is it the beginning of the end for airfreight\u2019s new best friend? Following new US export controls, Nvidia has reportedly told its manufacturing partners to stop shipping servers containing its chips to Malaysia, Singapore, Thailand, and Indonesia.</p>\n<p>According to the UK Financial Times today,\u2026",
       "is_signal": false
     },
     {
@@ -952,10 +963,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Maersk warns of UK logistics bottlenecks as port congestion persists globally",
-      "link": "https://theloadstar.com/maersk-warns-of-uk-logistics-bottlenecks-as-port-congestion-persists-globally/",
-      "published": "Wed, 25 Nov 2026 12:41:59 +0000",
-      "summary": "<p>Maersk has warned customers of continued disruption across its UK and Ireland logistics network, as high import volumes and a combination of port and inland transport bottlenecks hamper efforts to clear cargo backlogs.<br />\nIn a customer advisory yesterday, the Danish carrier said sustained high\u2026",
+      "title": "Cargo crime gangs are patient, and they \u2018plan around the calendar\u2019",
+      "link": "https://theloadstar.com/cargo-crime-gangs-are-patient-and-they-plan-around-the-calendar/",
+      "published": "Thu, 26 Nov 2026 12:30:04 +0000",
+      "summary": "<p>Criminals posing as truck drivers and dispatchers are infiltrating US haulage firms to steal shipments, with data centre hardware and metals among the most sought-after commodities this year.<br />\nIn its Thanksgiving cargo theft warning, Verisk CargoNet said criminals were exploiting staff short\u2026",
       "is_signal": true
     },
     {
@@ -963,10 +974,10 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Cargo owners will foot the bill for IMO net-zero framework, warns FMC chair",
-      "link": "https://theloadstar.com/cargo-owners-will-foot-the-bill-for-imo-net-zero-framework-warns-fmc-chair/",
-      "published": "Wed, 25 Nov 2026 12:34:29 +0000",
-      "summary": "<p>Maritime decarbonisation costs will ultimately be passed on to cargo owners under the present structuring of the proposed IMO Net-Zero Framework, according to the Federal Maritime Commission\u2019s (FMC) chair Laura Di Bella.<br />\nWith industry leaders backing her assessment, Ms Di Bella said the com\u2026",
+      "title": "\u2018Aramex + Noatum\u2019 \u2013 what I thought I knew and then I didn\u2019t",
+      "link": "https://theloadstar.com/aramex-noatum-what-i-thought-i-knew-and-then-i-didnt/",
+      "published": "Thu, 26 Nov 2026 12:26:14 +0000",
+      "summary": "<p>What one M&#38;A hunter cannot buy, it builds.<br />\nWell, kind of.<br />\nThere&#8217;s a hybrid inbound M&#38;A playbook worth looking at, too, these days.<br />\nTake Abu Dhabi Developmental Holding Company (ADQ), the state-owned sovereign investment vehicle that earlier this year was consolidat\u2026",
       "is_signal": true
     },
     {
@@ -974,33 +985,11 @@
       "company": null,
       "source": "The Loadstar",
       "category": "sector",
-      "title": "Smaller forwarders struggle to secure alternative terms under IATA air waybill rules",
-      "link": "https://theloadstar.com/smaller-forwarders-struggle-to-secure-alternative-terms-under-iata-air-waybill-rules/",
-      "published": "Wed, 25 Nov 2026 12:30:50 +0000",
-      "summary": "<p>Some airlines are agreeing alternative liability terms with larger freight forwarders under IATA\u2019s revised direct air waybill (DAWB) framework, but smaller firms have little leverage to secure similar arrangements, the Airforwarders Association (AfA) has warned.\u00a0<br />\n\u201cIf an airline says no, the\u2026",
+      "title": "Cosco looks forward to fleet expansion as revenue and profits rise",
+      "link": "https://theloadstar.com/cosco-looks-forward-to-fleet-expansion-as-revenue-and-profits-rise/",
+      "published": "Thu, 26 Nov 2026 12:07:47 +0000",
+      "summary": "<p>Cosco Shipping Lines is pushing ahead with one of the industry&#8217;s largest newbuilding programmes, seemingly unperturbed by overcapacity concerns.<br />\nCurrently, Cosco and subsidiary OOCL have ordered 100 vessels, for around 1.46m teu of new capacity, as well as leases for vessels under con\u2026",
       "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Loadstar",
-      "category": "sector",
-      "title": "The \u2018Bollor\u00e9isation\u2019 of Ceva Logistics is finally underway",
-      "link": "https://theloadstar.com/the-bolloreisation-of-ceva-logistics-is-finally-underway/",
-      "published": "Wed, 25 Nov 2026 12:14:04 +0000",
-      "summary": "<p>The message is loud and clear: Ceva Logistics has embarked on another comprehensive corporate restructuring that looks &#8220;in essence, more Teutonic than Nordic&#8221;, sources say.<br />\n(By way of background: I guess you recall &#8216;No stone will be left unturned&#8216; coverage published \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Punch",
-      "category": "broad",
-      "title": "Rising demand drives Africa\u2019s logistics property boom",
-      "link": "https://punchng.com/rising-demand-drives-africas-logistics-property-boom/",
-      "published": "2026-10-26T00:07:16Z",
-      "summary": "Rising demand from e-commerce and manufacturing is driving a logistics property boom across Africa, a new report by Fortren & Company has revealed.\n\nRead More: https://punchng.com/rising-demand-drives-africas-logistics-property-boom/",
-      "is_signal": true
     },
     {
       "ticker": null,
@@ -1071,35 +1060,13 @@
     {
       "ticker": null,
       "company": null,
-      "source": "Digitimes",
+      "source": "Economictimes.com",
       "category": "broad",
-      "title": "Column: Robot actuators expose supply-chain bottlenecks",
-      "link": "https://www.digitimes.com/news/a20261125PD202/robot-supply-chain-industrial-market.html",
-      "published": "2026-11-25T03:14:39Z",
-      "summary": "The robot industry spans a multilayered supply chain covering precision machinery, electrical systems, sensing, control, computing, system integration, and applications. Across robot types, actuators remain the most important core component and account for th\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Biztoc.com",
-      "category": "broad",
-      "title": "Industrial labor group to seek \u00a517,000 pay scale hike",
-      "link": "https://biztoc.com/x/7a284fe30f065785",
-      "published": "2026-11-25T03:00:25Z",
-      "summary": "The Japanese Association of Metal, Machinery and Manufacturing Workers (JAM) has decided to call for a pay scale increase of at least \u00a517,000 ($107) per month in the 2027 shunt\u014d (spring wage negotiations), sources said Tuesday.\nJAM, the fifth-largest industri\u2026",
+      "title": "Artha Energy Resources rebrands as Adhvanik Energy, sharpens focus on AI-led industrial clean energy",
+      "link": "https://m.economictimes.com/industry/renewables/artha-energy-resources-rebrands-as-adhvanik-energy-sharpens-focus-on-ai-led-industrial-clean-energy/articleshow/136177363.cms",
+      "published": "2026-11-26T03:30:10Z",
+      "summary": "Adhvanik Energy has transitioned from installation-focused renewable energy to integrated energy solutions for industrial clients. The company aims to help manufacturers reduce costs and enhance energy efficiency using technology and AI. Adhvanik has develope\u2026",
       "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Digitimes",
-      "category": "broad",
-      "title": "Beijing extends critical mineral reprieve as Washington prepares new subsidy tariffs",
-      "link": "https://www.digitimes.com/news/a20261125VL215/us-china-trade-war-beijing-materials-supply-chain-tariffs-2026.html",
-      "published": "2026-11-25T02:34:09Z",
-      "summary": "In a pivotal week for global trade, the US and China are deploying contrasting economic levers that underscore the balance between supply chain interdependence and escalating protectionism. While Beijing has moved to ease short-term supply pressures by extend\u2026",
-      "is_signal": true
     }
   ],
   "weekly_report": null,
